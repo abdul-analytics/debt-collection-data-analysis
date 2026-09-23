@@ -1,0 +1,279 @@
+flag_id,account_id,date_raised,flag_type,severity,resolution_status,reviewed_by_qa
+CMP00001,DC100546,2026-08-19,Data Breach Risk,medium,Escalated,Y
+CMP00002,DC100628,2025-04-12,Affordability Not Assessed,High,Under Review,Y
+CMP00003,DC100001,2025-04-15,Harassment Complaint,HIGH,Escalated,Y
+CMP00004,DC100856,2025-05-17,Recording Consent Missing,Critical,Escalated,Y
+CMP00005,DC100805,28/09/2025,Incorrect Balance Quoted,Medium,Escalated,Y
+CMP00006,DC100805,12/19/2024,Data Breach Risk,Medium,Resolved,Y
+CMP00007,DC101061,2024-10-01,Missed DSAR Deadline,High,Open,Y
+CMP00008,DC101061,2025-11-01,Harassment Complaint,Medium,Open,Y
+CMP00009,DC100615,2026-02-23,Incorrect Balance Quoted,Low,Closed - No Action,Y
+CMP00010,DC100307,2025-11-26,Third Party Disclosure Risk,Medium,Escalated,
+CMP00011,DC100697,30/05/2025,Third Party Disclosure Risk,HIGH,Escalated,Y
+CMP00012,DC100697,01/06/2025,Recording Consent Missing,Medium,Escalated,Y
+CMP00013,DC100697,20/02/2025,Recording Consent Missing,Medium,Resolved,Y
+CMP00014,DC100444,2026-06-25,Recording Consent Missing,Low,Resolved,Y
+CMP00015,DC100331,2026-05-26,Harassment Complaint,medium,Under Review,Y
+CMP00016,DC101056,2026-03-27,Data Breach Risk,Medium,Escalated,Y
+CMP00017,DC101056,06-07-2025,Data Breach Risk,High,Closed - No Action,Y
+CMP00018,DC100387,2025-07-11,Harassment Complaint,Medium,Under Review,N
+CMP00019,DC100813,2026-06-11,Incorrect Balance Quoted,High,Resolved,Y
+CMP00020,DC101192,2025-11-27,Affordability Not Assessed,HIGH,Open,Y
+CMP00021,DC100476,2026-01-30,Harassment Complaint,High,Resolved,Y
+CMP00022,DC100012,06/01/2025,Affordability Not Assessed,medium,Resolved,Y
+CMP00023,DC100012,2025-09-13,Recording Consent Missing,medium,Open,Y
+CMP00024,DC101134,09/14/2025,Third Party Disclosure Risk,medium,Open,N
+CMP00025,DC101134,2025-05-06,Data Breach Risk,medium,Escalated,Y
+CMP00026,DC101134,2025-07-12,Data Breach Risk,HIGH,Resolved,
+CMP00027,DC100062,2024-09-28,Recording Consent Missing,Low,Escalated,Y
+CMP00028,DC100151,24-08-2026,Third Party Disclosure Risk,High,Under Review,Y
+CMP00029,DC100201,2025-07-13,Missed DSAR Deadline,medium,Resolved,Y
+CMP00030,DC100201,05/01/2026,Incorrect Balance Quoted,Critical,Escalated,Y
+CMP00031,DC101108,23/05/2026,Missed DSAR Deadline,High,Resolved,N
+CMP00032,DC101003,2025-05-02,Consumer Duty - Unfair Outcome Risk,Critical,Closed - No Action,Y
+CMP00033,DC100359,2025-07-24,Incorrect Balance Quoted,Low,Open,Y
+CMP00034,DC100233,10/08/2025,Third Party Disclosure Risk,Low,Escalated,Y
+CMP00035,DC100389,2025-04-23,Harassment Complaint,HIGH,Closed - No Action,Y
+CMP00036,DC101163,2026-06-09,Affordability Not Assessed,Medium,Escalated,Y
+CMP00037,DC101114,09-01-2025,Data Breach Risk,HIGH,Escalated,Y
+CMP00038,DC100388,23/07/2025,Vulnerable Customer Not Escalated,High,Escalated,Y
+CMP00039,DC100388,2026-07-21,Affordability Not Assessed,Medium,Resolved,Y
+CMP00040,DC100388,01/10/2024,Consumer Duty - Unfair Outcome Risk,Low,Resolved,Y
+CMP00041,DC100035,2025-02-09,Missed DSAR Deadline,HIGH,Open,Y
+CMP00042,DC100337,2026-04-23,Third Party Disclosure Risk,Low,Open,N
+CMP00043,DC100074,04/11/2024,Third Party Disclosure Risk,medium,Closed - No Action,Y
+CMP00044,DC100060,2025-09-20,Recording Consent Missing,Low,Under Review,N
+CMP00045,DC100725,2024-10-09,Third Party Disclosure Risk,High,Resolved,N
+CMP00046,DC100725,18-06-2025,Affordability Not Assessed,High,Open,Y
+CMP00047,DC100877,11-02-2025,Missed DSAR Deadline,HIGH,Resolved,Y
+CMP00048,DC100700,23/09/2024,Vulnerable Customer Not Escalated,Low,Escalated,Y
+CMP00049,DC100700,2025-08-06,Consumer Duty - Unfair Outcome Risk,High,Under Review,
+CMP00050,DC100917,2026-01-26,Recording Consent Missing,HIGH,Resolved,Y
+CMP00051,DC100416,2025-12-24,Consumer Duty - Unfair Outcome Risk,Critical,Resolved,
+CMP00052,DC101100,2024-11-24,Data Breach Risk,Medium,Escalated,Y
+CMP00053,DC100879,2025-09-15,Vulnerable Customer Not Escalated,Low,Resolved,Y
+CMP00054,DC100253,2024-11-27,Missed DSAR Deadline,HIGH,Closed - No Action,Y
+CMP00055,DC100836,07/24/2025,Affordability Not Assessed,Low,Open,Y
+CMP00056,DC100098,2025-05-29,Data Breach Risk,High,Escalated,Y
+CMP00057,DC100157,2025-08-05,Recording Consent Missing,HIGH,Under Review,N
+CMP00058,DC101117,2024-11-03,Affordability Not Assessed,Medium,Escalated,Y
+CMP00059,DC100880,2024-12-22,Vulnerable Customer Not Escalated,High,Open,Y
+CMP00060,DC100144,2025-03-24,Incorrect Balance Quoted,HIGH,Under Review,N
+CMP00061,DC100222,2024-11-13,Data Breach Risk,HIGH,Closed - No Action,Y
+CMP00062,DC100500,03/17/2025,Data Breach Risk,Critical,Escalated,Y
+CMP00063,DC100500,2025-05-14,Data Breach Risk,HIGH,Resolved,Y
+CMP00064,DC100884,2025-08-07,Missed DSAR Deadline,Low,Escalated,N
+CMP00065,DC100555,03/31/2025,Affordability Not Assessed,High,Under Review,Y
+CMP00066,DC100122,2026-02-17,Harassment Complaint,Medium,Escalated,Y
+CMP00067,DC100847,24/08/2026,Vulnerable Customer Not Escalated,Low,Open,Y
+CMP00068,DC100682,05-03-2026,Missed DSAR Deadline,Medium,Under Review,Y
+CMP00069,DC100066,2025-06-12,Affordability Not Assessed,Medium,Escalated,Y
+CMP00070,DC100066,2024-11-29,Recording Consent Missing,medium,Under Review,Y
+CMP00071,DC100740,2026-05-02,Third Party Disclosure Risk,High,Closed - No Action,Y
+CMP00072,DC100155,02/06/2026,Incorrect Balance Quoted,Critical,Escalated,N
+CMP00073,DC101049,2026-09-06,Harassment Complaint,Low,Escalated,
+CMP00074,DC101049,2025-08-25,Missed DSAR Deadline,Medium,Under Review,Y
+CMP00075,DC101049,2024-10-29,Affordability Not Assessed,medium,Escalated,N
+CMP00076,DC100636,2026-02-26,Missed DSAR Deadline,HIGH,Resolved,Y
+CMP00077,DC100096,2024-12-18,Incorrect Balance Quoted,Critical,Closed - No Action,Y
+CMP00078,DC100607,29/07/2026,Data Breach Risk,Low,Closed - No Action,Y
+CMP00079,DC101012,2024-11-17,Vulnerable Customer Not Escalated,medium,Closed - No Action,Y
+CMP00080,DC101012,2025-12-30,Third Party Disclosure Risk,Medium,Escalated,N
+CMP00081,DC101000,2025-10-05,Incorrect Balance Quoted,Critical,Open,Y
+CMP00082,DC101000,2025-11-11,Consumer Duty - Unfair Outcome Risk,High,Escalated,N
+CMP00083,DC100495,2025-07-05,Consumer Duty - Unfair Outcome Risk,HIGH,Escalated,Y
+CMP00084,DC100495,2026-08-21,Affordability Not Assessed,High,Closed - No Action,Y
+CMP00085,DC100726,2026-08-01,Data Breach Risk,Medium,Resolved,N
+CMP00086,DC100483,28/05/2026,Missed DSAR Deadline,High,Closed - No Action,Y
+CMP00087,DC100483,2025-07-10,Missed DSAR Deadline,Medium,Resolved,Y
+CMP00088,DC100483,02/22/2025,Third Party Disclosure Risk,medium,Under Review,Y
+CMP00089,DC100248,2025-05-17,Incorrect Balance Quoted,Medium,Resolved,Y
+CMP00090,DC101050,2026-06-24,Data Breach Risk,HIGH,Resolved,Y
+CMP00091,DC101084,2025-10-27,Harassment Complaint,High,Under Review,Y
+CMP00092,DC100619,2025-02-08,Missed DSAR Deadline,Low,Open,
+CMP00093,DC100943,11/05/2025,Harassment Complaint,Critical,Open,N
+CMP00094,DC100601,2025-12-04,Harassment Complaint,Low,Escalated,Y
+CMP00095,DC100131,2025-03-30,Harassment Complaint,HIGH,Escalated,Y
+CMP00096,DC100795,19/01/2026,Missed DSAR Deadline,Critical,Resolved,N
+CMP00097,DC100795,2025-08-19,Missed DSAR Deadline,Critical,Escalated,Y
+CMP00098,DC100795,2025-10-22,Third Party Disclosure Risk,Critical,Under Review,Y
+CMP00099,DC100459,09/25/2024,Data Breach Risk,HIGH,Closed - No Action,Y
+CMP00100,DC100374,01/31/2026,Data Breach Risk,High,Open,N
+CMP00101,DC100338,2024-10-25,Harassment Complaint,Medium,Open,N
+CMP00102,DC101079,01-02-2025,Recording Consent Missing,Low,Escalated,N
+CMP00103,DC100641,2025-03-15,Incorrect Balance Quoted,HIGH,Resolved,Y
+CMP00104,DC100641,03/15/2026,Harassment Complaint,High,Resolved,N
+CMP00105,DC100727,02/09/2025,Data Breach Risk,Low,Under Review,Y
+CMP00106,DC100833,30/08/2025,Third Party Disclosure Risk,HIGH,Open,N
+CMP00107,DC100458,2026-03-04,Third Party Disclosure Risk,High,Resolved,Y
+CMP00108,DC100472,2025-10-18,Harassment Complaint,Medium,Open,N
+CMP00109,DC100472,16-03-2025,Affordability Not Assessed,HIGH,Open,Y
+CMP00110,DC100866,24-09-2024,Recording Consent Missing,medium,Closed - No Action,N
+CMP00111,DC100835,30/12/2025,Missed DSAR Deadline,Medium,Open,Y
+CMP00112,DC100011,2025-11-03,Third Party Disclosure Risk,Critical,Closed - No Action,N
+CMP00113,DC100011,2025-01-17,Harassment Complaint,HIGH,Closed - No Action,N
+CMP00114,DC100377,02/12/2025,Missed DSAR Deadline,Critical,Escalated,Y
+CMP00115,DC100457,2025-07-30,Affordability Not Assessed,Critical,Under Review,N
+CMP00116,DC100688,2025-03-14,Affordability Not Assessed,medium,Resolved,Y
+CMP00117,DC100301,02/04/2025,Data Breach Risk,Medium,Closed - No Action,Y
+CMP00118,DC100301,06/05/2026,Vulnerable Customer Not Escalated,Low,Escalated,N
+CMP00119,DC100301,2026-02-03,Missed DSAR Deadline,HIGH,Escalated,N
+CMP00120,DC100190,02/12/2025,Third Party Disclosure Risk,High,Open,Y
+CMP00121,DC101020,2025-09-02,Affordability Not Assessed,HIGH,Under Review,
+CMP00122,DC101176,2026-04-13,Third Party Disclosure Risk,Low,Closed - No Action,N
+CMP00123,DC100275,2024-12-25,Affordability Not Assessed,Critical,Under Review,Y
+CMP00124,DC100217,04/11/2025,Affordability Not Assessed,medium,Escalated,Y
+CMP00125,DC100242,2026-06-06,Consumer Duty - Unfair Outcome Risk,HIGH,Escalated,
+CMP00126,DC101144,2025-04-17,Affordability Not Assessed,medium,Closed - No Action,Y
+CMP00127,DC100358,2024-10-18,Data Breach Risk,Critical,Open,Y
+CMP00128,DC101095,06/12/2026,Data Breach Risk,Low,Resolved,Y
+CMP00129,DC100143,21/07/2026,Vulnerable Customer Not Escalated,Medium,Resolved,Y
+CMP00130,DC100508,11-05-2025,Consumer Duty - Unfair Outcome Risk,Low,Resolved,Y
+CMP00131,DC100057,28/03/2026,Affordability Not Assessed,Low,Escalated,Y
+CMP00132,DC100057,2026-05-05,Incorrect Balance Quoted,HIGH,Under Review,Y
+CMP00133,DC100661,2026-07-30,Data Breach Risk,medium,Escalated,Y
+CMP00134,DC100152,2026-07-02,Vulnerable Customer Not Escalated,HIGH,Closed - No Action,Y
+CMP00135,DC100042,2025-08-20,Recording Consent Missing,Medium,Under Review,N
+CMP00136,DC100318,2025-12-12,Affordability Not Assessed,Critical,Escalated,
+CMP00137,DC100318,25-11-2025,Vulnerable Customer Not Escalated,High,Closed - No Action,Y
+CMP00138,DC100929,2025-02-02,Data Breach Risk,HIGH,Resolved,Y
+CMP00139,DC100929,2025-01-18,Vulnerable Customer Not Escalated,medium,Closed - No Action,Y
+CMP00140,DC100929,29/08/2025,Third Party Disclosure Risk,Medium,Closed - No Action,Y
+CMP00141,DC100176,2025-03-10,Vulnerable Customer Not Escalated,High,Closed - No Action,Y
+CMP00142,DC100037,2026-07-29,Incorrect Balance Quoted,Critical,Closed - No Action,N
+CMP00143,DC100721,13-01-2025,Affordability Not Assessed,Medium,Under Review,Y
+CMP00144,DC100721,2026-02-25,Vulnerable Customer Not Escalated,Low,Escalated,N
+CMP00145,DC101067,2026-06-11,Third Party Disclosure Risk,medium,Closed - No Action,N
+CMP00146,DC100180,2026-01-06,Recording Consent Missing,Low,Closed - No Action,N
+CMP00147,DC100180,2024-10-23,Vulnerable Customer Not Escalated,Low,Escalated,Y
+CMP00148,DC100180,12-03-2025,Harassment Complaint,HIGH,Resolved,
+CMP00149,DC100544,2025-01-30,Incorrect Balance Quoted,medium,Closed - No Action,Y
+CMP00150,DC100942,2025-11-11,Consumer Duty - Unfair Outcome Risk,Critical,Under Review,Y
+CMP00151,DC101178,2025-03-21,Incorrect Balance Quoted,HIGH,Escalated,N
+CMP00152,DC100860,2026-09-09,Recording Consent Missing,Low,Closed - No Action,Y
+CMP00153,DC100106,06-11-2024,Missed DSAR Deadline,medium,Open,Y
+CMP00154,DC100773,2025-12-11,Recording Consent Missing,Low,Escalated,N
+CMP00155,DC100288,04/03/2025,Vulnerable Customer Not Escalated,High,Escalated,Y
+CMP00156,DC100288,22/04/2026,Third Party Disclosure Risk,Medium,Under Review,Y
+CMP00157,DC100499,2025-09-29,Affordability Not Assessed,medium,Escalated,
+CMP00158,DC100445,04/20/2025,Harassment Complaint,medium,Closed - No Action,Y
+CMP00159,DC100073,2025-02-21,Recording Consent Missing,High,Closed - No Action,N
+CMP00160,DC100073,2025-04-23,Incorrect Balance Quoted,medium,Under Review,
+CMP00161,DC100524,12/01/2026,Vulnerable Customer Not Escalated,High,Under Review,Y
+CMP00162,DC100940,02-12-2025,Recording Consent Missing,High,Resolved,Y
+CMP00163,DC101182,2025-10-06,Harassment Complaint,Low,Under Review,Y
+CMP00164,DC101182,2026-06-27,Incorrect Balance Quoted,High,Escalated,Y
+CMP00165,DC100923,26/09/2024,Missed DSAR Deadline,Medium,Escalated,N
+CMP00166,DC100828,21/01/2026,Missed DSAR Deadline,Low,Under Review,Y
+CMP00167,DC100828,2025-05-18,Missed DSAR Deadline,Low,Closed - No Action,N
+CMP00168,DC100828,2025-05-11,Incorrect Balance Quoted,Critical,Resolved,Y
+CMP00169,DC100690,2024-11-20,Vulnerable Customer Not Escalated,Medium,Open,Y
+CMP00170,DC100545,2026-05-24,Vulnerable Customer Not Escalated,medium,Resolved,Y
+CMP00171,DC100405,2026-02-02,Harassment Complaint,Low,Escalated,N
+CMP00172,DC100535,21/12/2024,Harassment Complaint,Medium,Closed - No Action,N
+CMP00173,DC100535,29/06/2025,Recording Consent Missing,Medium,Escalated,N
+CMP00174,DC100790,16-07-2026,Incorrect Balance Quoted,Critical,Resolved,Y
+CMP00175,DC100790,07-08-2025,Recording Consent Missing,Low,Under Review,N
+CMP00176,DC100561,2025-08-02,Vulnerable Customer Not Escalated,Medium,Under Review,Y
+CMP00177,DC100666,2026-02-02,Missed DSAR Deadline,medium,Closed - No Action,Y
+CMP00178,DC101037,2025-12-15,Harassment Complaint,HIGH,Resolved,N
+CMP00179,DC100319,2025-02-13,Missed DSAR Deadline,Low,Escalated,Y
+CMP00180,DC100664,17/08/2026,Consumer Duty - Unfair Outcome Risk,Critical,Under Review,N
+CMP00181,DC100530,19/12/2024,Vulnerable Customer Not Escalated,Critical,Open,Y
+CMP00182,DC100826,22/09/2024,Harassment Complaint,Medium,Under Review,Y
+CMP00183,DC100826,17/05/2026,Harassment Complaint,Medium,Escalated,Y
+CMP00184,DC100422,15-04-2026,Incorrect Balance Quoted,Medium,Resolved,Y
+CMP00185,DC100977,04/09/2026,Missed DSAR Deadline,Critical,Escalated,Y
+CMP00186,DC100426,21-02-2025,Data Breach Risk,Medium,Escalated,Y
+CMP00187,DC100509,2025-01-10,Data Breach Risk,Critical,Escalated,Y
+CMP00188,DC100450,04/04/2026,Missed DSAR Deadline,medium,Open,N
+CMP00189,DC100021,30-07-2025,Affordability Not Assessed,Medium,Resolved,Y
+CMP00190,DC100086,2025-12-18,Recording Consent Missing,medium,Escalated,Y
+CMP00191,DC100086,2026-04-08,Affordability Not Assessed,Critical,Escalated,Y
+CMP00192,DC100015,2026-07-15,Affordability Not Assessed,Critical,Under Review,N
+CMP00193,DC100558,12/09/2025,Consumer Duty - Unfair Outcome Risk,High,Closed - No Action,Y
+CMP00194,DC100558,25-08-2025,Harassment Complaint,Low,Resolved,Y
+CMP00195,DC100558,25/02/2025,Incorrect Balance Quoted,Low,Under Review,
+CMP00196,DC100935,2026-08-02,Incorrect Balance Quoted,HIGH,Escalated,N
+CMP00197,DC100203,17/07/2025,Missed DSAR Deadline,High,Under Review,Y
+CMP00198,DC100781,2026-03-01,Consumer Duty - Unfair Outcome Risk,High,Closed - No Action,Y
+CMP00199,DC100830,10/02/2026,Missed DSAR Deadline,medium,Closed - No Action,Y
+CMP00200,DC100311,14/10/2024,Affordability Not Assessed,medium,Open,Y
+CMP00201,DC100583,2025-07-06,Consumer Duty - Unfair Outcome Risk,Critical,Under Review,Y
+CMP00202,DC100362,2026-07-26,Vulnerable Customer Not Escalated,Low,Escalated,Y
+CMP00203,DC100750,04/03/2026,Missed DSAR Deadline,Low,Closed - No Action,Y
+CMP00204,DC100507,10/10/2024,Data Breach Risk,Low,Resolved,
+CMP00205,DC100258,04/25/2026,Missed DSAR Deadline,Medium,Under Review,
+CMP00206,DC101078,22/09/2024,Harassment Complaint,Medium,Resolved,Y
+CMP00207,DC100183,30/10/2025,Data Breach Risk,medium,Escalated,Y
+CMP00208,DC100591,28/10/2024,Incorrect Balance Quoted,HIGH,Open,Y
+CMP00209,DC100025,2025-06-21,Data Breach Risk,medium,Resolved,N
+CMP00210,DC100025,2024-10-15,Recording Consent Missing,Low,Under Review,Y
+CMP00211,DC100008,10/12/2025,Affordability Not Assessed,Low,Open,Y
+CMP00212,DC100223,2025-01-21,Vulnerable Customer Not Escalated,Medium,Resolved,Y
+CMP00213,DC100184,2025-09-20,Data Breach Risk,Medium,Closed - No Action,Y
+CMP00214,DC100279,2025-04-28,Missed DSAR Deadline,Critical,Closed - No Action,Y
+CMP00215,DC100705,2025-12-21,Missed DSAR Deadline,High,Closed - No Action,Y
+CMP00216,DC101030,20-11-2024,Harassment Complaint,Critical,Closed - No Action,Y
+CMP00217,DC100210,2026-05-11,Recording Consent Missing,Medium,Under Review,Y
+CMP00218,DC101097,2025-12-28,Harassment Complaint,High,Open,N
+CMP00219,DC101014,17/04/2026,Affordability Not Assessed,Critical,Resolved,Y
+CMP00220,DC100599,2025-04-23,Consumer Duty - Unfair Outcome Risk,Low,Resolved,Y
+CMP00221,DC100622,28/10/2024,Affordability Not Assessed,HIGH,Under Review,Y
+CMP00222,DC100792,07/03/2026,Affordability Not Assessed,Medium,Open,Y
+CMP00223,DC100713,04/04/2025,Harassment Complaint,Low,Under Review,Y
+CMP00224,DC100853,2026-01-23,Missed DSAR Deadline,HIGH,Resolved,Y
+CMP00225,DC100853,12/06/2026,Third Party Disclosure Risk,High,Closed - No Action,Y
+CMP00226,DC100485,2025-08-29,Consumer Duty - Unfair Outcome Risk,medium,Resolved,Y
+CMP00227,DC100091,2026-03-24,Third Party Disclosure Risk,Low,Resolved,N
+CMP00228,DC101011,2025-09-22,Consumer Duty - Unfair Outcome Risk,Critical,Closed - No Action,Y
+CMP00229,DC100077,2025-07-27,Third Party Disclosure Risk,Low,Open,Y
+CMP00230,DC100077,2025-07-22,Data Breach Risk,medium,Resolved,Y
+CMP00231,DC100534,2025-06-16,Consumer Duty - Unfair Outcome Risk,medium,Under Review,Y
+CMP00232,DC100973,24-07-2026,Affordability Not Assessed,Low,Resolved,Y
+CMP00233,DC100973,05/24/2026,Data Breach Risk,medium,Under Review,Y
+CMP00234,DC100973,28-07-2025,Vulnerable Customer Not Escalated,Critical,Resolved,Y
+CMP00235,DC100400,2025-01-14,Incorrect Balance Quoted,medium,Escalated,
+CMP00236,DC100934,2026-05-24,Consumer Duty - Unfair Outcome Risk,Critical,Under Review,Y
+CMP00237,DC100753,16-03-2025,Consumer Duty - Unfair Outcome Risk,medium,Under Review,N
+CMP00238,DC100167,2025-07-10,Consumer Duty - Unfair Outcome Risk,medium,Closed - No Action,Y
+CMP00239,DC100523,2026-04-27,Missed DSAR Deadline,Medium,Open,Y
+CMP00240,DC100484,2026-01-13,Consumer Duty - Unfair Outcome Risk,medium,Resolved,Y
+CMP00241,DC100484,2025-06-06,Recording Consent Missing,Medium,Closed - No Action,N
+CMP00242,DC100766,27-05-2026,Third Party Disclosure Risk,medium,Open,N
+CMP00243,DC100766,30-04-2026,Data Breach Risk,HIGH,Closed - No Action,N
+CMP00244,DC100491,2025-07-09,Incorrect Balance Quoted,medium,Under Review,Y
+CMP00245,DC100658,14-08-2026,Affordability Not Assessed,High,Closed - No Action,Y
+CMP00246,DC100720,2025-03-29,Incorrect Balance Quoted,medium,Closed - No Action,N
+CMP00247,DC100539,15/07/2025,Incorrect Balance Quoted,Medium,Escalated,N
+CMP00248,DC100339,2024-11-10,Consumer Duty - Unfair Outcome Risk,medium,Resolved,Y
+CMP00249,DC100259,10/11/2025,Affordability Not Assessed,Low,Under Review,Y
+CMP00250,DC100313,2025-04-02,Incorrect Balance Quoted,Medium,Closed - No Action,Y
+CMP00251,DC100313,2025-11-25,Harassment Complaint,Critical,Closed - No Action,Y
+CMP00252,DC100616,2026-01-01,Harassment Complaint,High,Under Review,N
+CMP00253,DC100939,2025-02-18,Consumer Duty - Unfair Outcome Risk,HIGH,Open,Y
+CMP00254,DC100829,2025-10-04,Third Party Disclosure Risk,Critical,Escalated,Y
+CMP00255,DC100829,2025-02-24,Harassment Complaint,medium,Open,N
+CMP00256,DC100793,20/11/2025,Harassment Complaint,High,Escalated,Y
+CMP00257,DC100116,2026-04-02,Recording Consent Missing,Low,Closed - No Action,N
+CMP00258,DC100116,2026-01-26,Missed DSAR Deadline,HIGH,Open,Y
+CMP00259,DC100116,2026-03-17,Missed DSAR Deadline,HIGH,Resolved,Y
+CMP00260,DC100998,2026-05-21,Incorrect Balance Quoted,medium,Open,Y
+CMP00261,DC100629,2026-02-16,Harassment Complaint,Low,Open,N
+CMP00262,DC101183,24/05/2026,Third Party Disclosure Risk,Medium,Resolved,Y
+CMP00263,DC100003,2025-11-28,Recording Consent Missing,HIGH,Resolved,Y
+CMP00264,DC101179,2024-11-15,Third Party Disclosure Risk,High,Escalated,N
+CMP00265,DC101179,2025-11-28,Recording Consent Missing,Low,Closed - No Action,N
+CMP00266,DC100187,2026-02-14,Missed DSAR Deadline,Medium,Closed - No Action,N
+CMP00267,DC100316,2025-07-27,Incorrect Balance Quoted,Low,Under Review,N
+CMP00268,DC100780,21/11/2025,Harassment Complaint,Critical,Escalated,
+CMP00269,DC100780,14/12/2025,Consumer Duty - Unfair Outcome Risk,Critical,Escalated,Y
+CMP00270,DC100221,06/05/2025,Recording Consent Missing,Low,Escalated,Y
+CMP00271,DC100464,2025-05-05,Recording Consent Missing,Low,Resolved,Y
+CMP00272,DC100765,2026-06-11,Missed DSAR Deadline,HIGH,Resolved,Y
+CMP00273,DC101137,11/27/2025,Data Breach Risk,medium,Open,N
+CMP00274,DC101137,04/24/2026,Recording Consent Missing,medium,Escalated,Y
+CMP00275,DC100202,02/17/2025,Affordability Not Assessed,HIGH,Resolved,N
+CMP00276,DC100202,2026-05-10,Harassment Complaint,Low,Escalated,Y
+CMP00277,DC100756,2026-04-05,Data Breach Risk,medium,Open,N
+CMP00278,DC100208,02/08/2025,Third Party Disclosure Risk,medium,Escalated,N

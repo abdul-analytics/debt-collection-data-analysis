@@ -1,0 +1,1216 @@
+account_id,customer_name,date_of_birth,postcode,region,creditor,debt_type,original_balance,current_balance,interest_rate_pct,default_date,account_status,vulnerability_flag,dsar_requested,marketing_consent,assigned_agent
+DC101014,Rhys O'Neill,1973-12-24,HD6H 1WQ,Wales,Aurora Credit Ltd,Council Tax,1058.92,1058.92,,2025-02-02,Disputed,None,N,N,Lesley S.
+DC100669,Laura Hamilton,1947-11-17,KA7 4HW,Yorkshire,Summit Consumer Credit,Credit Card,1361.29,1361.29,2.86,2025-09-21,Open,Financial Hardship,Y,,Samuel H.
+DC100664,Victoria Dickinson,2008-01-06,LS16 2HN,Wales,Hallgate Bank,Rent Arrears,3816.4,3816.4,24.14,2023-03-24,In arrangement,None,N,N,Ann S.
+DC100187,Kerry Smith,10/28/1964,N6 9JJ,North East,Kestrel Bank,Personal Loan,3632.4,3632.4,2.24,01/11/2025,Open,None,N,Unknown,Clifford R.
+DC101110,Ann Williams,19-08-1998,BN5B 5UZ,Wales,Hallgate Bank,Store Card,11899.57,4870.48,,08/18/2024,OPEN,None,N,Y,Gregory D.
+DC100701,ALICE LEWIS,14-08-1985,TW5A 0PT,North West,Northbridge Finance,Overdraft,11901.92,11901.92,8.1,25/09/2022,In Arrangement,None,N,N,Donald J.
+DC100625,Bradley Wood,2008-08-22,N54 4JP,Wales,Northbridge Finance,Mobile Phone Contract,1053.85,814.01,2.18,2026-02-28,In Arrangement,None,N,Y,Maurice K.
+DC100358,Jane Lowe,,CH8 8YL,London,Hallgate Bank,Mobile Phone Contract,11081.15,11081.15,28.09,2024-09-10,Open,None,N,N,Annette W.
+DC100081,Beth Harris,03/23/2007,AL9 9UN,Midlands,Hallgate Bank,Store Card,6638.73,3983.09,23.84,2025-04-19,OPEN,None,N,Y,Bernard J.
+DC100962,Jacob Parkinson,01/14/1970,SM93 0DP,London,Meridian Telecom,Credit Card,7542.84,304.66,,10/19/2023,Written Off,None,N,Y,Christine T.
+DC100216,Terence Russell,1956-11-01,,London,Meridian Telecom,Mobile Phone Contract,3291.03,2675.92,14.4,2025-11-24,In Arrangement,None,N,Y,Russell B.
+DC100246,Susan Frost,1944-01-19,B67 1TE,East Anglia,Summit Consumer Credit,Utility Arrears,8565.52,8565.52,,2023-11-22,Closed,None,N,Y,Bradley O.
+DC100939,Leanne Hanson,,M4 1PT,East Anglia,Pinnacle Retail Finance,Store Card,1814.16,1022.22,14.07,2026-01-08,Closed,None,N,Y,Kirsty L.
+DC100026,Dean Sharpe,1981-11-07,M87 0DS,Wales,Aurora Credit Ltd,Utility Arrears,3702.8,2074.04,11.45,2025-07-13,Open,None,N,Y,Martyn T.
+DC100269,Georgia Roberts,17/10/1986,W2 3HF,North West,Aurora Credit Ltd,Personal Loan,3863.72,1191.12,18.96,2025-02-24,Written Off,None,N,N,Luke D.
+DC101174,Jacqueline Martin,1982-08-18,M7 1JS,East Anglia,Northbridge Finance,Store Card,14428.68,14428.68,9.6,2026-06-17,In Arrangement,None,N,N,Ross S.
+DC100760,Jamie Mason,1992-08-20,G3 4FZ,South West,Aurora Credit Ltd,Personal Loan,4404.04,4404.04,,31/03/2025,Open,None,N,Y,James J.
+DC100004,Gemma Ferguson,1960-08-28,OX3 0JN,Scotland,Summit Consumer Credit,Council Tax,1210.33,441.8,25.2,08-03-2025,Open,None,N,Y,Jason D.
+DC100349,Margaret Dodd,1995-06-09,OX1P 4UJ,North West,Summit Consumer Credit,Rent Arrears,12621.19,12621.19,26.45,2026-04-12,In Arrangement,None,N,Y,Jake A.
+DC100526,Julian Brookes,1954-12-28,SM11 7SB,South East,Hallgate Bank,Utility Arrears,12810.57,,19.91,2026-07-25,In Arrangement,None,N,Y,Dominic D.
+DC100997,Charles Morrison,1951-05-29,SA96 3LU,Scotland,Kestrel Bank,Credit Card,10075.37,1890.5,2.27,2026-06-21,Open,None,N,N,Leon M.
+DC100660,Sophie Carter,1987-09-05,B9U 2FP,North East,Pinnacle Retail Finance,Utility Arrears,11384.98,9083.52,9.65,2023-11-23,Disputed,None,N,N,Kirsty Y.
+DC100674,Anthony Clements,19/11/1992,EC3 0SA,Wales,Northbridge Finance,Council Tax,4692.58,36.19,9.18,2026-05-12,Written Off,None,N,Unknown,Stephen H.
+DC100174,Marilyn Rhodes,16/05/1981,L0 7JX,Yorkshire,Yorkshire Utilities Group,Credit Card,7935.65,7935.65,27.45,2025-06-23,On Hold,None,N,Y,Charlie M.
+DC100636,Frank Curtis,22-06-1993,W9 1BB,,Pinnacle Retail Finance,Personal Loan,6549.56,4736.22,17.2,23/02/2025,On Hold,None,N,N,Gemma W.
+DC100528,Marc Gallagher,17/08/1964,FY9N 2WZ,,Vantage Home Finance,Store Card,5559.7,5484.3,20.5,2023-01-28,In Arrangement,Financial Hardship,N,Y,Cameron L.
+DC100814,Geoffrey Gardner,31/08/1962,EH1 5QF,East Anglia,Aurora Credit Ltd,Credit Card,13141.21,12413.35,20.48,2025-10-26,Closed,None,N,Unknown,Terry B.
+DC100005,Oliver Palmer,1971-07-22,N53 1ZG,London,Summit Consumer Credit,Rent Arrears,9883.26,5973.13,17.48,2025-12-27,Closed,None,N,Y,Eleanor B.
+DC100631,Shirley Davis,08/18/2000,DG0 8TA,Midlands,Pinnacle Retail Finance,Store Card,11992.5,4586.46,17.73,07/30/2025,Open,None,N,Unknown,Rachel H.
+DC100079,Conor Nicholls,01/25/1986,ZE48 1TQ,London,Aurora Credit Ltd,Mobile Phone Contract,5895.19,3694.5,10.53,2026-03-30,Closed,None,N,N,Kate B.
+DC101136,Rosemary Booth,1959-04-18,W1T 3DR,South East,Vantage Home Finance,Utility Arrears,9958.62,9958.62,13.96,23-10-2022,Disputed,None,N,Y,Josephine P.
+DC100372,Steven Hooper,1964-02-02,GY4W 4TQ,South East,Summit Consumer Credit,Personal Loan,12277.84,6287.46,19.38,13/12/2023,Disputed,None,N,Y,Kate R.
+DC100058,Malcolm Dawson,1991-11-30,M7 7PG,,Summit Consumer Credit,Catalogue Debt,5526.28,2245.52,28.82,2023-02-14,Open,None,N,N,Lee S.
+DC101198,Jason King,01/12/1995,IG7M 5WF,Wales,Aurora Credit Ltd,Mobile Phone Contract,8237.99,8237.99,9.58,2024-01-24,Closed,None,N,N,Dorothy R.
+DC100566,Roy Fletcher,02/07/1968,EX3 3QY,Yorkshire,Vantage Home Finance,Mobile Phone Contract,2874.24,672.7,13.56,2023-04-17,On Hold,None,N,Y,Lydia M.
+DC100912,Charles Bull,1967-08-14,TR2 5SH,Wales,Vantage Home Finance,Overdraft,11439.1,6521.47,18.15,2025-07-14,Open,None,N,N,Andrea H.
+DC100231,Donna Perkins,11/07/1969,NN8W 4DN,London,Meridian Telecom,Mobile Phone Contract,3671.52,1940.97,11.98,2024-04-18,Closed,None,N,N,Jason L.
+DC100512,Gerald Williams,1947-01-04,DG9V 4HA,London,Pinnacle Retail Finance,Personal Loan,1955.67,770.32,0.88,08/12/2022,Disputed,None,N,Y,Jake P.
+DC100766,Arthur Barker,02/02/1989,G2 2RT,Scotland,Meridian Telecom,Personal Loan,11309.98,11309.98,29.55,2023-01-08,Legal Action,None,N,N,Lesley B.
+DC100893,Andrea Ellis,,S0 1FW,Midlands,Northbridge Finance,Catalogue Debt,9258.85,5265.14,25.87,12/02/2023,Closed,None,N,Y,Melanie B.
+DC100314,Gregory Holmes,2003-05-13,SA2V 1QX,North West,Hallgate Bank,Store Card,7139.19,7139.19,16.7,2023-03-29,Disputed,None,Y,N,Catherine J.
+DC100986,Jessica Brown,11/02/2005,DL3 4ZE,South East,Yorkshire Utilities Group,Credit Card,308.99,308.99,19.19,2024-01-23,Closed,None,N,Y,Francesca C.
+DC100503,Danielle Knight,1997-02-17,M7K 1HT,South East,Pinnacle Retail Finance,Rent Arrears,12312.92,10776.94,29.12,2024-07-24,In arrangement,None,N,Unknown,Nicholas F.
+DC100781,Gail Lambert,1993-01-01,N7U 5NQ,Yorkshire,Meridian Telecom,Council Tax,4208.72,864.21,11.61,09/05/2023,Open,None,N,Y,Sara D.
+DC100287,Steven Jones,13/12/1953,IM8M 0FF,Wales,Leeds City Council,Overdraft,13563.35,13563.35,13.37,11/03/2023,Open,None,N,N,Marc W.
+DC100594,Abigail Spencer,1969-01-03,EC3 0QL,North East,Aurora Credit Ltd,Council Tax,9455.38,9455.38,20.36,2026-08-13,Open,None,N,N,Susan D.
+DC101051,Lewis Robinson,1994-01-18,NN51 5XJ,North West,Hallgate Bank,Credit Card,6201.56,5507.76,9.16,2024-09-16,In Arrangement,None,N,,Natalie P.
+DC101149,Nicholas Jones,1977-09-11,WA1R 5JZ,Scotland,Northbridge Finance,Catalogue Debt,5098.1,2649.52,28.09,2023-01-17,In Arrangement,None,N,Y,Pauline H.
+DC100791,Alison Carr,,DE0 6PN,North East,Yorkshire Utilities Group,Overdraft,4264.66,3552.3,2.99,06/05/2025,In Arrangement,Bereavement,N,Y,Roger R.
+DC100537,Antony Cooper,1986-11-28,E1S 7HN,Wales,Aurora Credit Ltd,Council Tax,9411.41,9411.41,14.16,27/04/2023,Open,Financial Hardship,N,Y,Irene S.
+DC100114,Emma Abbott,1989-12-08,G5B 5NR,Yorkshire,Vantage Home Finance,Council Tax,10877.84,10877.84,0.48,2025-04-17,Open,None,N,N,Callum W.
+DC100123,Tina Hill,13/04/1948,CM0 6ZT,Scotland,Meridian Telecom,Overdraft,5405.63,4902.56,21.67,2023-11-07,Closed,None,N,,Philip G.
+DC100183,DAWN WALTON,2004-11-16,SR77 5GF,Wales,Vantage Home Finance,Catalogue Debt,11044.01,8545.13,24.63,2024-01-17,Closed,None,N,Y,Janice J.
+DC100815,Stanley Holmes,1989-06-19,N3J 6NZ,Wales,Kestrel Bank,Council Tax,8321.83,8321.83,24.86,23/07/2023,In Arrangement,None,N,Unknown,Phillip H.
+DC100958,Barbara Knight,30-10-1993,N1U 6XR,Yorkshire,Kestrel Bank,Store Card,13924.44,8807.38,5.33,2025-07-05,In Arrangement,None,N,Y,Frances F.
+DC101182,Andrea Parker,10/02/1946,CV42 4GJ,North East,Aurora Credit Ltd,Rent Arrears,13947.79,11693.61,15.74,05/16/2026,Closed,None,N,Y,Michelle W.
+DC100846,Natalie Burton,1968-08-14,B6B 9NJ,Midlands,Pinnacle Retail Finance,Rent Arrears,3639.9,1768.06,24.2,2022-10-30,Written Off,None,N,Y,Kimberley L.
+DC100519,JOSEPH ANDERSON,28-04-1965,WR47 5WY,London,Pinnacle Retail Finance,Rent Arrears,1711.27,1158.77,27.93,08/08/2024,Closed,None,N,Y,Andrew B.
+DC100172,Shannon Leach,19/05/1949,B4 8SX,Yorkshire,Hallgate Bank,Catalogue Debt,10260.07,6138.4,0.6,2026-07-22,On Hold,None,N,Y,Jessica W.
+DC100228,Hollie Payne,1998-04-28,L64 3UR,London,Hallgate Bank,Council Tax,4811.01,3759.49,7.24,2026-02-25,Open,None,N,Y,Nathan S.
+DC100680,James Barnes,1982-08-20,EC6 9DB,London,Yorkshire Utilities Group,Mobile Phone Contract,2269.97,2269.97,,2026-03-27,On Hold,None,Y,Y,Ashley P.
+DC100474,Arthur Williamson,10/06/1945,S27 2XS,Wales,Northbridge Finance,Utility Arrears,10802.29,10802.29,20.83,23/07/2026,Closed,Bereavement,N,Y,Charlie F.
+DC100619,Jane Davies,23/09/1944,B04 1PF,North West,Kestrel Bank,Mobile Phone Contract,11843.24,10616.01,10.16,2026-06-27,Written Off,None,N,N,Amy L.
+DC100243,Cheryl Robson,1956-10-27,TR6 5TL,Wales,Summit Consumer Credit,Personal Loan,5928.48,229.94,19.09,2023-09-29,Open,None,N,N,Donald T.
+DC100826,Callum Lloyd,13-06-1965,L6D 4SG,Midlands,Pinnacle Retail Finance,Credit Card,13298.72,3643.57,2.75,17-07-2026,Closed,None,N,N,Joyce P.
+DC101130,Russell Thorpe,01/07/1979,SK3W 5TB,East Anglia,Summit Consumer Credit,Utility Arrears,8766.22,7211.87,16.8,25-08-2025,Legal Action,None,N,Y,Eileen J.
+DC100707,Craig Cook,28/12/1980,N2 6YA,South West,Aurora Credit Ltd,Mobile Phone Contract,312.07,312.07,27.2,2023-06-17,Open,None,N,N,Graeme L.
+DC100811,Olivia Williams,2005-01-27,DD3 6EY,North West,Leeds City Council,Personal Loan,10249.79,6234.32,26.04,2026-05-02,Closed,Financial Hardship,N,N,Kate W.
+DC100378,Abigail May,1973-02-28,TR49 0XQ,North East,Summit Consumer Credit,Mobile Phone Contract,6412.57,4949.34,13.23,2022-10-04,Closed,None,N,N,Roy A.
+DC100720,Terry Lees,1949-06-25,E84 1EW,North East,Summit Consumer Credit,Overdraft,6116.42,6116.42,12.91,2023-07-13,Open,None,N,N,Joel E.
+DC100971,Shannon Clarke,03/01/1982,S3 1YN,Scotland,Yorkshire Utilities Group,Personal Loan,9615.43,7615.37,18.84,2026-01-18,In Arrangement,Mental Health,N,Y,Antony T.
+DC100030,Brett Gill,1968-09-19,TS3M 1RB,Scotland,Pinnacle Retail Finance,Utility Arrears,3692.39,3692.39,28.82,06-05-2025,On Hold,None,N,N,Pauline M.
+DC100789,Pauline Lane,28/03/1955,S0U 6UH,North West,Vantage Home Finance,Utility Arrears,8057.42,4083.9,25.91,2024-12-12,In Arrangement,None,N,Y,Alexander K.
+DC100959,Thomas Holt,2004-03-31,W60 4BE,,Aurora Credit Ltd,Store Card,10430.65,9143.32,27.16,12/01/2025,Written Off,None,N,Y,Wendy N.
+DC100843,Gregory Lloyd,1972-11-24,RH6P 1LN,North West,Hallgate Bank,Store Card,1931.67,626.97,5.95,2024-02-10,In Arrangement,Bereavement,N,Y,Jodie K.
+DC100754,Lee Graham,27/08/1957,E0S 9QP,South West,Summit Consumer Credit,Credit Card,5614.32,1115.99,16.38,12/12/2025,On Hold,None,N,N,Jake H.
+DC100171,Leah Robson,1966-03-09,WR66 8FQ,North West,Aurora Credit Ltd,Personal Loan,1820.9,1548.42,25.94,2026-03-19,In Arrangement,Elderly - Support Needed,N,N,Terence C.
+DC101080,Kevin Bradley,29-12-1992,,North East,Aurora Credit Ltd,Rent Arrears,10201.16,1233.16,10.13,2023-03-11,In arrangement,None,N,Y,Leah C.
+DC100322,Paige Wilkinson,1946-12-22,N55 3ZW,North East,Kestrel Bank,Store Card,8167.02,8167.02,4.67,03/08/2023,On Hold,None,N,N,Alice T.
+DC100205,GRAHAM CLARK,08/09/2004,,North West,Yorkshire Utilities Group,Rent Arrears,1122.26,369.97,26.27,2023-04-11,Legal Action,None,N,Y,Alice G.
+DC100442,Russell Wood,,E0E 9DP,South West,Leeds City Council,Council Tax,14130.94,7402.89,26.01,08/07/2025,In Arrangement,None,N,N,Jade G.
+DC100934,Neil Walker,2002-12-30,M0 7RB,North West,Hallgate Bank,Rent Arrears,3305.87,3305.87,17.41,2024-09-09,On Hold,None,N,N,Bethan C.
+DC100947,Stewart Humphries,1977-11-26,TS97 6UJ,London,Yorkshire Utilities Group,Overdraft,6698.48,3808.19,9.04,2025-09-01,In Arrangement,None,N,Y,Howard W.
+DC101135,Caroline Begum,23/01/2001,E07 0ED,Wales,Aurora Credit Ltd,Store Card,781.59,781.59,4.49,2025-11-09,Disputed,None,N,Unknown,Damian M.
+DC100899,Roger Iqbal,1959-05-06,M49 3LF,Scotland,Northbridge Finance,Credit Card,10466.53,10466.53,12.83,2024-06-10,Open,None,N,Y,Lewis M.
+DC100474,Arthur Williamson,10/06/1945,S27 2XS,Wales,Northbridge Finance,Utility Arrears,10802.29,10802.29,20.83,23/07/2026,Closed,Bereavement,N,Y,Charlie F.
+DC101039,Dorothy Cooper,1981-08-20,CB9B 3QY,South East,Summit Consumer Credit,Catalogue Debt,9408.26,2854.77,7.94,2025-01-12,Closed,Financial Hardship,N,Unknown,Ellie E.
+DC100209,Geoffrey Smith,1999-05-20,HD9P 9EQ,North West,Kestrel Bank,Credit Card,12794.16,12794.16,27.88,2024-10-15,In Arrangement,None,N,N,Jay B.
+DC100734,Aaron Lewis,,DA51 3XE,North West,Meridian Telecom,Credit Card,13097.29,13097.29,16.79,17/05/2024,Disputed,None,N,N,Gregory B.
+DC100882,Alan Morgan,1973-05-17,S09 4ZX,East Anglia,Pinnacle Retail Finance,Council Tax,14985.86,1045.79,7.73,2026-01-11,In Arrangement,None,N,N,Terry W.
+DC100578,Gavin Humphries,23/09/1993,CV1M 6NZ,Yorkshire,Summit Consumer Credit,Utility Arrears,1411.01,1306.75,,2023-11-02,Written Off,None,N,Y,Wayne E.
+DC101142,Sam Barton,1979-09-25,S16 8XB,North East,Kestrel Bank,Utility Arrears,8004.75,8004.75,28.44,2026-07-20,Closed,None,N,N,Maria W.
+DC100268,Zoe Fletcher,1977-02-19,OX37 1RB,Wales,Aurora Credit Ltd,Utility Arrears,960.02,960.02,28.04,2026-02-12,Legal Action,None,N,Y,Stephanie B.
+DC100626,June Mills,2002-11-16,W0 2SX,,Vantage Home Finance,Store Card,13589.08,3805.19,7.53,2023-03-31,In Arrangement,None,N,Y,Bethan C.
+DC100779,Lawrence Hayward,1974-09-26,SR52 5SW,South West,Aurora Credit Ltd,Mobile Phone Contract,4568.56,478.21,1.56,2023-12-15,Open,Mental Health,N,Unknown,Oliver K.
+DC100082,Jay Lloyd,1953-08-26,TD2X 0NT,North East,Northbridge Finance,Mobile Phone Contract,4540.25,2515.68,13.0,2023-09-14,Open,None,N,N,Joshua J.
+DC100301,Mohammed Clark,23-01-1988,E69 9TG,North East,Northbridge Finance,Store Card,6707.49,6707.49,19.15,13-12-2022,Open,None,N,N,Kathryn P.
+DC100927,Stewart Owen,11/16/1992,L1K 1HL,Yorkshire,Meridian Telecom,Mobile Phone Contract,14145.08,14145.08,9.42,2026-05-19,In Arrangement,None,N,Y,Antony S.
+DC100803,LEANNE IQBAL,15/12/1979,EX8E 3DD,North East,Yorkshire Utilities Group,Rent Arrears,9439.84,6998.12,21.47,03/04/2024,Open,Physical Health,N,N,Richard W.
+DC101162,Heather Fraser,14/06/1981,S9 6DX,Yorkshire,Meridian Telecom,Overdraft,5915.68,5915.68,24.79,06/11/2023,Written Off,None,N,Y,Graham C.
+DC100109,CARL CARTER,1985-04-18,ME7W 9ZP,Yorkshire,Yorkshire Utilities Group,Credit Card,3210.31,3210.31,7.01,2023-06-01,In Arrangement,None,N,N,Teresa S.
+DC100489,Lydia Watts,2002-09-14,B05 3SL,South West,Hallgate Bank,Rent Arrears,9690.45,9690.45,7.72,09/01/2024,Open,None,N,Y,Albert R.
+DC100560,Emily Foster,14/01/1996,SM00 7FA,Scotland,Kestrel Bank,Credit Card,5714.53,5714.53,6.32,2025-08-11,Open,None,N,N,Joanne T.
+DC100121,Stephanie Patel,1966-12-25,B51 2FB,South East,Northbridge Finance,Catalogue Debt,1278.87,504.94,13.47,2023-01-15,In Arrangement,,N,N,Mitchell B.
+DC100034,Shannon Holmes,2004-08-29,N61 9PE,London,Leeds City Council,Mobile Phone Contract,10720.86,10720.86,15.87,2025-08-10,Open,None,N,N,Clifford O.
+DC100346,Glenn Preston,15/04/1981,IP21 3WW,,Summit Consumer Credit,Overdraft,8716.12,6860.0,21.73,2022-12-28,Written Off,None,N,Y,Lydia B.
+DC100721,Paige Thompson,03/02/2007,M08 8TF,Midlands,Vantage Home Finance,Utility Arrears,7669.34,1075.92,23.69,2025-04-19,In Arrangement,None,N,Y,Melissa J.
+DC100640,Douglas Evans,,L20 2NY,London,Yorkshire Utilities Group,Personal Loan,1937.32,989.76,10.76,25-02-2025,Written Off,None,N,Y,Amanda L.
+DC100896,Natasha Short,2001-08-15,SK7 5TG,Wales,Leeds City Council,Rent Arrears,1324.12,952.13,19.12,2025-01-17,Open,Mental Health,N,Y,Natasha W.
+DC101018,Maureen Arnold,1991-03-06,N12 7HN,South West,Summit Consumer Credit,Overdraft,9081.58,561.76,11.19,2025-11-23,Open,None,N,Y,Sophie J.
+DC101007,Keith Armstrong,2006-12-20,G8W 9TZ,North West,Summit Consumer Credit,Store Card,11006.68,8543.32,28.04,12/10/2025,Closed,None,N,N,Francesca T.
+DC100470,Sian Marshall,1952-12-15,AL1A 1WE,North West,Northbridge Finance,Overdraft,719.74,6.91,9.16,2024-11-12,Closed,None,N,Y,Lydia W.
+DC100737,Graham Hill,27/10/2001,AB24 7RQ,Scotland,Yorkshire Utilities Group,Mobile Phone Contract,10094.82,8193.43,16.53,2024-04-30,Written Off,None,N,N,Clifford H.
+DC100411,Bethan Richards,1944-05-01,E6 5EA,East Anglia,Meridian Telecom,Credit Card,10730.43,5091.85,26.76,2025-04-14,OPEN,None,N,Y,Iain T.
+DC100531,Terry Harvey,1948-03-22,SO4 1PU,Scotland,Northbridge Finance,Store Card,4453.26,,,2023-04-03,Disputed,None,N,N,Connor C.
+DC100724,Ben Matthews,20/05/1946,SM28 1LH,North West,Meridian Telecom,Mobile Phone Contract,1947.97,1586.2,0.32,2023-09-19,Open,None,N,Y,Christine M.
+DC100742,Anne Smith,1951-02-03,M14 6HU,London,Leeds City Council,Personal Loan,3805.97,3805.97,,2024-09-21,In Arrangement,Financial Hardship,N,Y,Diana G.
+DC101116,Darren Jones,1955-11-28,UB9 8FL,Yorkshire,Summit Consumer Credit,Utility Arrears,14252.12,11085.4,19.71,2022-09-25,In Arrangement,None,N,Y,Stanley J.
+DC101090,Carole Franklin,,M41 2GS,South West,Summit Consumer Credit,Overdraft,2838.86,2697.45,26.72,2024-01-18,Closed,None,N,N,Terence K.
+DC100011,Antony Buckley,1947-12-16,MK9H 5GX,Wales,Hallgate Bank,Utility Arrears,1050.1,285.4,8.33,03/03/2025,Open,None,N,Unknown,Melanie B.
+DC101200,Carol Bentley,1980-12-15,CF2 3JT,Wales,Meridian Telecom,Personal Loan,13195.64,13195.64,4.0,2025-11-11,In Arrangement,None,N,N,Carl B.
+DC100533,Laura Gardner,2008-08-20,S7 1FR,,Pinnacle Retail Finance,Utility Arrears,1607.36,1607.36,5.97,2024-08-24,Closed,None,N,N,Joanne B.
+DC100265,Catherine Ryan,1942-06-22,BT7 4RU,North East,Hallgate Bank,Utility Arrears,7609.52,3007.95,6.77,2023-05-23,Closed,None,N,Unknown,Wendy B.
+DC100520,Ben Jackson,1950-08-29,CR5E 4QS,Midlands,Vantage Home Finance,Overdraft,4158.19,4158.19,19.98,2024-07-11,Closed,None,N,Y,Heather W.
+DC100989,Justin Marshall,23/12/1984,SP7E 9LX,North East,Kestrel Bank,Store Card,2865.72,2110.0,10.15,2023-09-06,In Arrangement,None,N,Y,Ricky G.
+DC100316,Vanessa George,1958-11-16,SL4 0NH,South East,Northbridge Finance,Rent Arrears,14199.52,6497.2,20.17,2025-10-19,Written Off,None,N,Y,Joanna H.
+DC100762,Mohammad Fry,1951-03-25,FK8B 0EX,Wales,Aurora Credit Ltd,Catalogue Debt,5954.33,5954.33,13.82,2022-12-09,In Arrangement,None,N,Y,Bryan W.
+DC100488,Terence Scott,2007-02-22,L7U 4BH,South West,Kestrel Bank,Utility Arrears,2498.87,,4.19,2025-02-22,Open,None,N,Unknown,Nathan R.
+DC101054,Aaron Fleming,1955-05-11,M5D 2XY,East Anglia,Aurora Credit Ltd,Mobile Phone Contract,5482.49,5482.49,16.06,28/06/2024,Open,None,N,Y,Guy T.
+DC100892,Jonathan Miles,01/24/1975,RG32 0GE,Yorkshire,Northbridge Finance,Catalogue Debt,7792.82,5767.42,8.93,21-04-2023,Open,None,N,Y,Samantha S.
+DC100167,Jonathan Carey,1976-08-21,E0W 9XF,North West,Hallgate Bank,Personal Loan,9063.2,9063.2,11.88,2024-02-20,Open,None,N,N,Roger M.
+DC100964,Douglas Atkinson,24/03/1991,CH39 4ZW,East Anglia,Leeds City Council,Catalogue Debt,2253.27,1889.62,10.35,2023-01-12,Open,None,N,N,Sheila D.
+DC100822,Leon Tucker,02/12/1963,FK22 1FP,North East,Meridian Telecom,Personal Loan,5767.7,5767.7,20.5,2025-02-13,Legal Action,None,N,Y,Sean M.
+DC101079,Michelle Weston,1941-11-28,HG5A 1JA,Midlands,Hallgate Bank,Credit Card,8437.96,2733.94,13.99,2025-07-18,Disputed,None,N,Y,Margaret H.
+DC100616,Alexander Andrews,1976-03-14,B1S 0LH,London,Kestrel Bank,Store Card,5648.89,1451.96,26.15,2025-08-30,In Arrangement,None,N,Unknown,Duncan B.
+DC100040,Angela Osborne,19/08/1989,W2T 7LJ,London,Vantage Home Finance,Credit Card,9030.84,998.6,20.1,2024-09-12,In Arrangement,None,N,Y,Kim W.
+DC100653,Karen Smith,1946-06-27,LA8 3YB,North West,Summit Consumer Credit,Catalogue Debt,2404.92,1338.62,23.07,31-08-2025,Written Off,None,N,Y,Natalie L.
+DC100023,Dennis Davies,,M75 0TZ,East Anglia,Pinnacle Retail Finance,Personal Loan,14403.51,3803.08,22.46,06/10/2023,Open,None,N,Y,Lynne T.
+DC100911,Sheila Brown,31/10/1989,N5 0WH,London,Leeds City Council,Credit Card,13754.68,13754.68,16.2,2025-11-12,Open,None,N,N,Linda W.
+DC100808,Mark Cooke,07/31/1985,,Wales,Northbridge Finance,Council Tax,1554.44,622.0,2.73,2025-03-12,In Arrangement,None,N,N,Janice B.
+DC100816,Timothy Moore,05/06/1989,BS9X 6PP,South West,Northbridge Finance,Council Tax,3675.77,504.19,11.19,2026-06-06,In Arrangement,None,N,Y,Joe C.
+DC100248,Louise Law,,CM0 0GY,South West,Hallgate Bank,Rent Arrears,13121.37,10469.82,17.65,15-01-2026,Open,None,N,Y,Ann F.
+DC100987,Dawn Nicholls,,WD8H 5BR,Scotland,Hallgate Bank,Personal Loan,3369.25,954.38,23.91,2026-04-09,Open,None,N,N,Kayleigh G.
+DC100327,Nicole Bruce,1996-08-04,IP76 5AR,Scotland,Hallgate Bank,Personal Loan,7487.39,7487.39,26.69,2026-04-16,Written Off,None,N,N,Ellie I.
+DC100511,Anna Briggs,06/09/2003,W0 8EN,Scotland,Northbridge Finance,Utility Arrears,6385.62,,18.87,2024-01-18,Closed,None,N,Y,Peter A.
+DC100795,Mohammed Foster,03/06/1955,B55 4NW,South West,Summit Consumer Credit,Store Card,3330.08,887.75,26.15,2023-07-18,Open,None,N,N,Harry H.
+DC101070,Mohamed Robinson,05-11-2007,WC6 2FZ,South West,Pinnacle Retail Finance,Overdraft,6004.48,78.87,25.59,2025-12-16,Legal Action,None,N,Y,Louis J.
+DC100901,Louise Reynolds,26/03/1997,E7 7LD,Yorkshire,Summit Consumer Credit,Credit Card,8152.61,2567.4,2.01,11/17/2023,On Hold,None,N,Unknown,Ashley T.
+DC100361,Glenn Wallis,2004-01-22,DN9 2HU,North East,Northbridge Finance,Store Card,2869.65,2869.65,21.2,2024-08-02,Closed,None,N,N,Marc H.
+DC100579,Lewis Lee,01/08/1975,LN49 1SQ,London,Meridian Telecom,Rent Arrears,1630.24,50.11,8.5,21/08/2024,Closed,None,N,N,Jayne B.
+DC100771,Terence Hunt,1988-08-04,S5 1YD,North West,Kestrel Bank,Catalogue Debt,361.04,361.04,8.74,03/14/2024,Open,None,N,Y,Lesley S.
+DC100431,Clifford Stanley,02/10/2001,WC81 7FE,North East,Leeds City Council,Utility Arrears,8300.38,8300.38,7.32,2025-12-07,Disputed,None,N,Y,Annette T.
+DC100695,Geraldine Macdonald,20-10-1973,W9 2HB,North West,Kestrel Bank,Store Card,1269.86,351.62,9.89,09/09/2024,Closed,Mental Health,N,N,Justin L.
+DC100241,Sylvia Patel,,L67 2LD,North East,Yorkshire Utilities Group,Mobile Phone Contract,4147.55,1181.24,23.49,2023-12-05,Open,None,N,Y,Samuel W.
+DC100008,Chelsea Powell,1991-07-09,S5D 8UD,North West,Hallgate Bank,Personal Loan,12500.23,12500.23,15.93,26-05-2024,On Hold,Physical Health,N,N,Anthony T.
+DC100641,Naomi Mitchell,,G74 4QA,North West,Meridian Telecom,Store Card,14194.12,2320.25,,2026-03-10,Legal Action,None,N,N,Maureen G.
+DC100381,Caroline Richards,1959-03-24,N02 8AG,Wales,Vantage Home Finance,Catalogue Debt,4786.95,3155.99,23.15,2025-02-28,Open,Financial Hardship,N,,Timothy B.
+DC100932,Lydia O'Neill,2001-11-27,B57 6HZ,Wales,Northbridge Finance,Personal Loan,8605.51,3634.89,21.44,11/04/2025,Closed,None,N,Y,Yvonne H.
+DC100683,Justin Williams,1941-02-18,L0 3FD,London,Hallgate Bank,Catalogue Debt,14067.58,14067.58,29.54,2026-02-16,In Arrangement,None,N,Unknown,Kyle W.
+DC100627,Lisa Powell,1994-04-05,B7 5RZ,Midlands,Hallgate Bank,Credit Card,5215.96,1680.36,29.13,06/04/2025,In Arrangement,None,N,Y,Sarah C.
+DC100176,Amy Hodgson,13-11-1944,DD6V 0QR,Midlands,Vantage Home Finance,Credit Card,12989.75,426.86,18.19,2026-06-09,Closed,None,N,N,Judith N.
+DC100643,Alice Booth,2007-06-30,WF9 9NS,East Anglia,Pinnacle Retail Finance,Credit Card,595.2,473.73,9.91,2025-01-26,Closed,None,N,Y,Hugh M.
+DC101003,Joan Burns,1954-04-28,N98 8WN,Midlands,Northbridge Finance,Credit Card,996.64,,,24/01/2023,Open,None,N,N,Hollie B.
+DC100258,Charlene Harris,1952-10-21,OX6W 2ZP,Scotland,Hallgate Bank,Store Card,2343.0,2343.0,,2022-09-23,Closed,None,N,N,Molly Q.
+DC101169,Conor Butler,1957-11-23,S0B 4UT,East Anglia,Northbridge Finance,Mobile Phone Contract,3324.84,3324.84,3.68,05-07-2026,On Hold,Mental Health,N,Y,Georgina J.
+DC100622,Suzanne Riley,1949-04-05,BT83 5XG,South East,Meridian Telecom,Store Card,2680.59,2680.59,26.04,2024-12-12,Legal Action,None,N,N,Duncan P.
+DC100556,Nathan Saunders,16/07/1969,WS2 7QN,East Anglia,Leeds City Council,Mobile Phone Contract,1420.22,1065.26,7.49,2025-05-24,Closed,None,N,N,Michael B.
+DC100071,Norman Murphy,1950-07-23,G1E 5WL,North West,Vantage Home Finance,Utility Arrears,3892.14,577.72,9.28,2023-06-20,In Arrangement,None,N,N,Paul B.
+DC101165,Glenn Kent,1982-08-20,FK4M 5PJ,South East,Yorkshire Utilities Group,Rent Arrears,4887.49,1235.72,,2022-12-20,Open,None,N,N,Anna B.
+DC100856,Abbie Peters,1963-10-17,M46 7RU,Scotland,Vantage Home Finance,Store Card,2549.19,2549.19,21.68,2025-07-10,Open,None,N,Y,Lynda S.
+DC101196,Lisa Quinn,,L69 6FS,East Anglia,Summit Consumer Credit,Credit Card,3648.16,3648.16,26.43,2022-10-08,In Arrangement,None,N,N,Lorraine P.
+DC101134,Leah Bates,1969-07-01,M6 4BE,,Leeds City Council,Utility Arrears,7986.4,1088.57,19.56,2026-02-26,On Hold,None,N,Y,Josh S.
+DC100637,Annette Collins,1949-05-24,BN49 1EB,South East,Summit Consumer Credit,Store Card,276.79,276.79,5.99,2026-04-28,Legal Action,None,N,Unknown,Yvonne B.
+DC100310,Lisa Stevens,1996-10-16,CF6 9ET,North West,Northbridge Finance,Rent Arrears,3262.41,2442.3,23.49,20/06/2023,On Hold,None,N,Y,Clare S.
+DC100338,Jayne Richardson,1992-03-18,G99 7QB,South West,Hallgate Bank,Rent Arrears,11873.97,4229.14,22.96,2023-04-09,Closed,None,N,Y,Gerald C.
+DC100606,Naomi Howarth,1971-03-28,,South West,Pinnacle Retail Finance,Catalogue Debt,13038.27,13038.27,0.7,18/12/2024,In Arrangement,None,N,Y,Marilyn B.
+DC100094,Robert Long,1973-04-17,CF7Y 1DP,South West,Vantage Home Finance,Catalogue Debt,2361.77,2361.77,15.17,2024-04-17,On Hold,None,N,N,Tina B.
+DC100835,Julian Whittaker,1952-02-06,E4 7UQ,South East,Northbridge Finance,Council Tax,8268.88,8268.88,16.21,2023-04-18,On Hold,None,N,N,Janice S.
+DC100036,David Rogers,1955-01-06,N7H 3WU,North East,Hallgate Bank,Mobile Phone Contract,9622.36,9622.36,1.54,2025-10-19,Open,None,N,N,Leslie S.
+DC100838,Gemma Dawson,16/05/2006,NP7V 4QP,Yorkshire,Summit Consumer Credit,Mobile Phone Contract,12580.12,10951.15,0.02,27-02-2026,Open,,N,N,Deborah W.
+DC100428,Tina Young,1956-11-24,LE67 9ZA,Yorkshire,Yorkshire Utilities Group,Credit Card,8837.8,5458.48,26.81,2025-01-10,Open,None,N,N,Duncan Y.
+DC100866,Marcus Lambert,1942-12-01,N02 8PB,North West,Kestrel Bank,Credit Card,5595.36,3877.89,14.41,16/05/2024,Open,None,N,Y,Damian H.
+DC100968,Nicole Brown,19/11/1963,,South West,Vantage Home Finance,Council Tax,5231.98,5231.98,13.48,01/29/2024,On Hold,None,N,N,Conor A.
+DC100168,Maria Williams,1986-12-25,CA87 7FW,,Aurora Credit Ltd,Personal Loan,7056.11,7056.11,24.16,12/07/2025,Open,None,N,N,Elizabeth M.
+DC100967,Jack Ellis,1955-10-03,SP9R 9PX,North East,Northbridge Finance,Mobile Phone Contract,12448.35,6553.73,17.0,2025-02-11,Open,None,N,Unknown,Janet J.
+DC100501,Simon Owen,1952-08-22,L2 3XE,South East,Northbridge Finance,Utility Arrears,10882.45,10882.45,27.92,28-11-2024,In Arrangement,None,N,Y,Francesca J.
+DC100324,Lawrence Jennings,1975-11-14,W7A 3PW,,Aurora Credit Ltd,Rent Arrears,14044.63,14044.63,14.66,2025-09-27,Disputed,None,N,N,Jake W.
+DC100376,Barry Morgan,1988-02-28,W9G 5UX,East Anglia,Aurora Credit Ltd,Rent Arrears,12014.96,448.79,,2023-06-01,closed,None,N,N,Julian N.
+DC100089,Joyce Owen,2002-01-14,S4 1TD,London,Vantage Home Finance,Overdraft,12977.15,11923.11,0.91,2025-03-31,Written Off,None,N,N,Cheryl K.
+DC101140,Christine Jones,1964-05-07,SY7X 5SD,South West,Leeds City Council,Rent Arrears,11508.1,11508.1,20.93,13/11/2023,Closed,None,N,N,Mandy S.
+DC101161,Matthew Lucas,1990-02-14,PL32 9WS,East Anglia,Meridian Telecom,Credit Card,12088.01,12088.01,29.19,2024-03-08,Closed,None,N,Y,Leah C.
+DC100569,Hannah Davies,1949-09-18,G4 8UP,Wales,Kestrel Bank,Store Card,532.79,424.56,3.28,20/03/2026,In Arrangement,None,N,N,Jade C.
+DC100364,Melissa Clarke,1976-06-21,B8F 2TE,North West,Summit Consumer Credit,Overdraft,2070.4,283.07,,2024-05-18,Open,None,N,Y,Amelia J.
+DC101066,Stewart Stephenson,1994-03-12,SN0V 3DN,South West,Aurora Credit Ltd,Credit Card,11826.58,11826.58,,2023-11-05,Open,None,N,Y,Kate M.
+DC100930,CHLOE FIELD,1972-10-18,L8 6RU,Yorkshire,Yorkshire Utilities Group,Personal Loan,5981.16,254.84,,2023-11-27,OPEN,None,N,Unknown,Owen W.
+DC100286,Mohammad Burton,2001-01-10,M7W 7BY,North East,Kestrel Bank,Catalogue Debt,8676.7,4454.35,2.08,05/03/2024,Closed,None,N,N,Kimberley C.
+DC100684,Dennis Smith,1946-01-14,DA3 6GZ,Midlands,Northbridge Finance,Store Card,14987.24,1769.43,26.31,2025-07-24,Open,None,N,,Frederick S.
+DC100170,Beth Collins,28-04-2008,,Scotland,Pinnacle Retail Finance,Personal Loan,14825.96,8370.84,,2026-05-20,In Arrangement,None,N,N,Jemma S.
+DC100925,Elaine Potts,11/01/1969,B4 3EX,South West,Pinnacle Retail Finance,Store Card,5063.1,4794.39,10.54,2023-04-24,On Hold,None,N,Y,Clare B.
+DC100298,KEITH WOOD,1947-08-11,W44 0EG,Scotland,Leeds City Council,Council Tax,1159.09,682.42,,09/22/2023,In Arrangement,None,N,Y,Simon D.
+DC100390,Billy Freeman,1974-01-18,N5T 4ZX,East Anglia,Pinnacle Retail Finance,Utility Arrears,3944.98,3944.98,,2024-12-09,Closed,None,N,Y,Shaun R.
+DC101092,Elaine Lamb,1952-04-24,TW5R 7AU,Wales,Meridian Telecom,Council Tax,6185.59,6185.59,20.75,19/10/2022,Open,Mental Health,N,N,Vanessa S.
+DC100377,Angela Brookes,01/10/1968,B8 5NU,North East,Meridian Telecom,Credit Card,1624.52,1624.52,24.19,2023-05-01,Open,None,N,N,Eleanor B.
+DC100483,Marie Collins,1996-04-23,L1U 6PR,Yorkshire,Vantage Home Finance,Utility Arrears,5456.02,5456.02,15.86,2023-03-03,On Hold,Mental Health,N,N,Victor O.
+DC100022,Damian Ahmed,2004-10-01,B9B 9YW,Midlands,Vantage Home Finance,Catalogue Debt,8383.03,6774.83,24.93,2024-12-14,Closed,None,N,Y,Guy H.
+DC101155,Joshua White,1978-08-14,E4 7RW,North West,Summit Consumer Credit,Credit Card,14917.75,11208.53,17.6,2024-05-17,In Arrangement,None,N,Y,Norman W.
+DC101045,Jennifer Wheeler,1992-01-18,BA1 9NW,South East,Hallgate Bank,Store Card,2680.23,348.72,8.03,2026-06-24,In Arrangement,None,N,Y,Beth G.
+DC100634,Eric Stewart,1969-07-17,L25 1EA,Midlands,Aurora Credit Ltd,Overdraft,3104.93,3104.93,24.1,01/05/2023,In Arrangement,Bereavement,N,N,Catherine W.
+DC101013,Gavin Palmer,1971-02-08,S91 2WY,,Summit Consumer Credit,Overdraft,8075.51,8075.51,9.77,2024-04-14,Written Off,None,N,N,Georgia B.
+DC100073,Danny Taylor,2007-06-01,DY60 7RR,East Anglia,Kestrel Bank,Overdraft,11597.49,1912.2,5.41,08/28/2023,Open,None,N,N,Cheryl J.
+DC100090,Ruth Anderson,1942-03-05,G93 8HY,South East,Pinnacle Retail Finance,Overdraft,2497.49,1459.48,11.08,2025-10-20,Closed,None,N,Y,Robin B.
+DC100933,Karl Cooper,1952-11-22,L7 8HA,South East,Yorkshire Utilities Group,Credit Card,9983.85,9983.85,,25/08/2025,In Arrangement,Elderly - Support Needed,N,Y,Kate K.
+DC100596,Garry Turner,1994-02-04,M2W 0TT,,Leeds City Council,Council Tax,2462.21,1061.92,28.96,25-09-2025,Closed,None,N,N,Jamie S.
+DC100165,Natalie Parkes,04/16/1968,TD4Y 4QZ,North West,Pinnacle Retail Finance,Utility Arrears,1244.58,1244.58,4.81,2024-09-09,Closed,Physical Health,N,Unknown,Ross L.
+DC100064,Charlene Rogers,02/04/1968,W7B 6PZ,North West,Pinnacle Retail Finance,Overdraft,9979.79,5132.99,20.28,15-10-2023,Open,None,N,N,Tony P.
+DC100044,Janice Roberts,09-10-2001,KY7 6PR,South West,Pinnacle Retail Finance,Rent Arrears,9050.76,9050.76,0.08,2024-08-19,Open,None,N,N,Roger G.
+DC100782,Sharon Thomas,10/03/1989,L99 2YU,East Anglia,Yorkshire Utilities Group,Catalogue Debt,10647.53,7932.42,17.24,2025-05-25,Open,None,N,N,Lewis N.
+DC101046,Bryan Peacock,,BS3B 9RL,East Anglia,Leeds City Council,Personal Loan,14967.78,11372.55,27.62,2024-04-12,Open,None,N,Y,Jacob E.
+DC100719,Melanie Jones,1976-01-03,TW1H 2ZG,Scotland,Pinnacle Retail Finance,Personal Loan,8450.32,2510.19,13.64,2025-01-04,In Arrangement,None,N,Y,Christopher D.
+DC100891,Samantha Wilson,1997-01-05,L6S 9LN,North East,Aurora Credit Ltd,Overdraft,3808.99,271.4,1.85,03/08/2026,Open,None,N,N,Maurice S.
+DC100555,Damian Hudson,19-07-1955,M76 9BU,Wales,Hallgate Bank,Overdraft,998.21,,16.99,20/02/2023,In Arrangement,None,N,Y,Eleanor P.
+DC100536,Sean Read,1948-01-26,DY20 0DU,Wales,Northbridge Finance,Council Tax,8546.83,2644.45,16.81,14-09-2023,Open,None,N,Y,Josephine P.
+DC101179,Jessica Foster,30/08/1972,,Wales,Leeds City Council,Personal Loan,14716.96,4430.06,27.33,25/10/2022,Disputed,None,N,Y,Rebecca P.
+DC101020,Judith Thompson,1947-07-13,E61 7TS,London,Summit Consumer Credit,Council Tax,5679.63,4414.0,14.62,2024-02-01,Open,None,N,Y,Paula W.
+DC100451,Gavin Bradley,27/11/1980,OL58 2DY,South West,Hallgate Bank,Catalogue Debt,6592.25,5612.85,28.54,17/10/2025,Open,None,N,Y,Holly C.
+DC100128,Marc Young,1962-03-08,TW87 0HN,South West,Aurora Credit Ltd,Credit Card,14756.58,4759.41,,08/12/2023,Written Off,Elderly - Support Needed,N,N,Susan T.
+DC100374,Elaine Parry,1942-07-07,E4 1RN,North East,Aurora Credit Ltd,Overdraft,10406.86,9509.87,14.76,11-04-2024,Open,None,N,N,Bernard S.
+DC100827,Melissa Brooks,1950-09-27,CH3A 2LA,London,Yorkshire Utilities Group,Council Tax,11699.44,11433.45,2.67,2026-02-25,In Arrangement,None,N,Unknown,Alice A.
+DC100979,Shannon O'Neill,1993-07-13,B7H 4RB,London,Northbridge Finance,Credit Card,5652.58,2981.07,16.94,03-04-2025,Legal Action,None,N,Y,Julie M.
+DC100504,Antony Barber,09/10/2005,CH2 2HW,North West,Aurora Credit Ltd,Personal Loan,10252.19,3751.2,,2023-02-24,On Hold,Mental Health,Y,Unknown,Teresa B.
+DC100880,Henry Cunningham,,OX6 9LQ,North East,Summit Consumer Credit,Mobile Phone Contract,13220.63,8513.41,0.34,2024-11-05,On Hold,None,N,N,Max S.
+DC100260,Rhys Smith,1945-05-01,B0 7SG,South East,Hallgate Bank,Rent Arrears,9793.76,7529.75,,2023-09-23,closed,None,N,Unknown,Amy H.
+DC100019,Frank Thompson,1973-09-29,,North West,Meridian Telecom,Credit Card,6263.94,2067.68,6.65,2023-07-23,Open,None,N,N,Sandra H.
+DC100299,Rebecca Roberts,1961-12-26,B0 2PQ,Midlands,Aurora Credit Ltd,Utility Arrears,9129.58,5697.24,13.96,2025-08-12,In Arrangement,None,N,N,Jennifer N.
+DC101097,Diane Rowley,27/12/1963,EX8H 4LD,North East,Northbridge Finance,Council Tax,7507.52,6926.2,2.4,2026-06-01,Open,None,N,Y,Barbara B.
+DC101137,Ian Stephenson,11/03/1997,B1 4UH,Midlands,Northbridge Finance,Council Tax,2696.63,1423.15,13.64,2024-05-03,Open,None,N,N,Vincent J.
+DC100221,Glen Haynes,01/09/1980,TN50 1TA,South East,Aurora Credit Ltd,Utility Arrears,1899.75,1886.08,17.5,2024-12-09,In Arrangement,None,N,N,Harry M.
+DC100076,Kayleigh Edwards,12/05/1992,E3 3DS,London,Northbridge Finance,Mobile Phone Contract,6311.22,3809.11,25.09,20/02/2026,Closed,None,N,N,Nigel C.
+DC101073,SAM POOLE,1973-12-10,DA4 4XN,North West,Aurora Credit Ltd,Store Card,6085.09,1880.56,16.35,2023-06-10,In Arrangement,None,N,Y,Glen D.
+DC100861,Alex Hopkins,1942-05-16,L0 0QS,North West,Yorkshire Utilities Group,Store Card,991.83,175.31,,25/06/2026,In Arrangement,,N,Y,Kirsty K.
+DC100557,LYNDA HOWELLS,1991-01-02,L4 4QE,South West,Northbridge Finance,Personal Loan,281.73,271.3,18.25,07/11/2025,In Arrangement,None,N,Y,Eleanor T.
+DC100551,Carol Smith,02-12-1950,LL7 6BH,Scotland,Summit Consumer Credit,Council Tax,4492.33,1769.42,21.98,30/10/2022,Open,None,N,Unknown,Sam S.
+DC100290,Ian Ashton,1990-05-29,,North East,Vantage Home Finance,Overdraft,6635.52,6635.52,13.59,11/06/2026,In Arrangement,None,N,N,Eric F.
+DC100122,Megan Booth,1950-02-28,PO01 4HF,South West,Pinnacle Retail Finance,Mobile Phone Contract,1241.57,908.86,0.16,2025-06-26,Written Off,None,N,Y,Lorraine S.
+DC100535,Dawn White,1989-03-29,SY6 7ZR,South West,Kestrel Bank,Overdraft,7756.27,6769.09,13.84,2024-12-31,In Arrangement,None,N,N,Danielle L.
+DC100715,Antony Harding,1948-09-13,PE6 6JB,London,Aurora Credit Ltd,Personal Loan,2604.07,1323.69,25.5,2024-09-27,Open,,N,N,Terence S.
+DC100975,June Tyler,1968-07-08,L2K 1QA,Scotland,Yorkshire Utilities Group,Personal Loan,5344.0,5344.0,18.36,2022-10-23,Closed,None,N,N,Grace Y.
+DC100266,Arthur Green,1977-09-21,IG27 4TT,London,Meridian Telecom,Overdraft,14327.28,8033.52,18.18,12/06/2023,In Arrangement,None,N,N,Marcus W.
+DC100978,Sam Smith,27-10-1989,BD6V 6DS,Yorkshire,Vantage Home Finance,Store Card,13252.7,5531.19,20.67,29/12/2022,Open,None,N,N,Elliot Y.
+DC100319,Dominic Russell,18-04-2006,E22 6BS,North East,Pinnacle Retail Finance,Overdraft,14288.76,13964.54,19.28,2023-11-15,In Arrangement,Bereavement,N,Y,Ricky R.
+DC100608,Rebecca Price,08/09/1950,BT10 2UH,North West,Pinnacle Retail Finance,Catalogue Debt,9198.9,2540.64,0.67,2024-05-22,Open,None,N,Y,Katie F.
+DC100833,Mohammed Kay,2001-11-30,W6 0GL,Midlands,Kestrel Bank,Council Tax,379.61,89.38,9.8,11-04-2023,Open,None,N,,Martin T.
+DC100125,Rosie King,26/04/1976,B6W 0RQ,Midlands,Meridian Telecom,Mobile Phone Contract,8976.73,6279.8,20.78,2024-02-19,In Arrangement,None,N,N,Howard M.
+DC100233,Connor Price,14/02/1982,SE2B 2AG,South East,Pinnacle Retail Finance,Rent Arrears,12235.2,6404.64,24.22,2023-12-07,Closed,None,N,Y,Jean W.
+DC100783,Gareth Miller,1961-10-09,W1 5GN,London,Aurora Credit Ltd,Credit Card,6011.57,6011.57,10.21,2026-02-13,Open,None,N,Y,Shaun T.
+DC100635,Peter Wright,24-04-1983,EH1 3PB,North West,Vantage Home Finance,Personal Loan,5006.99,5006.99,23.34,12/01/2024,Closed,None,N,N,Brett R.
+DC101016,Rita Short,26/06/1984,BA45 2JG,London,Northbridge Finance,Mobile Phone Contract,10230.55,9188.85,2.9,2024-03-31,Written Off,None,N,N,Anna B.
+DC100685,Melissa Parkin,11-12-1983,BT56 2UT,Wales,Yorkshire Utilities Group,Council Tax,14292.76,14292.76,5.71,2023-10-15,In Arrangement,None,N,N,Mary L.
+DC100458,Barry Cunningham,1984-05-24,YO96 7WS,South East,Leeds City Council,Utility Arrears,8042.33,2541.54,6.75,08/05/2024,Closed,None,Y,Y,Lynn P.
+DC100778,Ryan Smith,1946-07-04,W0 5DN,North West,Yorkshire Utilities Group,Credit Card,4073.37,2713.74,25.16,2024-12-14,Open,None,N,N,John R.
+DC100883,Chloe Gardner,22/10/1992,CO32 9BJ,North West,Hallgate Bank,Overdraft,13422.38,4148.45,19.14,2023-10-21,Closed,None,N,Unknown,Geoffrey W.
+DC100149,Sara Davies,1948-10-19,IG58 2HZ,South East,Leeds City Council,Personal Loan,10753.21,10753.21,3.57,17-07-2026,Open,Mental Health,N,Y,Natasha A.
+DC100406,Hannah Riley,21/01/1954,NG3H 4SP,Yorkshire,Hallgate Bank,Council Tax,14451.51,5547.89,19.1,2025-02-18,Open,None,N,N,Lydia B.
+DC100916,Daniel Atkins,1971-12-05,OX7P 6DJ,North West,Hallgate Bank,Credit Card,4104.13,3436.31,26.36,2023-02-10,Closed,None,N,Y,Jane M.
+DC101100,Rosie Whitehouse,01/06/1949,E21 0SJ,South West,Meridian Telecom,Store Card,9835.43,6899.9,9.9,24/06/2025,Written Off,None,N,N,Rhys P.
+DC100727,Ross Owens,1947-11-11,M97 8QY,East Anglia,Meridian Telecom,Rent Arrears,569.3,569.3,1.46,2026-05-07,Open,None,N,N,Lawrence F.
+DC100156,Joel Vaughan,1988-08-27,HD75 4EY,South West,Hallgate Bank,Credit Card,784.04,784.04,12.76,04/06/2025,In Arrangement,None,N,Unknown,Sian D.
+DC100317,Alison Warner,1999-10-01,S38 0RR,East Anglia,Yorkshire Utilities Group,Council Tax,3189.98,3189.98,26.85,2025-08-14,Open,None,N,Y,Helen A.
+DC100851,Peter Lee,26/11/1970,M6 2JX,North West,Kestrel Bank,Council Tax,2717.18,1240.76,26.27,2022-12-09,In Arrangement,None,N,N,Elliot F.
+DC100159,Mohamed Edwards,24-07-1947,G6 7HN,Midlands,Kestrel Bank,Council Tax,8699.03,150.8,24.11,2025-09-27,On Hold,,N,Unknown,Danny H.
+DC100277,Rebecca Cole,05/09/1959,S1S 3QU,,Pinnacle Retail Finance,Rent Arrears,11792.24,6910.81,6.23,12/12/2025,Legal Action,None,N,N,Marilyn W.
+DC100070,Eric Chambers,20/10/2002,G7 8LS,Wales,Vantage Home Finance,Utility Arrears,7642.55,7642.55,27.45,2024-07-12,Closed,None,N,N,Pamela R.
+DC100105,Sharon Jarvis,1966-07-30,N1G 6AT,Wales,Yorkshire Utilities Group,Rent Arrears,10600.93,9772.97,9.81,2025-06-23,Open,None,N,Y,Martin T.
+DC100060,Lynda Anderson,10/10/1982,LD74 4YZ,,Leeds City Council,Mobile Phone Contract,5183.13,2832.59,20.54,2025-10-05,Open,None,N,Y,Darren J.
+DC100805,Ross Jordan,02/17/1977,TD40 1FA,Scotland,Northbridge Finance,Utility Arrears,14189.97,14189.97,6.85,2023-09-06,On Hold,None,N,Y,Kim R.
+DC101119,Emily Ferguson,03-05-1972,W68 9TP,London,Leeds City Council,Catalogue Debt,5525.88,270.65,29.14,2026-04-14,Written Off,None,N,N,Raymond C.
+DC101124,Jemma Pearson,1987-12-15,L7 1LJ,South West,Yorkshire Utilities Group,Overdraft,5368.33,3137.05,24.19,13/11/2024,Legal Action,None,N,Y,Shane G.
+DC100353,Shaun Spencer,16/04/1975,B2G 1FU,Wales,Aurora Credit Ltd,Mobile Phone Contract,10803.18,1331.37,21.8,19/10/2025,Legal Action,None,N,Y,Grace W.
+DC100450,Francesca Hammond,1961-04-07,S3K 8GU,East Anglia,Aurora Credit Ltd,Utility Arrears,2300.62,1798.77,29.38,2024-07-11,In Arrangement,None,N,Y,Jacqueline C.
+DC101151,Jeremy Hall,,B4K 8UG,Scotland,Leeds City Council,Catalogue Debt,7807.2,6297.47,8.57,29-03-2024,Open,None,N,N,Alison H.
+DC100295,Russell Booth,1983-08-02,CB8M 6EW,,Hallgate Bank,Utility Arrears,12352.6,2005.89,21.96,25/11/2023,Closed,None,N,N,Marian H.
+DC100196,Amy Cooper,25/06/1946,G62 4NL,Midlands,Aurora Credit Ltd,Overdraft,7698.74,7698.74,18.12,2026-04-02,In Arrangement,None,N,N,Valerie L.
+DC101024,Rosemary Newman,29/07/1998,RG03 0FB,London,Hallgate Bank,Rent Arrears,6973.02,5160.33,6.65,26-08-2025,In Arrangement,None,N,Y,Frank W.
+DC100351,Dean Pickering,11-07-1980,S9F 6HS,Yorkshire,Yorkshire Utilities Group,Catalogue Debt,4726.35,1675.98,9.25,29-09-2023,Open,None,N,Y,Lynn L.
+DC100550,Lydia Miller,1998-02-14,,South West,Summit Consumer Credit,Credit Card,5245.42,5245.42,0.45,30/04/2024,Open,None,N,N,Joyce F.
+DC101011,Jeremy Spencer,1976-12-29,G8 1PP,East Anglia,Meridian Telecom,Store Card,6268.29,2568.33,,03-06-2026,Open,None,Y,N,Bernard S.
+DC101176,Dale Spencer,1946-04-19,CV69 0XL,Scotland,Hallgate Bank,Credit Card,6300.39,1726.45,13.24,06/07/2025,Open,None,N,Y,Russell W.
+DC100245,Gavin Price,,G4 3PF,South East,Hallgate Bank,Council Tax,11903.27,11903.27,,2026-01-22,In arrangement,None,N,N,George E.
+DC100355,Mark Lawson,1985-05-23,DG0 9GB,Wales,Vantage Home Finance,Council Tax,13164.39,727.24,29.13,2025-11-14,Open,Physical Health,N,N,Rebecca S.
+DC100639,Frances Gill,1971-08-07,E10 9HY,London,Meridian Telecom,Credit Card,1978.18,1978.18,11.94,2024-01-03,Legal Action,None,N,Y,Malcolm T.
+DC100670,Liam Dawson,31/08/1986,,North West,Kestrel Bank,Mobile Phone Contract,2710.04,985.15,26.65,2024-07-12,Disputed,,N,N,Tony C.
+DC100102,Maurice Fraser,30/11/1961,E0C 9BD,South East,Leeds City Council,Council Tax,1822.8,1526.61,25.6,2023-12-29,Open,None,N,N,Abdul W.
+DC101132,Charlotte Peters,11/10/1971,W78 3DZ,Yorkshire,Meridian Telecom,Utility Arrears,436.27,313.12,,2024-04-02,In Arrangement,None,N,N,Kenneth Y.
+DC100570,Elliott Ellis,1970-02-28,BH2 4QS,Wales,Pinnacle Retail Finance,Catalogue Debt,5402.76,4975.58,21.99,2023-09-28,In Arrangement,None,N,Y,Lawrence P.
+DC100946,Joshua Stanley,1947-11-02,G6 5PE,Yorkshire,Meridian Telecom,Council Tax,14537.26,8465.28,27.8,2024-02-16,Closed,Physical Health,N,N,Christian J.
+DC100710,Charlene Lees,2008-07-04,RG37 6BP,Wales,Aurora Credit Ltd,Council Tax,6098.31,5719.3,3.45,2025-06-28,Written Off,None,N,Y,Carl M.
+DC101146,Gavin Skinner,1993-06-30,LD1 5RA,Yorkshire,Yorkshire Utilities Group,Rent Arrears,651.27,466.15,14.82,01/01/2023,Open,None,N,N,Amelia A.
+DC100999,Owen Berry,28/03/1950,BA3 4NQ,North West,Vantage Home Finance,Personal Loan,6616.29,3856.26,7.84,2024-07-05,Closed,Financial Hardship,N,Y,Peter S.
+DC100543,Graham Walker,1945-03-05,DA0 0TS,Yorkshire,Kestrel Bank,Mobile Phone Contract,1849.94,1849.94,13.44,01/12/2023,Written Off,None,N,N,Kirsty L.
+DC100420,Ryan Hanson,2006-08-08,DT33 2TZ,South East,Leeds City Council,Overdraft,7021.03,7021.03,24.22,2026-05-07,In Arrangement,Mental Health,N,Y,Wendy H.
+DC101078,Peter Carr,1945-06-10,M8C 8PB,,Hallgate Bank,Rent Arrears,14860.77,14860.77,10.9,2023-09-07,In Arrangement,None,Y,Y,Nathan R.
+DC100133,,03/10/1966,G7F 7DY,Scotland,Kestrel Bank,Utility Arrears,8130.08,657.23,13.48,2024-12-10,Open,None,N,Y,Ashley H.
+DC100945,Elliot Higgins,1948-07-24,,Wales,Leeds City Council,Personal Loan,14343.43,11214.13,11.72,2025-04-20,Open,None,N,Y,Katy F.
+DC100457,Rebecca Gray,19/03/1951,CO2A 0FU,,Yorkshire Utilities Group,Mobile Phone Contract,2277.17,1813.17,19.37,2026-08-18,Open,None,N,Y,Sylvia W.
+DC100950,Patrick Roberts,1971-12-01,G3 4ND,Yorkshire,Yorkshire Utilities Group,Personal Loan,1005.41,1005.41,,2023-05-15,Open,None,N,N,Jeffrey S.
+DC100545,Frances Martin,1974-07-02,HR2W 5SH,Wales,Kestrel Bank,Personal Loan,12511.18,5375.18,18.7,2025-11-25,Closed,None,N,N,Jean W.
+DC100369,Ben Howard,23/01/1996,CB7Y 4QQ,,Vantage Home Finance,Store Card,236.83,236.83,24.31,2024-08-02,Closed,None,N,N,Yvonne B.
+DC100021,Terry George,12-06-1980,G0J 2DZ,Wales,Yorkshire Utilities Group,Mobile Phone Contract,5870.15,5870.15,28.37,2024-09-09,In Arrangement,None,N,N,Joseph D.
+DC100334,Leslie Burgess,1957-06-18,RM6M 2PU,Scotland,Kestrel Bank,Rent Arrears,1621.72,1621.72,,04/08/2023,Open,None,N,Unknown,Bethany W.
+DC100847,Scott Houghton,01/12/2001,S2 0TW,,Leeds City Council,Rent Arrears,2638.71,2638.71,21.91,2026-02-28,Closed,None,N,Y,Kelly B.
+DC100676,Kayleigh Barrett,,CM33 5PG,Yorkshire,Yorkshire Utilities Group,Mobile Phone Contract,381.55,381.55,29.51,04/11/2024,In Arrangement,Bereavement,N,Y,Stephen A.
+DC100207,Mohamed Moore,24/11/2005,RG22 6AZ,North East,Meridian Telecom,Overdraft,13931.51,12452.88,0.92,2023-08-18,Closed,None,N,Y,Joe P.
+DC100736,Amber Nicholls,1961-01-04,WV2 5AE,Scotland,Leeds City Council,Rent Arrears,5234.79,2528.42,27.71,2023-02-21,Open,None,N,Y,Sharon H.
+DC101123,Damian Green,23/03/1965,S5 7RX,South West,Aurora Credit Ltd,Catalogue Debt,1303.14,1303.14,15.11,13/02/2024,Disputed,None,N,Y,Benjamin W.
+DC100553,Jane Wheeler,1986-05-25,WC23 9WE,Yorkshire,Leeds City Council,Catalogue Debt,3641.31,2038.12,8.98,2026-03-11,OPEN,None,N,Y,Zoe A.
+DC100288,Shirley Lawrence,2007-10-25,,Scotland,Northbridge Finance,Mobile Phone Contract,14855.8,6198.92,28.94,2023-04-13,Disputed,None,Y,N,Christopher P.
+DC100272,Carole Reed,14/08/2004,E4W 6LR,North West,Northbridge Finance,Personal Loan,2308.81,2233.93,5.33,2026-05-06,In Arrangement,None,N,N,Abbie J.
+DC101114,Scott Arnold,14/11/1993,L37 0PW,Yorkshire,Northbridge Finance,Overdraft,2563.5,2563.5,24.86,12/17/2024,In Arrangement,None,N,Y,Neil C.
+DC100703,Leanne Higgins,31/07/1974,NR7E 1UX,South East,Kestrel Bank,Mobile Phone Contract,9334.43,3625.24,14.16,23/01/2023,Disputed,None,Y,Y,Cameron S.
+DC100083,Wayne Green,15/10/1960,L28 8WL,,Pinnacle Retail Finance,Mobile Phone Contract,12752.74,4105.25,16.96,2025-08-25,Open,None,N,N,Roger S.
+DC100160,Darren Walker,1946-10-21,B2G 0RU,London,Vantage Home Finance,Council Tax,13242.15,13242.15,,20-12-2024,Disputed,None,N,Y,Christian C.
+DC100025,Geraldine Stokes,16/08/2007,B8E 2LE,North East,Vantage Home Finance,Rent Arrears,2130.09,1140.36,27.11,18/11/2025,In Arrangement,None,N,Y,Kenneth C.
+DC100718,Leah Campbell,04/01/1961,BR8 6AR,Scotland,Leeds City Council,Store Card,2749.09,2712.61,7.99,2023-03-19,In Arrangement,Elderly - Support Needed,N,Unknown,Suzanne W.
+DC100544,Emily Phillips,1988-01-18,IM9 5YE,North West,Yorkshire Utilities Group,Credit Card,7998.66,7998.66,26.71,09/01/2025,Open,Elderly - Support Needed,N,Y,Wendy S.
+DC100303,Abbie McLean,19/08/1988,OX9H 8WZ,South West,Yorkshire Utilities Group,Catalogue Debt,12641.55,12641.55,26.8,18/05/2025,Open,None,N,Y,Neil W.
+DC100438,Paula Brown,1979-12-26,BR2 0PR,South West,Hallgate Bank,Personal Loan,2906.72,2906.72,4.97,2024-01-08,Written Off,None,N,Y,Kayleigh W.
+DC101128,Teresa Reid,1959-11-10,S2W 9LP,North East,Meridian Telecom,Credit Card,10244.1,8511.21,9.42,25/11/2024,In Arrangement,None,N,Y,Dominic M.
+DC100586,Hollie Davies,09/06/1995,B31 3AH,North West,Kestrel Bank,Rent Arrears,1300.52,1102.29,22.91,2023-01-24,Open,None,N,N,Hayley B.
+DC100371,Katie Ball,1966-08-20,CT2X 6ZY,Yorkshire,Aurora Credit Ltd,Overdraft,8840.61,7060.66,25.37,05/11/2023,Legal Action,None,N,N,Carol B.
+DC100567,Graham Boyle,12/10/1949,IV3Y 6ZL,Midlands,Kestrel Bank,Credit Card,7949.13,3909.16,21.97,2023-12-27,Open,None,N,Y,Liam G.
+DC100857,Beverley Walters,1975-03-13,,North West,Yorkshire Utilities Group,Store Card,3810.37,376.95,24.44,04/20/2025,Disputed,None,N,Unknown,Joseph T.
+DC100279,Allan Baxter,09/28/1984,SA6 0UF,South East,Hallgate Bank,Rent Arrears,1525.17,753.44,9.79,2025-05-17,On Hold,None,N,Y,Eileen L.
+DC100129,Anthony Taylor,18/04/1963,KY6 6PG,North West,Aurora Credit Ltd,Utility Arrears,2388.56,5.49,10.26,2023-03-18,Open,Mental Health,N,N,Jean M.
+DC100691,Sean Smith,,EH9 0ED,,Pinnacle Retail Finance,Catalogue Debt,13763.95,12236.54,28.37,2025-05-22,OPEN,None,N,N,Carly E.
+DC100682,Gerard Banks,17/04/1956,EH3 3JZ,North West,Yorkshire Utilities Group,Credit Card,9336.01,7749.68,16.83,04/08/2025,Closed,None,N,N,Margaret B.
+DC101019,Arthur Johnson,1942-08-29,W0 6BX,East Anglia,Northbridge Finance,Mobile Phone Contract,4834.08,4834.08,27.86,2022-10-27,On Hold,None,N,Y,Gemma C.
+DC101153,Hilary Howe,01/04/1993,L59 3TE,Scotland,Northbridge Finance,Personal Loan,2621.91,2621.91,10.59,2022-11-22,Open,None,Y,Y,Oliver O.
+DC100575,Hugh Payne,1987-01-19,IG91 2AD,East Anglia,Kestrel Bank,Rent Arrears,10963.57,7237.69,18.7,2025-05-21,Closed,None,N,N,Kelly H.
+DC100223,Francesca O'Brien,03/09/1967,SY3P 1AH,South West,Aurora Credit Ltd,Personal Loan,14473.87,14473.87,11.09,2023-12-02,Open,Bereavement,N,N,Lesley H.
+DC100037,Glen Lewis,1983-10-06,M33 0BJ,East Anglia,Yorkshire Utilities Group,Rent Arrears,4661.96,4661.96,27.16,13/01/2024,Written Off,None,N,N,Alice T.
+DC100032,Tracey Davies,03-02-1998,E4 9LB,Wales,Leeds City Council,Rent Arrears,5528.49,599.43,13.9,07/01/2024,Open,None,N,N,Raymond A.
+DC100395,Jason Jones,02/03/1984,WV6N 9LW,North East,Meridian Telecom,Rent Arrears,9190.48,9190.48,,02/19/2024,Open,None,N,N,Simon H.
+DC101118,Lawrence Smith,16/04/1966,M4 2NA,South West,Leeds City Council,Utility Arrears,334.6,21.13,21.39,19/06/2025,Open,None,N,Y,Matthew R.
+DC101144,Lisa Lloyd,1964-08-07,L7 3AW,North West,Yorkshire Utilities Group,Catalogue Debt,7507.17,2920.93,1.46,2024-04-26,Written Off,None,N,N,Raymond H.
+DC100289,Rhys Carter,1952-03-09,TN12 6RS,Midlands,Yorkshire Utilities Group,Rent Arrears,10719.84,,27.64,18/09/2025,Open,None,N,Y,Lesley C.
+DC100024,Liam Powell,14/02/1975,WS1 5NG,London,Kestrel Bank,Credit Card,6304.45,6304.45,25.73,29-03-2023,In Arrangement,None,N,N,Jennifer L.
+DC101185,Christian Smith,1941-04-26,ML0 6FG,North East,Summit Consumer Credit,Overdraft,13527.9,,22.47,2026-01-27,Closed,None,N,N,Anthony J.
+DC100505,Helen Morgan,16/07/1977,KT7 4HD,North West,Yorkshire Utilities Group,Store Card,10065.5,10065.5,10.48,28/03/2023,Written Off,None,N,N,Daniel C.
+DC101062,Marie Joyce,2001-12-09,G9F 8RT,Scotland,Kestrel Bank,Credit Card,5635.29,4174.97,7.77,2024-09-02,Written Off,Elderly - Support Needed,N,Y,Connor K.
+DC101199,Joan Reynolds,10/09/1959,L06 4PW,Midlands,Northbridge Finance,Store Card,7657.09,3441.91,4.51,2025-01-17,Open,None,N,N,Clifford M.
+DC101005,Brett Ryan,2006-10-12,B2B 6RU,London,Summit Consumer Credit,Overdraft,6626.79,6626.79,26.39,09/26/2023,Legal Action,,N,N,Anthony H.
+DC100786,JILL THOMAS,10/03/2007,,Midlands,Aurora Credit Ltd,Catalogue Debt,3631.15,3631.15,15.61,11-12-2022,On Hold,None,N,Y,Tracey D.
+DC100472,Callum Patel,1992-08-30,E24 7DT,East Anglia,Pinnacle Retail Finance,Council Tax,2085.08,1333.27,6.28,05/04/2025,Written Off,None,N,N,Martyn H.
+DC100301,Mohammed Clark,23-01-1988,E69 9TG,North East,Northbridge Finance,Store Card,6707.49,6707.49,19.15,13-12-2022,Open,None,N,N,Kathryn P.
+DC100408,Angela Johnson,1970-09-03,L52 1BJ,,Kestrel Bank,Overdraft,2801.34,2741.13,26.46,05/05/2026,On Hold,None,N,Y,Jasmine B.
+DC101108,Elliott Palmer,25/11/1999,AL6 2YG,Midlands,Aurora Credit Ltd,Personal Loan,13208.49,13208.49,6.89,2023-04-22,Open,None,N,Y,Charlie G.
+DC100437,Hayley Nash,1972-01-17,LL6 8NY,North West,Aurora Credit Ltd,Overdraft,11262.11,11262.11,19.57,2026-02-10,Open,None,N,Y,Josephine S.
+DC100924,Dennis Roberts,16-06-2005,M7H 5FG,Scotland,Summit Consumer Credit,Rent Arrears,6524.61,5260.43,9.08,05-03-2024,In arrangement,,N,N,Judith E.
+DC100605,Sheila Wright,18/02/1957,KW8B 5LW,,Aurora Credit Ltd,Utility Arrears,5568.2,1194.41,,2025-10-02,Disputed,None,N,N,Owen H.
+DC100119,Margaret Kerr,1969-03-11,G40 5XE,East Anglia,Hallgate Bank,Catalogue Debt,13437.65,13437.65,,05/10/2023,On Hold,None,N,Unknown,Georgia B.
+DC100116,Maurice May,15/10/1973,,North West,Kestrel Bank,Credit Card,12297.24,12297.24,13.63,2023-08-11,Open,None,N,N,Ian A.
+DC100748,Kenneth Clarke,1991-03-21,L3T 1DX,Midlands,Yorkshire Utilities Group,Credit Card,11719.03,5233.27,5.14,12/03/2023,Open,None,N,N,Marian W.
+DC100042,Jacqueline Faulkner,04/10/1988,HP87 0HS,South East,Vantage Home Finance,Store Card,14823.57,5074.7,22.72,21/12/2022,Closed,None,N,N,Janet F.
+DC100018,Bradley Oliver,1959-08-31,W8 0XA,South East,Summit Consumer Credit,Overdraft,14587.11,14005.16,22.41,13-09-2023,In Arrangement,None,N,Y,Colin B.
+DC101197,Rhys Savage,1945-03-23,SS7 3TG,Wales,Leeds City Council,Store Card,13112.88,3744.16,17.37,02/01/2026,Closed,None,N,Y,Ellie H.
+DC100243,Cheryl Robson,1956-10-27,TR6 5TL,Wales,Summit Consumer Credit,Personal Loan,5928.48,229.94,19.09,2023-09-29,Open,None,N,N,Donald T.
+DC100739,Carolyn Ryan,1953-08-12,KT50 3UL,London,Leeds City Council,Credit Card,6903.19,63.14,18.78,11/17/2022,Open,None,N,Y,Terence O.
+DC100517,Gregory Naylor,,M7J 3AA,East Anglia,Northbridge Finance,Store Card,8928.89,8928.89,25.17,2025-12-16,Open,None,N,N,Carl S.
+DC101035,Steven Shaw,1992-01-05,BH6 1TS,North West,Summit Consumer Credit,Personal Loan,6484.89,2762.77,,17/07/2025,Closed,None,N,N,Fiona T.
+DC100399,Lynne Kaur,1966-03-24,EN5R 6AB,,Summit Consumer Credit,Store Card,920.16,56.35,15.47,2024-11-16,In arrangement,None,N,N,Glen W.
+DC101187,Luke Rice,22/05/1966,NG76 8TW,South West,Summit Consumer Credit,Overdraft,14004.36,13935.2,,2022-09-21,Legal Action,None,N,N,Owen F.
+DC101025,Brandon Brown,1973-06-01,S73 9LX,Wales,Aurora Credit Ltd,Mobile Phone Contract,6492.79,6249.74,14.35,2026-01-30,Disputed,None,N,Y,Chloe H.
+DC101027,Claire Pugh,1942-06-14,L7 1XN,South West,Kestrel Bank,Catalogue Debt,8948.47,5391.54,18.81,2024-11-06,In arrangement,None,N,,Malcolm W.
+DC100794,Frances Stevenson,1976-02-17,WA27 0HH,Wales,Summit Consumer Credit,Mobile Phone Contract,6313.53,3569.55,4.71,2022-09-26,Open,None,N,N,Emily B.
+DC100180,Terence Morris,07/01/1992,PL3P 8PN,South East,Pinnacle Retail Finance,Catalogue Debt,1476.1,951.67,13.87,2026-04-21,Closed,None,N,Y,Jessica H.
+DC100767,Nathan Whitehead,22-12-2005,N2 6QP,North East,Summit Consumer Credit,Council Tax,9528.34,2750.21,9.94,24/10/2023,Closed,None,N,N,Olivia D.
+DC101068,Lydia Cameron,1990-12-11,N03 7GJ,Scotland,Kestrel Bank,Utility Arrears,13384.4,1158.47,12.53,2024-10-09,Closed,None,N,N,Stanley F.
+DC100825,Robin Jones,1966-11-27,DL9 4TF,,Meridian Telecom,Utility Arrears,11638.77,1595.69,,2024-08-18,On Hold,Physical Health,N,N,Leanne W.
+DC100784,Melissa Evans,16-10-1946,EX74 2EY,,Yorkshire Utilities Group,Store Card,9997.33,9997.33,8.19,2023-06-04,Closed,None,N,Y,Holly T.
+DC100948,Grace Haynes,1986-11-12,E66 9RY,,Summit Consumer Credit,Mobile Phone Contract,3947.54,845.44,4.52,11/24/2023,On Hold,None,N,N,Matthew O.
+DC100919,Wendy Wright,1946-06-05,NE93 7LS,Wales,Pinnacle Retail Finance,Credit Card,6871.47,6252.42,1.76,19/04/2024,Open,Physical Health,N,N,Graeme C.
+DC100571,Marcus Osborne,1992-07-04,KY2 7FX,London,Kestrel Bank,Overdraft,8438.83,1370.17,6.58,2023-10-03,On Hold,None,N,N,Sylvia W.
+DC100908,Stanley Benson,1964-05-10,W79 3AN,,Hallgate Bank,Overdraft,13664.11,6723.79,16.38,2024-04-12,In Arrangement,None,N,Y,Max B.
+DC100929,Dale Scott,1946-12-07,G27 5DB,North East,Yorkshire Utilities Group,Utility Arrears,5195.8,5195.8,16.47,2025-11-13,Legal Action,None,N,N,Ashley L.
+DC100112,Donna Hayes,05/12/1944,SP1 0JT,London,Northbridge Finance,Catalogue Debt,9753.58,758.57,18.09,16-02-2023,Open,None,Y,Y,Jennifer B.
+DC100510,Peter Gibbons,07/09/1974,HD20 4UN,Scotland,Kestrel Bank,Personal Loan,13024.04,11579.26,,17/04/2023,Open,None,N,Unknown,Marion K.
+DC100282,Martyn Hart,1999-04-21,YO4H 8JB,South West,Meridian Telecom,Utility Arrears,2081.6,1101.72,26.65,29/09/2023,Open,None,N,N,Grace A.
+DC101189,Laura Gray,07/30/1948,IM45 5UH,East Anglia,Hallgate Bank,Store Card,4146.36,1748.16,27.49,2026-04-06,Closed,None,N,N,Andrew S.
+DC100677,Guy Brown,1955-03-11,TW4X 0DH,,Leeds City Council,Overdraft,6429.18,2761.08,12.44,2023-08-01,In Arrangement,None,N,Y,Victoria A.
+DC100014,Vanessa Brooks,1970-07-07,L3 5AY,Wales,Pinnacle Retail Finance,Catalogue Debt,3806.3,1543.38,21.41,2024-09-30,Closed,None,N,Y,Andrea W.
+DC100509,Elliot Charlton,1954-09-03,HD5E 7XG,London,Yorkshire Utilities Group,Catalogue Debt,11173.74,9715.03,25.13,2025-06-28,In Arrangement,None,N,N,Eleanor A.
+DC100232,Dennis Simpson,1951-04-16,E4T 3BJ,South West,Hallgate Bank,Utility Arrears,3061.54,612.19,25.4,01/01/2024,Closed,None,N,N,Nicholas B.
+DC101156,Ashley O'Neill,27/09/1951,DH7X 8LU,Yorkshire,Kestrel Bank,Overdraft,4288.71,119.65,18.18,2024-12-15,In Arrangement,None,N,,Joseph C.
+DC100318,Lydia Webster,1978-04-08,DH9 3QY,North West,Yorkshire Utilities Group,Store Card,12406.88,1247.5,,2022-10-09,Closed,None,N,Y,Janice H.
+DC100496,Marion Sutton,17/02/1969,SS80 8RU,South East,Summit Consumer Credit,Mobile Phone Contract,12906.2,7731.6,20.4,2022-11-23,On Hold,None,N,Y,Bethan P.
+DC100746,Irene Morris,1955-02-19,E6C 7QP,Wales,Northbridge Finance,Catalogue Debt,5563.89,5563.89,,2024-07-27,On Hold,None,N,N,Leon G.
+DC100656,Brett Chapman,10/02/1963,WD4H 8LA,North East,Summit Consumer Credit,Overdraft,8848.89,6889.85,26.02,11/28/2023,Open,,N,Y,Clifford B.
+DC100150,Simon Thomas,15/01/1950,NE72 5ZP,Scotland,Vantage Home Finance,Council Tax,4763.86,,17.69,2024-01-10,Closed,None,N,N,Ben L.
+DC100368,Aaron Turner,25/06/1998,HD7M 8YB,East Anglia,Hallgate Bank,Store Card,2855.79,2855.79,7.93,2024-09-29,On Hold,None,N,N,Patricia G.
+DC100197,Mohammed Williams,05/10/1969,N4 7ZZ,Wales,Pinnacle Retail Finance,Rent Arrears,12101.23,10429.08,6.01,2024-08-13,On Hold,None,N,Y,Dominic M.
+DC100433,Elliott Smith,31/10/1979,W87 2ZJ,London,Northbridge Finance,Credit Card,8497.81,8497.81,21.84,02/28/2025,In Arrangement,None,N,Y,Lindsey H.
+DC101134,Leah Bates,1969-07-01,M6 4BE,,Leeds City Council,Utility Arrears,7986.4,1088.57,19.56,2026-02-26,On Hold,None,N,Y,Josh S.
+DC100709,Guy Daly,2004-11-02,SL72 2BZ,Midlands,Hallgate Bank,Personal Loan,8549.41,3688.82,4.18,2026-01-01,Open,None,N,Y,Stanley H.
+DC100093,Philip Jones,,,South West,Pinnacle Retail Finance,Mobile Phone Contract,4303.85,46.95,10.93,24/09/2024,Open,,N,N,Josh M.
+DC100057,Oliver Lee,1960-11-12,AL8 4BB,Midlands,Aurora Credit Ltd,Credit Card,192.11,192.11,10.71,2024-02-19,Open,None,N,N,Andrea H.
+DC100954,Damian Connolly,31/10/1963,S1S 2UH,South West,Aurora Credit Ltd,Catalogue Debt,14311.81,4999.61,26.5,12-12-2025,Open,Financial Hardship,N,N,Samuel K.
+DC100963,Tina Stewart,1984-02-04,ML15 6RA,,Meridian Telecom,Catalogue Debt,9536.98,9536.98,7.72,03/06/2026,Legal Action,None,N,Y,Jeffrey G.
+DC100584,Arthur Cook,2003-02-26,G19 1SX,Midlands,Kestrel Bank,Rent Arrears,7023.77,448.1,14.17,2025-11-23,In Arrangement,None,N,Y,Jack B.
+DC101175,Kathryn Thompson,10-07-1952,B3 6YZ,South West,Leeds City Council,Council Tax,9391.69,7497.02,4.63,2023-08-02,Open,None,N,Y,Emma W.
+DC100135,Allan Turner,02/21/1960,DH12 7GT,South West,Aurora Credit Ltd,Council Tax,5597.9,5597.9,29.88,24/04/2026,In Arrangement,None,N,Y,Nicholas B.
+DC100461,Craig Smith,10-08-1983,BS8W 9BP,London,Leeds City Council,Personal Loan,7608.1,5509.61,12.15,27/04/2025,On Hold,Financial Hardship,N,Y,Eleanor M.
+DC101009,Hazel Cox,21/03/2005,OX40 0AJ,,Northbridge Finance,Utility Arrears,9702.28,9702.28,11.27,2026-03-16,In Arrangement,None,N,N,Brandon P.
+DC100111,Kevin Connolly,03/30/1960,S7 7YH,Wales,Hallgate Bank,Council Tax,7938.28,2410.79,8.99,2025-03-31,Open,None,N,N,Danny B.
+DC100617,Rosemary Williams,05/08/1995,PE07 5SG,North West,Vantage Home Finance,Mobile Phone Contract,9108.25,93.69,27.18,2025-02-05,closed,None,N,N,Elizabeth J.
+DC100940,Nicholas Sullivan,1972-03-16,G1 5YA,South West,Vantage Home Finance,Utility Arrears,8094.42,1551.73,17.4,2023-03-06,Open,None,N,N,Leslie P.
+DC100689,Joan Hammond,11/25/2000,S9 3SL,Wales,Vantage Home Finance,Overdraft,1657.27,726.07,16.51,2026-08-11,Open,None,N,,Damien B.
+DC101138,Abdul Robson,06/07/1953,B9 8UJ,North East,Northbridge Finance,Personal Loan,5815.06,2029.68,22.0,2025-06-03,Closed,None,N,N,Anthony H.
+DC100491,Samantha Ryan,1986-09-30,N3 3SH,Yorkshire,Leeds City Council,Council Tax,5131.75,5131.75,19.09,2023-12-31,Open,None,Y,Y,Nicola B.
+DC100820,Anthony Leach,1988-01-30,CM5W 0JB,Wales,Yorkshire Utilities Group,Rent Arrears,6352.9,688.61,9.74,2024-07-02,Open,None,N,Unknown,Mark K.
+DC100618,Debra Stephens,1958-03-18,G4 2LD,East Anglia,Summit Consumer Credit,Credit Card,11778.18,499.69,24.75,04/03/2023,Disputed,None,N,N,Carl P.
+DC100666,Tracey Butler,1957-07-04,W7H 1NT,,Hallgate Bank,Catalogue Debt,9026.42,5137.57,20.17,2024-01-04,Open,None,N,N,Denis H.
+DC101173,,1979-07-11,N3C 8YP,Yorkshire,Kestrel Bank,Council Tax,14005.82,11772.54,0.65,2023-10-07,Legal Action,None,N,N,Gerald T.
+DC100607,Clifford Kirby,01/02/1994,CR6V 1PW,North East,Meridian Telecom,Catalogue Debt,6033.79,4976.47,13.7,2025-07-09,Open,None,N,Unknown,Carole L.
+DC100307,Rachael Robson,28/01/1984,L7F 0JT,Midlands,Aurora Credit Ltd,Overdraft,2645.56,2645.56,0.47,17/03/2026,Open,None,N,Y,Mohamed M.
+DC100657,Denis Gill,07/03/1968,B7S 6JJ,Yorkshire,Pinnacle Retail Finance,Store Card,8764.81,2547.88,17.14,2024-04-23,Written Off,None,N,Unknown,Rhys J.
+DC100473,Hazel Cooke,27-01-1993,E40 6PB,North East,Yorkshire Utilities Group,Rent Arrears,10614.2,10614.2,1.31,27-12-2023,In Arrangement,None,N,N,Garry A.
+DC100541,Gemma Richards,09/16/1964,BN0 2QQ,North East,Vantage Home Finance,Utility Arrears,9927.89,9927.89,27.73,2026-07-21,Legal Action,None,N,N,Carole P.
+DC100546,Keith Gray,1977-02-27,M9 3ZD,Midlands,Leeds City Council,Personal Loan,12346.72,8767.45,7.22,06-11-2023,Closed,None,N,N,Rosemary G.
+DC100878,Marie Brennan,1942-08-01,S6U 1XR,Scotland,Aurora Credit Ltd,Rent Arrears,12639.26,4287.79,23.9,2025-07-25,In Arrangement,None,N,N,Josephine H.
+DC100177,Helen Miles,1961-02-11,W3W 4FT,South East,Summit Consumer Credit,Catalogue Debt,7881.47,2966.54,3.23,2023-06-11,Open,,N,,Kevin M.
+DC100152,Helen Jackson,25-11-1994,RG0W 4YY,Midlands,Meridian Telecom,Personal Loan,10557.58,6624.97,1.86,2025-07-24,Open,None,N,Y,Julian A.
+DC100360,Gerald Davies,10-05-1956,NE8 4JN,Scotland,Summit Consumer Credit,Mobile Phone Contract,13904.62,9970.65,4.93,2023-12-16,In Arrangement,None,N,N,Colin M.
+DC100953,Lawrence Perry,1990-05-22,NN15 9AJ,North West,Yorkshire Utilities Group,Credit Card,11829.93,7438.47,29.33,2024-05-20,Closed,None,N,Y,Tina W.
+DC100785,Mitchell Alexander,1998-12-31,W58 5DS,Wales,Aurora Credit Ltd,Store Card,13237.4,13237.4,19.26,25-04-2026,Closed,None,N,N,Kathleen P.
+DC100085,Hannah Brown,1977-03-17,SW4W 5EJ,North West,Summit Consumer Credit,Rent Arrears,14959.35,2834.6,8.97,02/07/2024,In arrangement,None,N,N,Megan J.
+DC100804,Teresa Moran,02/17/1951,E9G 2TQ,Yorkshire,Yorkshire Utilities Group,Overdraft,7897.59,2802.17,3.9,2025-02-21,Closed,None,N,N,Christian S.
+DC100836,Holly Smith,1971-12-01,SO5 1LW,Wales,Summit Consumer Credit,Store Card,7756.25,2873.57,22.46,2025-12-18,Open,None,Y,N,Ruth B.
+DC100842,Adam Smith,15/07/1964,G1T 2HS,North East,Summit Consumer Credit,Catalogue Debt,7641.55,3362.79,28.39,2023-10-31,Closed,Physical Health,N,Y,Fiona B.
+DC100384,Tony Warren,16/01/1997,EH6R 0HT,South West,Kestrel Bank,Utility Arrears,7557.59,4357.54,14.49,2023-03-14,On Hold,None,N,Unknown,Neil B.
+DC100723,Robin Andrews,1981-09-01,FY2 1XL,Wales,Aurora Credit Ltd,Store Card,9711.95,8199.79,2.16,2023-07-27,Written Off,None,N,Y,Elliot P.
+DC100430,Mandy Burns,2003-04-23,DD24 7YQ,London,Vantage Home Finance,Overdraft,953.0,78.45,5.49,2022-11-30,Written Off,None,N,Y,Alan G.
+DC100988,Hugh O'Sullivan,08/03/1959,NN1A 9WJ,Scotland,Summit Consumer Credit,Store Card,4496.21,4496.21,28.66,28/06/2026,Written Off,None,N,N,Duncan S.
+DC101103,Heather Lee,1960-11-24,GL3P 5JW,Yorkshire,Aurora Credit Ltd,Council Tax,1148.45,971.63,8.48,2024-05-02,In Arrangement,None,N,N,Thomas W.
+DC100166,Aaron Jones,1971-08-30,KT8 8HJ,South West,Summit Consumer Credit,Rent Arrears,9168.67,9168.67,8.42,2026-08-06,Closed,,N,Y,Gail M.
+DC100646,Chloe Chamberlain,1980-07-19,,Scotland,Kestrel Bank,Mobile Phone Contract,4621.46,1338.1,19.77,2025-09-20,In Arrangement,None,N,Unknown,Marcus E.
+DC100455,Sophie Baker,1998-09-10,B0T 1NA,Wales,Leeds City Council,Rent Arrears,2698.31,61.78,17.25,19/12/2022,Open,None,N,N,Damian W.
+DC100955,Tracy Green,1966-11-03,M46 0LS,South East,Kestrel Bank,Utility Arrears,595.32,210.97,2.37,05/06/2023,Disputed,None,N,Y,Antony O.
+DC100480,Jenna Smith,1967-02-27,HA7V 0BP,South West,Meridian Telecom,Credit Card,1638.47,775.36,0.41,29/10/2025,Written Off,None,N,Unknown,William H.
+DC100904,Gerald Davies,05/10/1958,W42 1WH,,Vantage Home Finance,Personal Loan,9680.54,3379.37,13.65,2023-04-25,In Arrangement,None,N,N,Paul W.
+DC100817,Valerie Morley,23/01/2008,W2 9RJ,North East,Leeds City Council,Utility Arrears,10657.08,10657.08,17.88,15/05/2024,Open,None,N,Unknown,Melissa B.
+DC101010,Garry Davis,17-06-1980,,London,Vantage Home Finance,Catalogue Debt,4724.51,2328.1,18.79,2025-09-23,OPEN,None,Y,Y,Sean M.
+DC100518,Ruth Lee,1972-11-08,KT2 3AE,South East,Hallgate Bank,Credit Card,10890.32,7899.04,20.82,2025-04-13,Closed,None,N,N,Martyn H.
+DC100499,Ashleigh Winter,1983-05-19,HP8A 6LZ,,Meridian Telecom,Catalogue Debt,6537.13,6537.13,5.27,24-03-2024,Legal Action,Physical Health,N,Y,Joanna A.
+DC100402,Shirley Bell,26-08-1990,DD79 9NB,,Northbridge Finance,Rent Arrears,13798.87,13798.87,,2025-07-22,In Arrangement,None,N,Y,Melissa P.
+DC100204,Maureen Bevan,26-06-1987,IV7 5AU,Wales,Pinnacle Retail Finance,Rent Arrears,13751.6,756.51,13.32,2023-08-03,In Arrangement,None,N,N,Stuart H.
+DC100729,Sally Edwards,,M0T 3ZS,South East,Meridian Telecom,Credit Card,2217.2,575.68,26.84,2023-04-13,In Arrangement,None,N,N,Diana M.
+DC101171,Jeremy Lees,30/05/1992,E4 8XL,,Aurora Credit Ltd,Utility Arrears,7189.61,1933.74,18.04,13/08/2026,Open,None,N,Y,Scott L.
+DC100898,Gareth Thomas,12/26/2004,DL6V 9ZP,South West,Pinnacle Retail Finance,Overdraft,3177.78,2379.43,15.92,2026-03-06,On Hold,None,N,Y,Nigel W.
+DC100061,Nigel May,1954-11-07,BT2H 8DG,South West,Northbridge Finance,Catalogue Debt,8491.0,2801.92,10.51,19/07/2023,On Hold,Physical Health,N,Y,Paul H.
+DC100490,Sandra Thomas,1991-01-26,G07 1JT,East Anglia,Aurora Credit Ltd,Store Card,6095.98,5754.62,19.52,2026-05-06,Legal Action,,N,Y,Jenna J.
+DC100529,Joseph Gibson,1980-01-14,L42 1HW,,Aurora Credit Ltd,Catalogue Debt,14603.37,9354.63,20.3,2022-10-11,Open,Physical Health,N,Y,Lindsey J.
+DC100477,Brian Henderson,1940-12-12,CM98 5NR,Midlands,Meridian Telecom,Catalogue Debt,14587.45,9852.92,1.71,06/17/2026,On Hold,None,N,N,William D.
+DC100375,Glen Williams,26-04-1949,B05 7TX,North East,Leeds City Council,Mobile Phone Contract,12131.21,12131.21,23.0,2024-10-13,Open,None,N,N,Abdul P.
+DC100610,GARETH LOWE,08/09/1973,ML8B 7UB,,Pinnacle Retail Finance,Personal Loan,3225.97,703.1,0.54,2024-07-06,Open,None,N,Y,Charles C.
+DC100072,Joel Smart,1980-02-27,W87 5XX,,Meridian Telecom,Rent Arrears,10587.04,559.96,10.84,22/04/2025,On Hold,None,N,Y,Gemma M.
+DC100459,Jacqueline Evans,05/10/1953,W3T 6XY,Wales,Leeds City Council,Personal Loan,12346.95,6301.65,5.11,02/02/2025,In Arrangement,None,N,Y,Claire R.
+DC100671,Barry Mills,1991-08-19,E8 7FU,Midlands,Vantage Home Finance,Rent Arrears,14119.45,14119.45,2.98,14/08/2024,Open,None,N,Y,Ricky G.
+DC100010,Geoffrey Richardson,1977-03-27,HR1M 2TA,East Anglia,Vantage Home Finance,Store Card,5056.86,5056.86,14.14,07/10/2023,Disputed,None,N,Y,Marcus P.
+DC101028,Mohammad Price,1978-05-07,G6W 2JA,,Pinnacle Retail Finance,Utility Arrears,8378.44,4359.38,,27/05/2026,Disputed,None,N,N,Joe H.
+DC100463,Leon Wood,1979-01-20,PA29 4ZA,Wales,Vantage Home Finance,Credit Card,3776.76,985.8,28.84,12/17/2022,Legal Action,Financial Hardship,N,N,Mitchell J.
+DC101141,Ashley Ross,1965-02-10,G0F 9PX,North East,Yorkshire Utilities Group,Rent Arrears,13498.09,13498.09,28.08,19/07/2024,On Hold,None,N,Y,Julia L.
+DC101122,Anna Davey,27/05/1943,SP2R 1FF,,Pinnacle Retail Finance,Store Card,329.51,14.08,8.01,22/09/2024,Open,Financial Hardship,N,N,Timothy N.
+DC100552,Matthew Smith,1995-05-13,B70 1PZ,East Anglia,Hallgate Bank,Catalogue Debt,4122.9,1246.06,,20/04/2025,Open,Financial Hardship,N,N,Joel T.
+DC101104,Jill Smith,01/06/1992,W5 9SD,London,Meridian Telecom,Utility Arrears,9413.16,9413.16,3.95,12/22/2022,On Hold,None,N,Y,Frances M.
+DC100889,Katy Whittaker,17/09/1970,M3F 5JT,London,Pinnacle Retail Finance,Utility Arrears,4181.75,2329.86,18.74,2023-10-11,Legal Action,None,N,N,Guy M.
+DC100609,Sian Hill,1980-09-21,WR49 6TU,South East,Vantage Home Finance,Store Card,4652.54,2260.95,27.97,2024-10-02,Open,None,N,N,Helen W.
+DC100141,ELEANOR GREEN,1984-04-23,G2S 9BA,South East,Aurora Credit Ltd,Overdraft,7230.58,7230.58,14.28,14/01/2025,In Arrangement,None,N,Y,Jonathan T.
+DC101012,Reece Stokes,1969-07-28,N02 1RA,Scotland,Aurora Credit Ltd,Overdraft,4245.62,4245.62,8.64,2023-10-13,In Arrangement,None,N,Unknown,Louise T.
+DC100730,Jennifer Fleming,1995-01-07,KW8 4DN,Midlands,Aurora Credit Ltd,Credit Card,13185.05,4420.92,17.06,2024-09-08,Disputed,None,N,Y,Jane W.
+DC100396,Leon Hamilton,1955-05-28,L8 3HW,North West,Hallgate Bank,Mobile Phone Contract,9079.47,5567.98,13.29,2024-10-03,Written Off,,N,Y,Sylvia S.
+DC100514,Christine Brown,1964-03-05,WR81 7ST,South West,Yorkshire Utilities Group,Mobile Phone Contract,6442.5,1629.44,18.92,05/12/2023,In Arrangement,None,N,Y,Gerard O.
+DC100397,Kayleigh May,1978-09-11,CF9N 6EG,East Anglia,Yorkshire Utilities Group,Credit Card,3628.73,1836.83,24.55,27/11/2024,Open,Mental Health,N,N,Jeremy W.
+DC100824,Jake Ingram,1997-07-16,ST3Y 1UB,East Anglia,Pinnacle Retail Finance,Credit Card,14697.81,14697.81,,2023-09-02,Open,None,N,N,Phillip B.
+DC100354,PHILIP SMITH,09/12/1965,IP6W 9BG,,Kestrel Bank,Overdraft,3121.12,2167.47,9.55,2025-02-08,Open,None,N,N,Ruth H.
+DC100242,Maria Ali,2001-08-15,BT9B 6DY,South West,Northbridge Finance,Personal Loan,5977.46,5977.46,21.37,08/07/2024,On Hold,None,N,,Kirsty F.
+DC101015,Nathan Harding,,,South East,Meridian Telecom,Council Tax,8985.82,4729.0,,2024-03-17,Written Off,None,N,Y,Naomi H.
+DC100195,Sharon Patterson,1978-06-12,,South West,Northbridge Finance,Personal Loan,5984.51,3249.31,13.47,26/04/2024,In Arrangement,None,N,Unknown,Emma B.
+DC101082,Rebecca Wilson,1960-03-24,EN25 6NF,,Hallgate Bank,Credit Card,9096.6,2152.09,13.23,02/08/2025,Legal Action,None,N,Y,Luke N.
+DC100516,Marie Davey,1946-09-26,KT2 9FH,East Anglia,Aurora Credit Ltd,Overdraft,1133.59,1133.59,13.01,2024-04-28,Open,None,N,Y,Christian L.
+DC101091,Marian Bolton,1978-12-01,FY3B 7EB,London,Pinnacle Retail Finance,Council Tax,5752.12,4562.15,28.91,08/03/2025,Open,None,N,Y,Barry S.
+DC101026,Leonard Lynch,1975-09-16,M57 1PW,Wales,Northbridge Finance,Personal Loan,5001.71,1696.11,25.82,16/01/2024,In Arrangement,None,N,N,Marcus C.
+DC100255,Abigail Thomas,1944-07-17,W0 9HF,South West,Hallgate Bank,Rent Arrears,8167.96,6946.2,,2025-01-28,Open,None,N,N,Maurice E.
+DC100012,June Duncan,01/17/1942,EC0 9DD,South West,Northbridge Finance,Utility Arrears,13906.55,13906.55,29.46,12/05/2026,Disputed,None,N,N,Danielle S.
+DC100126,Susan Pearson,1964-03-02,CF9Y 2BQ,London,Hallgate Bank,Catalogue Debt,8252.59,2626.7,2.07,2025-08-04,OPEN,None,N,N,Janice C.
+DC101067,Alexandra Freeman,1984-04-21,B0E 3QX,East Anglia,Meridian Telecom,Personal Loan,1482.51,179.42,3.74,2025-08-13,Open,Mental Health,N,Y,Lee W.
+DC100046,Toby Kelly,1962-12-12,FY64 7AX,Wales,Hallgate Bank,Credit Card,7609.02,3118.33,12.26,14-09-2025,On Hold,None,N,Y,Lee W.
+DC100237,Kieran Gardner,10-01-2006,ST6H 3SP,Scotland,Summit Consumer Credit,Store Card,5449.09,461.69,28.36,2022-11-10,Closed,Financial Hardship,N,N,Mathew M.
+DC100356,David Simpson,1946-08-17,HU66 8AD,,Hallgate Bank,Personal Loan,1892.66,532.63,6.07,2023-10-20,On Hold,None,N,N,George P.
+DC101152,Ben Thomas,07-08-1981,CV1H 7JA,South West,Pinnacle Retail Finance,Personal Loan,4830.92,4513.58,18.19,23/05/2024,Open,None,N,N,Charlotte R.
+DC100941,Charlie Dawson,10/01/1972,M32 0RN,Wales,Kestrel Bank,Council Tax,11346.79,11346.79,28.27,27-02-2026,In Arrangement,None,N,Y,Antony W.
+DC101031,Zoe Page,2001-06-30,,London,Meridian Telecom,Store Card,14487.47,1080.18,4.78,2024-07-21,Written Off,None,N,,Molly W.
+DC100401,Dean Green,,HX9 3LN,London,Aurora Credit Ltd,Store Card,7182.61,295.9,18.7,2023-05-02,Legal Action,None,N,Y,Colin T.
+DC100460,Ian Pearce,27/08/1988,SM12 7WD,South West,Vantage Home Finance,Catalogue Debt,2044.45,2025.03,,03/01/2023,Open,None,N,,Zoe B.
+DC100534,Timothy Cox,2001-05-29,DH5 9RE,South East,Hallgate Bank,Mobile Phone Contract,6637.86,5717.79,12.57,2023-05-20,Closed,Bereavement,N,Y,Donald B.
+DC100052,Duncan Holden,13/08/1946,W99 5AU,North East,Leeds City Council,Mobile Phone Contract,8033.16,694.97,14.0,2026-03-05,Open,None,N,N,Victor C.
+DC100043,Fiona Harding,1942-01-19,S7A 4RS,North West,Hallgate Bank,Personal Loan,2501.92,1123.76,4.6,2026-03-04,Open,,N,Y,Shannon M.
+DC100763,Elizabeth Sanders,2002-10-01,IP25 3RE,,Meridian Telecom,Overdraft,2567.68,1354.04,7.03,2022-10-25,OPEN,None,N,Y,Abigail T.
+DC101017,Maureen Bryan,1987-12-27,L4 9SG,Midlands,Meridian Telecom,Credit Card,11453.37,985.21,,15-09-2025,In Arrangement,None,N,Y,Samantha T.
+DC100345,Megan Taylor,27/04/1952,G9W 9WL,Scotland,Summit Consumer Credit,Catalogue Debt,12047.61,,16.14,22/12/2025,Written Off,None,N,Y,Mohammed W.
+DC100115,Graham Gordon,05/03/1966,E68 0QN,North East,Hallgate Bank,Utility Arrears,14160.45,9380.39,10.53,27/10/2025,Disputed,None,N,N,Jeremy W.
+DC100612,Karen Stokes,06/10/1973,S04 3GU,Midlands,Vantage Home Finance,Utility Arrears,8014.44,5577.79,16.89,2025-10-27,Closed,None,N,N,Paul B.
+DC100363,Joanna Hayward,1998-05-22,ME9 7GW,,Hallgate Bank,Store Card,14275.61,14275.61,8.05,05-03-2024,Open,None,N,Y,Leonard S.
+DC100698,Zoe James,1966-04-08,LU7 9SP,Midlands,Aurora Credit Ltd,Credit Card,11071.33,5197.43,,2024-10-04,OPEN,None,N,N,Lauren R.
+DC100994,Josephine Moore,1961-09-20,W05 7GG,South East,Vantage Home Finance,Overdraft,13848.36,13685.73,20.46,2024-06-11,Written Off,None,N,N,Gary C.
+DC100751,Gregory Thomas,1979-03-23,DG6R 2TW,,Kestrel Bank,Store Card,4597.84,4488.06,23.64,2025-10-31,Written Off,None,N,N,Jacqueline M.
+DC100243,Cheryl Robson,1956-10-27,TR6 5TL,Wales,Summit Consumer Credit,Personal Loan,5928.48,229.94,19.09,2023-09-29,Open,None,N,N,Donald T.
+DC100482,Megan Walker,1982-10-09,CO0E 4ET,South West,Kestrel Bank,Mobile Phone Contract,13313.88,13313.88,6.75,2023-09-03,Open,None,N,Y,Kathryn T.
+DC100304,Frederick Jones,1985-11-08,B02 7GD,North East,Northbridge Finance,Credit Card,7415.1,6948.0,10.1,2025-03-26,Closed,None,N,Y,Abigail P.
+DC100151,Amber Cox,26/01/1961,W9E 0QP,,Meridian Telecom,Catalogue Debt,5294.39,849.36,15.84,15-01-2024,OPEN,None,N,N,Ellie G.
+DC100403,William Woodward,1963-06-18,KT13 6BN,Yorkshire,Hallgate Bank,Rent Arrears,6507.37,6507.37,5.76,2026-03-02,In Arrangement,None,N,N,Judith T.
+DC100645,Mohamed Gough,1966-04-14,N0 5AX,London,Kestrel Bank,Council Tax,9262.1,2627.52,24.08,2024-04-15,Written Off,None,N,N,Geoffrey S.
+DC100758,Kelly Gallagher,1999-05-13,SS24 4GG,London,Yorkshire Utilities Group,Store Card,8936.64,8936.64,27.69,18/06/2023,Legal Action,None,N,N,Lisa H.
+DC100974,Jill Walker,1966-10-16,KA30 2ZZ,North East,Hallgate Bank,Personal Loan,708.88,184.94,18.99,12/04/2025,In Arrangement,None,N,Y,Stephanie W.
+DC100576,Katy Jones,1983-06-14,AB5A 5YF,South East,Summit Consumer Credit,Council Tax,13696.59,3193.47,25.06,2023-10-11,In Arrangement,None,N,N,Phillip T.
+DC101120,Caroline White,1988-10-01,G50 0PX,Yorkshire,Kestrel Bank,Catalogue Debt,12716.53,4835.81,13.31,2024-06-30,Open,None,N,Y,Lesley C.
+DC100877,Francis Martin,1953-04-06,M0 0ZP,North West,Leeds City Council,Utility Arrears,4443.22,4443.22,25.36,2024-05-29,In Arrangement,None,N,Y,Marcus B.
+DC100337,Claire Gilbert,04/05/2001,CR7 6QW,Midlands,Aurora Credit Ltd,Mobile Phone Contract,6012.95,1833.73,10.13,2025-01-11,Written Off,Financial Hardship,N,,Mark A.
+DC100421,Clare Shah,1969-10-18,S5G 8ET,Scotland,Aurora Credit Ltd,Council Tax,14193.46,10791.35,12.3,2025-10-05,Open,None,N,Y,Caroline M.
+DC100294,Irene Griffiths,1997-07-30,,East Anglia,Kestrel Bank,Utility Arrears,3892.96,3892.96,11.06,11/29/2022,Open,None,N,N,Elaine C.
+DC100218,Martyn Taylor,08-05-1949,G53 7FY,,Pinnacle Retail Finance,Store Card,8802.3,2046.62,2.06,11/02/2026,Disputed,None,N,Y,Julia P.
+DC100559,Carly Stevenson,1943-01-10,LN65 1GL,London,Yorkshire Utilities Group,Mobile Phone Contract,9068.6,9068.6,24.79,02/11/2026,Closed,None,N,Y,Kathleen C.
+DC100865,Beverley Smith,1975-12-06,JE9 8EY,,Vantage Home Finance,Mobile Phone Contract,1130.36,291.51,20.77,2025-02-11,Written Off,None,N,Y,Megan C.
+DC100230,Megan Watson,1993-02-08,B4 0BR,,Kestrel Bank,Store Card,12019.16,6270.15,20.88,2022-10-14,Disputed,None,N,N,Kathleen H.
+DC100202,Hazel Fletcher,1943-03-23,YO8W 1JQ,Scotland,Hallgate Bank,Rent Arrears,13940.13,5619.54,23.44,2026-07-07,In Arrangement,None,N,Y,Mohammed W.
+DC101164,Pauline Lewis,1966-12-23,PE8X 7PD,Wales,Meridian Telecom,Credit Card,8681.0,1524.56,28.91,2026-02-18,Open,None,N,N,Hazel J.
+DC100809,Zoe Cox,,B8 3QE,South West,Aurora Credit Ltd,Store Card,1395.4,348.79,25.67,2023-06-23,Disputed,Elderly - Support Needed,N,N,Charlie D.
+DC100161,Gregory Hawkins,09/05/1941,N4 8WU,South East,Aurora Credit Ltd,Mobile Phone Contract,2343.52,2343.52,19.8,2024-12-11,Open,None,N,Y,Aaron B.
+DC100084,Hayley Morgan,1960-10-16,W1 3RX,Wales,Aurora Credit Ltd,Catalogue Debt,3856.73,3419.19,21.05,2026-02-17,Disputed,None,N,N,Claire G.
+DC100487,Shane Singh,1982-03-28,W91 5SA,London,Northbridge Finance,Utility Arrears,2290.48,335.99,20.8,2022-11-13,On Hold,None,N,N,Nicole S.
+DC100554,Kimberley Giles,26/01/2004,L9 5PY,Yorkshire,Vantage Home Finance,Mobile Phone Contract,9949.9,4651.66,27.13,16/09/2023,Open,None,N,N,Janet N.
+DC101053,Sean Collins,,OL4 9US,Midlands,Hallgate Bank,Overdraft,10164.88,5888.86,,18-06-2026,Closed,None,N,N,Geraldine M.
+DC100305,Mohamed Morgan,1944-02-23,IM6H 7TY,East Anglia,Northbridge Finance,Council Tax,3609.84,3349.81,3.9,05/08/2023,Disputed,None,N,Y,Lucy N.
+DC100155,Kyle Nicholls,1976-12-22,TD4W 3JL,South West,Pinnacle Retail Finance,Personal Loan,2225.93,2199.31,7.74,10/11/2024,In arrangement,None,N,Y,Nicole B.
+DC100506,Dale Lee,21/01/1976,N5H 7NY,,Yorkshire Utilities Group,Credit Card,4124.0,4124.0,12.4,01/14/2024,On Hold,Mental Health,Y,Y,Wayne S.
+DC100398,Leanne Haynes,1951-06-24,HU58 5SS,London,Summit Consumer Credit,Catalogue Debt,1120.61,1120.61,20.27,19/08/2026,Open,None,N,N,Brandon J.
+DC101190,Kim Banks,1971-04-27,CR4P 2AJ,South West,Hallgate Bank,Catalogue Debt,7970.41,5588.66,29.11,2025-01-12,Closed,None,Y,Y,Jennifer S.
+DC100970,Robert Bryan,1980-07-01,S6U 4XU,East Anglia,Kestrel Bank,Utility Arrears,3351.95,2798.97,11.64,2025-03-02,Disputed,None,N,N,Damian P.
+DC100696,Alex Smith,28/01/2002,PR1X 1ND,,Summit Consumer Credit,Council Tax,6579.6,6579.6,5.9,2024-04-27,In Arrangement,None,N,N,Gemma H.
+DC100565,Karl Harding,1996-01-13,ME6E 3ZH,East Anglia,Vantage Home Finance,Personal Loan,8420.57,8420.57,1.35,2023-10-06,On Hold,Financial Hardship,N,Y,Lawrence W.
+DC100348,David Wheeler,05/31/1993,S5W 8SJ,Yorkshire,Hallgate Bank,Credit Card,2175.99,1613.72,,07-04-2025,In Arrangement,None,N,Y,Hayley P.
+DC101056,Antony Lee,23/09/1942,CM5B 6YR,East Anglia,Kestrel Bank,Personal Loan,1465.28,638.05,1.3,12/05/2026,Disputed,None,N,N,Jane P.
+DC100418,Kenneth Clarke,1942-07-03,M9K 9JJ,Yorkshire,Kestrel Bank,Mobile Phone Contract,3207.5,2273.78,12.28,2026-08-01,Closed,None,N,Y,Joyce P.
+DC100855,Clare White,2007-06-25,L5T 8DG,South East,Pinnacle Retail Finance,Council Tax,1269.14,884.34,25.59,14/02/2024,Open,Financial Hardship,N,Y,Abbie H.
+DC100347,Kieran Butler,1952-10-14,B8J 1UF,Midlands,Leeds City Council,Council Tax,13680.4,5008.02,3.4,2026-04-03,Open,None,N,Y,Mandy P.
+DC100239,ANDREA MURPHY,1965-10-22,ST9 7QY,South West,Summit Consumer Credit,Overdraft,6541.96,6541.96,4.88,12-11-2023,Open,None,N,Y,Valerie T.
+DC100326,Tracy Willis,2004-08-16,B75 1DB,South West,Leeds City Council,Overdraft,14801.58,13822.96,13.82,2025-08-24,Written Off,None,N,Unknown,Antony J.
+DC100917,Pamela Kirby,1988-07-08,BA76 8ET,Midlands,Kestrel Bank,Mobile Phone Contract,12549.87,8546.96,0.0,2024-09-14,Open,None,N,Unknown,Francis W.
+DC101111,Maureen Curtis,1995-05-15,M2 4ZS,Wales,Leeds City Council,Overdraft,1564.83,199.35,26.41,05/08/2024,Open,None,N,N,Molly B.
+DC100854,Sean Day,1971-10-21,M0 0QF,Midlands,Northbridge Finance,Mobile Phone Contract,3095.07,658.59,4.64,2024-12-06,On Hold,None,N,Unknown,Jade Y.
+DC100453,Benjamin Green,1996-04-12,TS0E 7XN,Midlands,Meridian Telecom,Credit Card,8635.63,8635.63,24.44,13/03/2026,On Hold,None,N,N,Janet R.
+DC100849,Fiona Davies,1990-12-31,G87 3FN,Wales,Yorkshire Utilities Group,Overdraft,4990.78,4990.78,5.45,2022-12-05,Closed,None,N,Y,Teresa K.
+DC100164,Frederick Bailey,1966-10-21,HP4 4QJ,South West,Hallgate Bank,Overdraft,3855.68,3855.68,26.45,21/06/2024,Open,None,N,Y,Benjamin K.
+DC100585,Connor Brown,26/04/1985,WR97 9ZQ,London,Pinnacle Retail Finance,Credit Card,1556.51,583.73,8.21,2024-07-10,Open,None,N,N,Hollie D.
+DC100591,Eileen Fletcher,1972-11-28,HS7Y 0GN,South East,Northbridge Finance,Utility Arrears,2730.5,682.8,5.29,29-08-2024,In Arrangement,None,N,Y,Alex J.
+DC100678,June Knight,2008-01-28,G4B 6FP,North East,Aurora Credit Ltd,Utility Arrears,6819.55,6819.55,5.0,2025-07-06,In Arrangement,None,N,Unknown,Clive W.
+DC100225,Timothy Webb,19/09/1965,TF22 8YA,North West,Aurora Credit Ltd,Rent Arrears,11728.14,7586.61,24.81,2023-11-23,In Arrangement,None,N,Y,Kathryn B.
+DC100583,Irene Hall,1994-03-08,E6 5YT,South West,Leeds City Council,Catalogue Debt,7384.82,1853.64,18.39,2026-01-09,Closed,None,N,N,Vanessa P.
+DC101125,Jill Bevan,1944-04-16,W00 3FF,Yorkshire,Summit Consumer Credit,Catalogue Debt,1038.19,568.09,20.86,2026-01-09,Open,None,N,N,Donna N.
+DC100273,Tina Jones,06/06/1952,S0G 3BU,South West,Summit Consumer Credit,Personal Loan,1532.93,1074.13,4.02,19/04/2024,Closed,None,N,Y,Max B.
+DC100108,Martin Dennis,23/06/1948,HS2 1FL,Wales,Meridian Telecom,Council Tax,201.58,201.58,10.35,19-09-2024,In Arrangement,None,N,Unknown,Joe C.
+DC100837,Victoria Baxter,23-07-1985,BB39 5HD,North West,Vantage Home Finance,Personal Loan,14585.83,11861.77,19.84,2023-04-11,Closed,None,N,N,Gordon W.
+DC100573,Susan Scott,10/11/1978,G1 1HN,London,Aurora Credit Ltd,Catalogue Debt,7429.8,2748.82,13.37,2024-07-07,In Arrangement,None,N,Y,Jeremy L.
+DC101096,Sara Boyle,,W66 4RP,Midlands,Kestrel Bank,Credit Card,14108.95,2320.28,22.33,2023-11-28,Open,None,N,,Claire R.
+DC100063,Eric Miah,2002-06-30,B2 9YN,South West,Meridian Telecom,Store Card,1183.34,306.52,11.06,16/12/2025,Open,None,N,N,Jennifer H.
+DC100524,Rita Davey,1948-06-21,E2 7QN,South West,Kestrel Bank,Catalogue Debt,1602.52,563.09,14.76,2024-07-10,Closed,None,N,N,Hollie E.
+DC100905,Abigail Bevan,26/11/1954,SM49 9JQ,South East,Hallgate Bank,Utility Arrears,2451.8,277.73,3.13,2023-06-02,Open,,N,N,Pamela H.
+DC100379,Chelsea Williams,1957-09-18,IP6H 1SJ,,Summit Consumer Credit,Catalogue Debt,700.84,700.84,26.48,10/07/2025,In Arrangement,,N,N,Georgia M.
+DC100884,Jeffrey Richardson,1999-03-29,L0 4AQ,Wales,Pinnacle Retail Finance,Personal Loan,530.47,,4.78,12/28/2024,Open,None,N,N,Sheila E.
+DC100400,Maureen Kirk,,L50 8WX,London,Yorkshire Utilities Group,Utility Arrears,12143.94,12143.94,1.88,30/09/2022,In Arrangement,Elderly - Support Needed,N,Y,Alexandra B.
+DC100952,Amelia Kelly,1972-11-02,SO31 2PF,South East,Northbridge Finance,Rent Arrears,1094.19,1094.19,0.24,2024-03-12,Open,None,N,N,Tracey G.
+DC100274,Michael Haynes,09/09/1994,WF13 4TP,Scotland,Meridian Telecom,Mobile Phone Contract,14809.76,7646.83,17.2,09-12-2023,On Hold,,N,Unknown,Max B.
+DC100875,Rhys Blake,1990-01-06,L7 1AU,East Anglia,Leeds City Council,Store Card,1126.82,1126.82,11.81,22/10/2025,In Arrangement,None,N,,Joshua D.
+DC100577,CARLY BIRD,30/12/1994,S1G 2JR,Yorkshire,Kestrel Bank,Catalogue Debt,12705.41,3111.28,6.88,20/08/2025,Disputed,None,N,Y,Craig B.
+DC100341,Francis Lewis,1964-09-19,,Yorkshire,Meridian Telecom,Catalogue Debt,8373.69,3856.99,29.03,2026-02-13,In Arrangement,None,N,Y,Roger W.
+DC100380,Molly Mann,12-04-1987,NN4P 1GF,North East,Pinnacle Retail Finance,Overdraft,6148.48,2189.6,26.34,2023-11-02,In Arrangement,None,N,N,Gregory G.
+DC100694,Thomas Scott,1996-03-27,S8 4SG,,Aurora Credit Ltd,Mobile Phone Contract,10828.89,4847.2,26.78,2022-09-23,Open,Mental Health,Y,Y,Edward P.
+DC101055,Kathryn Manning,1992-01-10,E8 2HJ,,Meridian Telecom,Utility Arrears,6292.31,3278.49,11.34,08/01/2025,On Hold,,N,Y,Grace G.
+DC100819,Brian Jones,1997-02-24,FY5 6DX,London,Leeds City Council,Utility Arrears,11915.63,1705.91,12.85,06/05/2024,On Hold,None,N,Unknown,Terry H.
+DC100860,Aaron Scott,1979-09-27,LU7 3HG,North West,Northbridge Finance,Utility Arrears,13096.6,601.21,5.01,03-07-2023,In Arrangement,Bereavement,N,Unknown,Tracy B.
+DC100986,Jessica Brown,11/02/2005,DL3 4ZE,South East,Yorkshire Utilities Group,Credit Card,308.99,308.99,19.19,2024-01-23,Closed,None,N,Y,Francesca C.
+DC100415,Nicholas Elliott,1976-02-18,SL3P 9FS,South East,Aurora Credit Ltd,Mobile Phone Contract,3620.79,1495.37,12.82,2025-05-18,Closed,None,N,Y,Graeme W.
+DC101077,Marc Poole,1944-07-23,MK1 2HP,,Summit Consumer Credit,Overdraft,1738.03,539.03,,17/03/2024,In Arrangement,None,N,N,Sylvia A.
+DC100790,Daniel Watson,1987-03-19,DD1E 4RD,Scotland,Vantage Home Finance,Store Card,3394.29,3394.29,2.8,2023-10-12,On Hold,None,N,N,Joel C.
+DC101191,Tracey Hall,10/05/1972,CO60 2EN,Scotland,Leeds City Council,Utility Arrears,8295.33,7131.03,24.18,2026-03-06,Open,None,N,Y,Karen M.
+DC101093,Declan Scott,2001-01-01,M62 3PN,South West,Leeds City Council,Credit Card,8729.0,2250.3,20.39,2022-12-28,Closed,None,N,Y,Jake E.
+DC101029,Owen Carey,04/10/1993,B8F 8GQ,North East,Vantage Home Finance,Mobile Phone Contract,7823.04,2978.6,16.78,04-12-2024,Legal Action,None,N,N,Sam S.
+DC100564,Elliot Burrows,13-11-2005,E0T 7UE,Wales,Hallgate Bank,Personal Loan,3091.85,2535.58,1.02,2023-05-22,Open,None,N,N,Francis E.
+DC101008,Liam Perkins,1970-01-10,WV25 2YP,,Leeds City Council,Council Tax,12409.0,10336.1,18.57,2023-10-22,On Hold,None,N,Y,Sandra H.
+DC100284,Karl Ward,25/03/1989,TN7X 8NG,North West,Pinnacle Retail Finance,Store Card,5055.37,5055.37,5.11,30/05/2025,Disputed,None,N,N,Sylvia H.
+DC100249,Hannah Hughes,1966-09-30,DN2 4TF,South East,Northbridge Finance,Catalogue Debt,7100.68,2563.94,21.96,2024-05-23,Written Off,Financial Hardship,N,Y,Joshua F.
+DC100485,Leslie Booth,1978-05-09,B2B 2AU,South West,Vantage Home Finance,Mobile Phone Contract,2850.8,2850.8,28.23,2024-06-09,Closed,None,N,Y,Jonathan B.
+DC101087,Angela Jennings,,M92 9HF,East Anglia,Pinnacle Retail Finance,Store Card,1283.95,707.4,10.21,2024-12-10,Written Off,None,N,Y,Victoria S.
+DC101112,Callum Hill,01/12/1963,WN2N 1AT,Wales,Leeds City Council,Overdraft,6643.06,6643.06,19.69,08/03/2024,Written Off,None,N,Y,Lauren F.
+DC100254,Amelia Evans,1980-12-12,OL9 9HU,South East,Pinnacle Retail Finance,Overdraft,704.97,135.11,25.95,2025-06-23,Written Off,Mental Health,N,Y,Joanna G.
+DC100894,Mary Evans,1968-01-30,GY1N 9ZZ,South East,Leeds City Council,Overdraft,3005.47,1483.43,23.42,25/11/2024,Closed,None,N,Y,Raymond T.
+DC100614,Leanne Woods,1992-07-07,N19 6JR,London,Meridian Telecom,Store Card,10349.63,3797.05,8.56,02/05/2025,Disputed,None,N,Y,Declan H.
+DC100712,Mary Davies,2008-01-24,BS84 3XR,Midlands,Meridian Telecom,Council Tax,256.21,76.4,0.22,2025-09-09,Closed,Financial Hardship,N,N,Lewis C.
+DC100642,Josephine Daly,11/11/1956,B6F 3HD,,Leeds City Council,Mobile Phone Contract,2232.27,2232.27,24.62,06-12-2025,In Arrangement,None,N,Y,Maurice B.
+DC100275,Rachael Berry,1953-07-02,ST78 0WG,London,Vantage Home Finance,Overdraft,4463.75,4463.75,9.98,2023-07-20,Closed,None,N,N,Gary K.
+DC100644,Sandra Hawkins,2002-08-22,L3 9HJ,North East,Hallgate Bank,Overdraft,371.84,371.84,16.05,30/08/2024,In arrangement,None,N,N,Hayley H.
+DC100440,Christine Price,16-05-2005,DD1 0HD,South East,Aurora Credit Ltd,Credit Card,14123.72,4730.34,20.88,27/07/2023,Open,None,N,N,Louise L.
+DC100441,Pamela Franklin,1951-03-14,SS84 2EW,,Pinnacle Retail Finance,Credit Card,9332.52,3183.55,26.12,2024-01-20,Closed,None,N,N,Sian T.
+DC100525,Angela Ball,1981-05-12,DD4 1JF,North West,Yorkshire Utilities Group,Catalogue Debt,1650.33,1276.59,5.11,17/09/2025,In Arrangement,None,N,N,Annette S.
+DC100926,Benjamin Johnson,1981-02-22,NW3N 3LN,East Anglia,Aurora Credit Ltd,Council Tax,1741.03,,,2022-12-25,In Arrangement,None,N,Y,Rachel J.
+DC100271,Martyn Reynolds,02/02/2003,PR9V 1SF,North East,Hallgate Bank,Overdraft,8220.99,8173.71,17.98,2022-10-08,Open,None,Y,N,Sean S.
+DC100178,Helen Randall,1949-11-03,N17 1XH,,Pinnacle Retail Finance,Utility Arrears,11517.29,1155.33,19.6,2023-09-03,Written Off,None,N,Y,Lee P.
+DC100006,Ben Hall,29/01/1959,NW3X 0JB,Wales,Leeds City Council,Rent Arrears,11912.38,11912.38,0.34,2026-05-07,Closed,,N,N,Guy A.
+DC101107,Victor Bennett,14/04/1998,WR77 2RS,Wales,Meridian Telecom,Catalogue Debt,14170.69,,26.83,2026-07-13,Closed,None,N,Y,Peter W.
+DC100454,Katie Chapman,24/01/1987,M6T 1YA,North East,Pinnacle Retail Finance,Personal Loan,9929.95,8764.91,,2023-12-18,In Arrangement,None,N,N,Molly F.
+DC100621,Max Long,30/04/1972,BB63 4XY,Scotland,Meridian Telecom,Catalogue Debt,6681.96,4711.59,0.84,2024-04-25,In Arrangement,None,N,Y,Frances W.
+DC100873,Paige Martin,1988-09-05,W45 3WL,Wales,Yorkshire Utilities Group,Utility Arrears,6646.5,4030.28,14.2,28/11/2025,Open,None,Y,,Stanley H.
+DC100410,Garry Parry,02-02-1983,SN0P 4GB,East Anglia,Hallgate Bank,Council Tax,5016.06,4748.91,23.46,2026-08-10,On Hold,None,N,N,Glen T.
+DC100513,Katie Davies,2005-11-03,DG75 5RF,Scotland,Kestrel Bank,Council Tax,7085.6,1353.27,26.53,2026-07-18,On Hold,Mental Health,N,Y,Rachel C.
+DC100191,Clifford Marsden,1957-01-27,SK85 2DW,North East,Pinnacle Retail Finance,Overdraft,7858.63,2449.99,24.71,2025-12-28,Closed,None,N,N,Denis C.
+DC100921,BETHANY WALTERS,1975-09-14,BT1P 6FA,Wales,Vantage Home Finance,Catalogue Debt,14361.17,10678.6,9.78,31-01-2026,In arrangement,None,N,N,Shaun R.
+DC100869,Dominic Wilkinson,23/03/1999,BA8R 6RF,North West,Northbridge Finance,Rent Arrears,7271.64,6497.76,,2025-05-23,Open,None,N,N,Sharon H.
+DC100130,Laura Bennett,1976-01-13,KW1P 8NP,London,Summit Consumer Credit,Utility Arrears,485.39,485.39,9.9,10/11/2025,Written Off,Bereavement,N,N,Timothy F.
+DC100342,Katherine Graham,08/02/1955,PL1 6PE,South East,Meridian Telecom,Mobile Phone Contract,549.46,549.46,,2023-06-15,Open,None,N,Y,Hayley D.
+DC100291,Leigh Webster,15/09/1947,DA1 4NT,North East,Pinnacle Retail Finance,Personal Loan,4148.37,304.64,28.76,2024-09-10,Open,None,N,N,Maria A.
+DC100422,Luke Shaw,1957-06-06,BH8P 3NT,South East,Meridian Telecom,Council Tax,812.83,791.11,0.32,2024-10-29,In Arrangement,None,N,Unknown,Patricia Y.
+DC100706,Gemma Walker,31/03/1991,RM8P 3LE,Wales,Yorkshire Utilities Group,Council Tax,2319.88,2319.88,17.87,2025-07-24,In arrangement,None,N,N,Gregory N.
+DC101178,Martin Foster,1988-04-01,DL35 6LJ,Wales,Pinnacle Retail Finance,Overdraft,6531.04,5486.72,23.78,2024-03-14,Open,None,N,N,Gregory S.
+DC100613,Damien Townsend,05-10-1943,OL7 6UZ,Scotland,Kestrel Bank,Utility Arrears,14239.96,12481.41,29.43,09/08/2024,Open,None,N,N,Wayne C.
+DC100772,Charles Holland,1965-07-23,B9 2GU,London,Aurora Credit Ltd,Catalogue Debt,9639.49,9639.49,3.39,2023-01-12,Open,Bereavement,N,Y,Bradley M.
+DC100163,Alex Jarvis,10/12/1998,ML51 1GF,North East,Kestrel Bank,Mobile Phone Contract,4875.52,932.17,7.12,2026-03-27,In Arrangement,None,N,Y,Lesley T.
+DC100220,Colin Elliott,1971-11-24,WD1 3SH,East Anglia,Aurora Credit Ltd,Overdraft,7309.53,1690.9,14.27,28/04/2025,Written Off,Mental Health,N,N,Olivia P.
+DC100271,Martyn Reynolds,02/02/2003,PR9V 1SF,North East,Hallgate Bank,Overdraft,8220.99,8173.71,17.98,2022-10-08,Open,None,Y,N,Sean S.
+DC100828,Alison Parsons,07/10/1948,KY3 6WS,North West,Vantage Home Finance,Utility Arrears,7044.19,5600.72,,2024-11-16,On Hold,None,N,N,Natasha S.
+DC100807,Abigail James,09/11/1968,BS3X 6PT,London,Yorkshire Utilities Group,Council Tax,10370.62,9981.3,22.87,2024-08-17,Open,None,N,N,Shaun G.
+DC101084,Gillian Evans,22/11/1962,NG3H 3YH,Wales,Yorkshire Utilities Group,Utility Arrears,11759.28,11759.28,25.57,13/04/2024,Written Off,None,N,Y,Katy L.
+DC100373,Barbara Carroll,1953-03-24,EC4Y 3GR,,Hallgate Bank,Utility Arrears,6655.94,3277.15,21.62,2022-10-24,In Arrangement,Mental Health,N,Y,Timothy G.
+DC100981,Norman Coles,03-01-1955,SM1R 3LP,South East,Meridian Telecom,Overdraft,3393.25,3159.85,2.17,06-02-2023,In Arrangement,None,N,N,Bryan C.
+DC101147,Glenn Cooper,1954-11-24,W9K 7BU,South East,Vantage Home Finance,Utility Arrears,2522.57,540.07,,26/05/2024,Open,Mental Health,N,Y,Stanley P.
+DC100198,Barry Rogers,29/03/2005,S5H 6ZF,,Meridian Telecom,Rent Arrears,4937.36,4367.56,25.33,2024-01-09,Disputed,None,N,N,Clifford P.
+DC100104,Jordan Quinn,2007-08-31,M32 4PE,Midlands,Hallgate Bank,Mobile Phone Contract,13754.54,9696.43,16.42,2022-12-08,Open,None,N,N,Thomas S.
+DC101033,Steven Wilson,04/04/2005,CM92 7FL,South West,Meridian Telecom,Council Tax,1714.69,1714.69,23.6,09/04/2023,Closed,None,N,N,Toby B.
+DC100229,Kim Wright,24-08-1976,HD2 9SQ,South East,Vantage Home Finance,Mobile Phone Contract,7466.07,7416.62,29.46,2026-07-21,OPEN,None,N,N,Janice R.
+DC101163,Jacob Griffin,10/06/1943,LL5 8ZP,London,Northbridge Finance,Utility Arrears,312.59,312.59,0.7,2023-10-22,Open,None,N,Y,Mohammad D.
+DC101139,Craig Anderson,1971-10-01,N58 5QS,Scotland,Vantage Home Finance,Store Card,13901.6,600.21,24.41,2024-07-28,Open,None,N,Y,Clive J.
+DC100949,Mohammed Preston,01/04/2001,L9U 2PB,North West,Vantage Home Finance,Overdraft,11137.59,11137.59,6.01,2026-07-03,Open,None,N,Y,George G.
+DC100687,Clive Smith,01/04/1972,NW97 5FU,London,Kestrel Bank,Overdraft,14756.94,4712.92,7.35,2024-07-01,In Arrangement,None,N,N,Dominic N.
+DC100213,Lydia Hughes,1989-01-04,E90 4BL,Yorkshire,Yorkshire Utilities Group,Utility Arrears,12878.89,11154.65,4.2,2024-06-17,Open,None,N,N,Eric P.
+DC100117,MARIAN CLARKE,04/05/1966,TD9E 0SQ,South West,Kestrel Bank,Personal Loan,10874.56,10874.56,15.68,2023-05-11,Disputed,None,N,N,Sian P.
+DC100745,Rachel Graham,31/05/1961,HS6 5BG,South West,Leeds City Council,Mobile Phone Contract,5488.88,5376.39,10.96,11/10/2023,Closed,None,N,N,Simon S.
+DC100048,Aimee Clark,2005-03-03,TD5 9ZE,London,Summit Consumer Credit,Overdraft,579.87,579.87,23.7,2024-07-17,Closed,None,N,Y,Ben A.
+DC100966,Josephine Kirby,1941-01-24,SE24 7ZP,Wales,Leeds City Council,Personal Loan,7452.88,7452.88,9.69,14/07/2023,Disputed,None,Y,N,Lewis Q.
+DC100681,Bryan Howell,04/10/1966,W52 5BW,North East,Northbridge Finance,Store Card,14210.3,14210.3,,2025-03-27,In Arrangement,None,N,N,Elizabeth M.
+DC100029,Frederick King,1964-10-09,,North East,Northbridge Finance,Rent Arrears,13212.65,9536.14,,30/11/2024,Closed,None,N,Y,Antony P.
+DC101195,Anna Lowe,2008-08-18,HP74 2HD,North East,Summit Consumer Credit,Rent Arrears,5667.23,103.56,23.29,28-04-2023,On Hold,None,N,N,Amber C.
+DC100995,Ellie Rogers,2003-08-23,SL8E 1JH,Scotland,Kestrel Bank,Store Card,9920.3,8333.47,14.18,2024-06-16,Written Off,None,N,Y,Mohammad K.
+DC100722,Terry Norris,2007-10-09,L1S 3BH,North East,Aurora Credit Ltd,Mobile Phone Contract,8324.16,480.39,23.83,02/06/2024,In Arrangement,None,N,Y,Patrick H.
+DC100049,Raymond Whitehead,2003-11-20,IV31 1NZ,Midlands,Aurora Credit Ltd,Store Card,3941.6,3904.56,29.53,2024-12-22,On Hold,None,N,Unknown,Trevor C.
+DC100181,Francesca Evans,1958-07-05,LL17 3QP,South East,Meridian Telecom,Store Card,8018.1,4705.76,25.79,2024-09-23,Open,,N,Y,Amy T.
+DC100189,Ronald Barlow,16/03/1998,OL1 3HY,Midlands,Aurora Credit Ltd,Utility Arrears,4186.72,2571.84,1.75,2025-03-31,Written Off,None,N,Y,Alice D.
+DC100134,Patricia McLean,1959-09-03,G7 8EL,London,Leeds City Council,Credit Card,6322.11,1012.22,16.07,26/06/2026,Open,None,N,N,Elliot C.
+DC100602,Irene Hawkins,2006-11-11,SN8M 5AL,London,Pinnacle Retail Finance,Mobile Phone Contract,10097.67,10097.67,24.61,2024-05-13,On Hold,None,N,N,Debra M.
+DC100238,Alexandra Patel,1974-11-11,L80 1TN,Midlands,Leeds City Council,Credit Card,7302.53,7302.53,,2026-04-03,Closed,None,N,N,Graeme M.
+DC100686,Ann Carter,15-06-1996,,East Anglia,Meridian Telecom,Credit Card,3320.68,3320.68,10.1,2025-10-30,In Arrangement,None,N,N,Carl F.
+DC100977,Robert Martin,31/01/1972,W3U 7WE,Yorkshire,Summit Consumer Credit,Rent Arrears,8738.04,6246.92,6.71,06/09/2023,Open,None,N,N,Rachael B.
+DC100039,Gerald Jarvis,2005-11-12,L1 2TW,North West,Northbridge Finance,Utility Arrears,6463.31,2943.63,17.79,2024-10-01,On Hold,None,N,Unknown,Yvonne W.
+DC100982,Mohamed Greenwood,17/04/1988,B2C 0JQ,London,Aurora Credit Ltd,Credit Card,647.26,647.26,19.83,2024-12-12,Open,None,N,Y,Lynne E.
+DC100140,Roger Wade,14/04/2004,M1E 8LF,Scotland,Aurora Credit Ltd,Mobile Phone Contract,6502.82,28.0,11.12,09/08/2023,On Hold,None,N,Y,Kayleigh S.
+DC100139,Georgia Ward,2000-06-03,PE2E 8BE,East Anglia,Kestrel Bank,Store Card,6530.2,6530.2,26.74,2025-10-11,Legal Action,None,N,Y,Maureen G.
+DC100738,Justin Wilkinson,01/18/1959,,Scotland,Vantage Home Finance,Store Card,5159.98,581.67,4.38,06-08-2026,Closed,None,N,Y,Sarah Y.
+DC101127,Gavin Wilson,21/02/1974,N8 6HF,Yorkshire,Summit Consumer Credit,Store Card,13334.61,6995.67,15.16,2024-02-02,Open,None,N,N,Paula B.
+DC100532,Caroline Foster,1961-12-09,DT86 6HD,North West,Leeds City Council,Utility Arrears,4356.49,614.22,5.88,2026-07-18,Written Off,None,N,Y,Alice S.
+DC100211,Patrick Lewis,28-02-1969,KW27 8GU,North East,Hallgate Bank,Store Card,9666.45,6991.94,9.13,2023-04-06,In Arrangement,None,N,Y,Gerard D.
+DC100256,Brandon Howard,07/10/1950,E85 5RY,South West,Vantage Home Finance,Council Tax,6602.19,1994.72,29.81,2025-06-25,Disputed,None,N,Y,Oliver H.
+DC101023,Jeffrey Elliott,13/03/1961,SG98 2PS,London,Pinnacle Retail Finance,Utility Arrears,3986.15,3986.15,26.13,03/07/2025,Open,None,N,N,Karen A.
+DC100412,Francesca Cooper,2007-05-08,CB5R 2HW,Wales,Vantage Home Finance,Mobile Phone Contract,11311.6,7974.13,13.98,2024-09-17,Open,None,N,N,Clare M.
+DC100699,Glenn Watkins,1996-04-08,JE6W 5PE,,Aurora Credit Ltd,Catalogue Debt,1460.24,601.42,9.54,2026-05-29,Closed,None,N,N,Paul M.
+DC100800,Max Shaw,1958-09-16,SK30 0AA,North East,Northbridge Finance,Rent Arrears,2759.52,653.38,0.78,2026-01-02,Written Off,None,N,Y,Carl P.
+DC100146,Karl Miller,09/08/1974,WS47 1RW,South West,Yorkshire Utilities Group,Credit Card,8858.59,,27.65,2024-09-26,In Arrangement,None,N,N,Clare M.
+DC100580,Harriet Pickering,1943-06-22,SK32 8WD,North West,Leeds City Council,Mobile Phone Contract,8731.51,8514.17,18.83,23/01/2024,Closed,None,N,N,Gregory J.
+DC100810,Ashley Lloyd,1990-03-17,FY7 1QX,Wales,Northbridge Finance,Council Tax,8853.44,5891.18,9.98,27-05-2026,In Arrangement,None,N,N,Naomi H.
+DC100776,Jade Jones,02/08/1985,DA05 3LE,,Pinnacle Retail Finance,Council Tax,14942.61,14942.61,24.58,2024-04-22,In Arrangement,None,N,N,Stuart H.
+DC100263,Hilary O'Brien,23/03/2001,N3 6XX,,Vantage Home Finance,Utility Arrears,13494.85,1220.44,16.66,2023-05-03,On Hold,None,N,Y,Arthur B.
+DC101095,Lee Brooks,1988-05-10,HR04 1PX,North West,Hallgate Bank,Personal Loan,1263.92,676.46,1.71,2023-10-02,On Hold,None,N,N,Ryan C.
+DC100323,Francesca Bailey,1986-03-18,PO9H 5RE,North West,Hallgate Bank,Credit Card,10053.28,2014.92,16.47,2024-06-19,On Hold,None,N,Y,Emma S.
+DC101157,Sylvia Skinner,1968-10-28,L24 6AQ,Yorkshire,Summit Consumer Credit,Rent Arrears,2112.44,2112.44,22.79,2024-11-29,In arrangement,None,N,N,Darren D.
+DC100038,Liam Murphy,23-12-2000,SN6R 3FA,South West,Hallgate Bank,Store Card,4079.99,4079.99,6.92,22/12/2024,In Arrangement,None,N,N,Kenneth M.
+DC100773,Amelia Wells,09/10/1972,TN04 2BB,Yorkshire,Vantage Home Finance,Personal Loan,11866.65,7674.87,4.85,2025-07-20,Open,Physical Health,N,N,Rachael M.
+DC100419,Jason Holmes,17/02/1973,W5C 7UF,East Anglia,Yorkshire Utilities Group,Rent Arrears,6568.18,1906.93,13.72,2024-09-08,In Arrangement,Bereavement,N,,Ben O.
+DC100717,Jake Blake,1984-05-03,B99 4EY,London,Hallgate Bank,Rent Arrears,600.96,41.44,0.67,2026-04-13,Open,None,N,Y,Jeremy C.
+DC100295,Russell Booth,1983-08-02,CB8M 6EW,,Hallgate Bank,Utility Arrears,12352.6,2005.89,21.96,25/11/2023,Closed,None,N,N,Marian H.
+DC101049,Michael Taylor,08/02/1973,,North East,Hallgate Bank,Mobile Phone Contract,8632.93,6935.75,,10/06/2024,In Arrangement,None,N,Y,Diana R.
+DC100798,Andrew Richards,08/09/1968,E7J 4SH,Yorkshire,Aurora Credit Ltd,Mobile Phone Contract,321.21,312.43,22.19,31/08/2024,Open,None,N,Y,Francis O.
+DC100099,Melissa O'Sullivan,1951-03-31,N8 1LY,Wales,Yorkshire Utilities Group,Council Tax,4183.58,3726.62,,2024-08-11,Open,None,N,N,Eric G.
+DC100787,Francis McCarthy,27/02/1972,LL87 1GE,East Anglia,Vantage Home Finance,Rent Arrears,4349.78,827.72,18.76,2023-02-01,In Arrangement,None,N,Y,Patricia R.
+DC100850,Thomas Nelson,1983-02-17,B2 8EJ,North East,Leeds City Council,Overdraft,12777.58,12777.58,0.19,2023-07-05,Closed,None,N,N,Dennis W.
+DC100173,Louis Hall,09/04/1951,TA1A 9AJ,London,Hallgate Bank,Council Tax,6730.19,6730.19,12.17,2023-06-17,Closed,None,N,N,Russell R.
+DC101081,Joyce Richards,1971-04-20,LU9M 7UF,Yorkshire,Kestrel Bank,Catalogue Debt,10787.32,6835.53,8.77,2025-08-26,Legal Action,None,N,Y,Sandra W.
+DC100335,Stewart Jones,,M2 4DD,South East,Aurora Credit Ltd,Store Card,12545.92,234.59,4.06,2025-04-01,Disputed,None,N,N,Jack B.
+DC100692,Jacqueline Simmons,31/07/1980,L6C 4NW,Midlands,Northbridge Finance,Council Tax,3001.54,2160.37,7.87,2026-04-02,On Hold,None,N,Y,Stacey S.
+DC100020,Bethan Andrews,2008-05-30,LU2H 3BY,Wales,Pinnacle Retail Finance,Credit Card,14508.3,10458.67,29.01,24/11/2024,Closed,,N,Unknown,Joanna L.
+DC101064,George Adams,09/07/1962,S8S 4PF,Scotland,Northbridge Finance,Utility Arrears,2410.28,2410.28,11.69,14/10/2024,Closed,Mental Health,Y,Y,Lucy M.
+DC100663,Emma Abbott,1956-07-27,W0 8AG,South West,Leeds City Council,Mobile Phone Contract,8586.07,5045.83,7.88,21-04-2025,In Arrangement,None,N,Unknown,Toby T.
+DC100344,Simon Ball,1950-09-16,S99 4DH,North West,Summit Consumer Credit,Council Tax,9280.19,5908.38,1.42,2023-05-17,Disputed,None,N,Y,Lucy J.
+DC100443,Timothy Reynolds,1985-07-14,M3F 3NL,Wales,Yorkshire Utilities Group,Council Tax,14810.21,7896.76,22.52,12/12/2023,OPEN,None,N,Y,Stacey N.
+DC100780,Kieran Brown,08-11-1994,M2 7DD,,Vantage Home Finance,Personal Loan,8924.18,3916.02,0.5,2024-08-03,Open,None,N,N,Dale Y.
+DC100775,Zoe Patel,2005-05-24,PR03 2XZ,,Pinnacle Retail Finance,Mobile Phone Contract,3106.83,2976.45,25.04,2025-08-19,Open,None,N,N,Martin W.
+DC100056,Alex Saunders,1991-03-28,DE3H 4YW,Yorkshire,Northbridge Finance,Mobile Phone Contract,12743.29,6948.69,3.77,2026-06-12,In Arrangement,None,N,Y,Jodie B.
+DC100200,Lynne Ryan,15/07/2008,B7T 7ND,Wales,Northbridge Finance,Credit Card,13908.3,8518.07,6.07,2023-06-05,closed,None,N,N,Michelle D.
+DC100190,Keith Richardson,15/10/1959,BD2N 3YF,North East,Aurora Credit Ltd,Overdraft,577.92,182.35,1.89,11/06/2024,closed,None,N,Y,Patricia M.
+DC100735,Billy Pritchard,15/11/1940,DN48 7ZU,North East,Summit Consumer Credit,Store Card,5221.02,854.55,26.05,2025-03-12,On Hold,None,N,N,Kevin E.
+DC100035,Dorothy Miles,1968-02-01,,East Anglia,Summit Consumer Credit,Catalogue Debt,8107.58,8107.58,24.9,2023-11-18,Open,None,N,Y,Carol F.
+DC100935,HENRY JOHNSON,2006-10-05,LN9X 7GU,Yorkshire,Pinnacle Retail Finance,Council Tax,11843.71,5077.19,,2025-12-12,On Hold,None,N,N,Eileen B.
+DC100013,Stacey Miller,1949-06-14,G4J 3XH,Yorkshire,Northbridge Finance,Store Card,4556.11,142.56,25.5,2024-08-01,In Arrangement,None,N,Unknown,Graeme M.
+DC100201,Bradley Parkinson,07/03/1957,,North West,Kestrel Bank,Utility Arrears,3067.57,3067.57,3.57,20-04-2025,Closed,,N,Y,Joanne W.
+DC100863,Marian Lyons,1998-10-03,KW61 2WN,East Anglia,Yorkshire Utilities Group,Overdraft,13996.18,11225.62,6.23,11/11/2025,In Arrangement,None,Y,Y,Oliver H.
+DC101121,Guy Lee,1966-03-23,RM56 5ZB,Scotland,Summit Consumer Credit,Mobile Phone Contract,8653.1,4771.01,11.32,27/10/2022,Open,None,N,Y,Carly B.
+DC100382,Malcolm Edwards,1990-03-02,B73 6NU,East Anglia,Vantage Home Finance,Rent Arrears,2002.53,1405.85,6.99,2023-08-20,Closed,,N,N,Christine H.
+DC100942,Anna Saunders,02-02-1956,G44 4DU,Yorkshire,Kestrel Bank,Credit Card,1130.68,29.47,18.96,2023-06-17,In Arrangement,None,N,Y,Owen W.
+DC101065,Iain Curtis,1969-09-17,W0 1PX,North East,Northbridge Finance,Credit Card,14568.44,14568.44,4.77,04-06-2024,On Hold,None,N,N,Pamela J.
+DC100818,Jack Graham,1998-12-09,GL26 8WB,North West,Summit Consumer Credit,Catalogue Debt,11428.5,2902.62,23.43,04-08-2026,Written Off,None,N,N,Tom B.
+DC100673,Robin Edwards,2001-06-04,,Wales,Yorkshire Utilities Group,Catalogue Debt,9873.84,870.21,13.39,2024-10-21,In Arrangement,None,N,Unknown,Lee A.
+DC100593,Rebecca Coles,1995-02-08,L4T 7FG,Yorkshire,Leeds City Council,Catalogue Debt,4241.55,3398.82,3.52,2026-01-11,Open,None,N,N,Marc P.
+DC100439,Roger Tyler,1967-03-19,SO5 4SD,Wales,Northbridge Finance,Overdraft,11314.21,11232.45,29.51,01/19/2025,In arrangement,None,N,Unknown,Jean S.
+DC100147,ROBIN JACKSON,1944-01-12,W4J 1SF,South East,Kestrel Bank,Catalogue Debt,7521.73,4913.91,3.53,2023-10-28,Legal Action,None,N,Y,Arthur W.
+DC100864,Dale Barnett,24/06/1977,WA4 5DG,South East,Northbridge Finance,Mobile Phone Contract,1487.99,1454.2,4.49,23/10/2022,Closed,None,N,Y,Gerard T.
+DC100668,Lisa Harrison,1943-09-10,M84 3US,South West,Hallgate Bank,Utility Arrears,1548.3,923.48,5.47,2026-03-11,In Arrangement,None,N,Y,Andrea O.
+DC101105,Katie Brown,1991-05-02,N9S 9LP,East Anglia,Meridian Telecom,Mobile Phone Contract,4162.81,3489.72,18.29,2023-01-25,Closed,None,N,Unknown,Barbara E.
+DC100658,Georgia Fox,20/04/1978,HR15 6SH,Scotland,Pinnacle Retail Finance,Mobile Phone Contract,14197.35,12794.59,28.87,2024-07-22,Written Off,None,N,N,Jennifer P.
+DC101036,Carolyn Marshall,1994-09-29,E19 3US,South East,Summit Consumer Credit,Overdraft,7518.41,4668.07,6.25,10/09/2025,On Hold,None,N,N,Emily G.
+DC100055,Elaine Fisher,02/05/1964,N5T 4NL,Yorkshire,Pinnacle Retail Finance,Council Tax,6311.04,5686.11,28.42,2026-08-17,Closed,Physical Health,N,Y,Dale O.
+DC100466,Carl Smart,29/11/1991,,South East,Meridian Telecom,Utility Arrears,252.62,252.62,8.06,03/05/2024,Closed,None,N,N,Jemma P.
+DC100339,Dale Collins,1965-11-04,N67 0BP,North West,Aurora Credit Ltd,Rent Arrears,14585.28,9004.47,23.7,11/21/2022,Open,None,N,N,Timothy C.
+DC101181,Fiona Berry,1981-06-17,S5 3DG,Midlands,Hallgate Bank,Overdraft,4431.5,4431.5,29.53,2025-11-23,Open,None,N,Y,Colin R.
+DC100309,Rita Dean,2001-09-16,SW6B 9HH,,Yorkshire Utilities Group,Catalogue Debt,9340.98,1282.23,,2024-08-25,Disputed,None,N,Y,Trevor B.
+DC100957,Jacqueline Holmes,05/07/1941,JE6A 6LE,South West,Yorkshire Utilities Group,Council Tax,13588.32,13588.32,3.33,13-04-2025,Closed,None,N,N,Rachael G.
+DC100328,Thomas Hart,08/10/1982,B1F 4NZ,North West,Pinnacle Retail Finance,Rent Arrears,8778.83,3813.75,0.52,2025-09-06,In Arrangement,None,N,N,Nicholas W.
+DC100538,Leanne Smith,1964-02-02,B0G 6TP,,Northbridge Finance,Utility Arrears,12352.04,3936.34,22.26,2026-02-02,In Arrangement,None,N,N,Nicola W.
+DC100756,ANDREW POWELL,2007-04-12,E6S 9XH,North East,Kestrel Bank,Store Card,1133.49,1133.49,20.02,2025-10-08,Disputed,None,N,Y,Angela Q.
+DC100416,Hugh Patterson,1949-09-06,L2E 6FY,South West,Summit Consumer Credit,Catalogue Debt,7572.03,2583.21,0.69,11/04/2025,Open,None,N,Unknown,Charles S.
+DC100688,Karl Burgess,1999-04-25,LU6 6QR,North West,Pinnacle Retail Finance,Mobile Phone Contract,1120.58,1096.53,4.5,01/08/2025,Legal Action,None,N,N,Wendy B.
+DC100932,Lydia O'Neill,2001-11-27,B57 6HZ,Wales,Northbridge Finance,Personal Loan,8605.51,3634.89,21.44,11/04/2025,Closed,None,N,Y,Yvonne H.
+DC100871,Mark Wilson,1991-07-21,,Yorkshire,Leeds City Council,Mobile Phone Contract,6876.5,5181.42,28.52,2026-03-15,Open,None,N,Y,Malcolm W.
+DC100100,Chelsea Simpson,1996-05-17,NW0W 0GL,,Northbridge Finance,Personal Loan,13194.23,13194.23,6.94,2025-02-15,OPEN,None,N,N,Rita C.
+DC100468,Tracy Brown,10/10/2003,HD8X 1XQ,Midlands,Kestrel Bank,Mobile Phone Contract,11167.11,11167.11,22.94,2024-06-24,OPEN,None,N,N,Ann M.
+DC100752,Janet Matthews,1959-03-09,L90 8WL,Midlands,Aurora Credit Ltd,Catalogue Debt,7058.29,830.17,10.48,2023-06-11,Closed,None,N,N,Leon D.
+DC101158,James Clark,1986-01-02,M2 3UH,,Leeds City Council,Council Tax,10777.23,4316.44,,2025-01-05,In Arrangement,None,N,N,Roy A.
+DC100562,Joyce Wright,1962-12-31,S5 6RY,South East,Yorkshire Utilities Group,Store Card,3046.1,1293.85,29.07,2023-10-29,Closed,None,N,Y,Francis B.
+DC100881,Hilary Barker,1982-01-24,N4W 7TA,,Aurora Credit Ltd,Utility Arrears,12655.46,12655.46,14.94,17/03/2023,In Arrangement,None,N,Y,Chloe B.
+DC100016,Sheila Daniels,03/05/2004,EH76 1ES,Scotland,Vantage Home Finance,Council Tax,13190.19,9701.83,6.09,2024-12-16,Written Off,None,N,Y,Owen D.
+DC100107,Linda Nicholson,1998-02-23,S8B 4PJ,South West,Hallgate Bank,Overdraft,11569.24,2709.2,20.41,04/09/2023,In Arrangement,None,N,N,Brett M.
+DC100647,Declan Baker,1957-06-13,M10 6EP,North East,Pinnacle Retail Finance,Council Tax,656.59,656.59,24.43,28/06/2023,Closed,None,N,N,Rhys R.
+DC100175,William Davidson,2008-04-12,OX5W 3NF,Scotland,Aurora Credit Ltd,Catalogue Debt,2787.12,360.99,,22/08/2023,Closed,None,N,N,Irene B.
+DC100423,Mitchell Hall,1969-06-13,G7 1WE,North West,Kestrel Bank,Catalogue Debt,2232.8,400.95,22.17,14-02-2025,Open,None,N,N,Jeremy M.
+DC100548,Marc Carroll,1957-10-22,TA8E 8GY,North West,Summit Consumer Credit,Store Card,675.13,12.79,8.09,09/27/2024,In Arrangement,None,N,Y,Dawn D.
+DC100845,Kirsty Bennett,30/01/1972,CB28 5WQ,South East,Kestrel Bank,Store Card,9703.18,8644.52,15.82,2023-06-10,Written Off,None,N,N,Jade N.
+DC100444,Chloe Davies,1959-04-06,B9 3XQ,Wales,Hallgate Bank,Personal Loan,3975.78,2082.11,9.95,04/05/2023,Open,None,N,N,Georgina N.
+DC100840,John Morley,1987-05-04,M98 4UN,Wales,Vantage Home Finance,Catalogue Debt,12256.11,8650.81,24.83,2024-07-19,In Arrangement,None,N,Unknown,Gary R.
+DC101030,Roger Thomson,1999-02-17,,Wales,Vantage Home Finance,Personal Loan,12662.42,12662.42,8.95,2023-08-10,Closed,None,N,N,Joanne D.
+DC100067,Annette Hughes,1985-10-11,B7B 4PE,South East,Pinnacle Retail Finance,Utility Arrears,2646.77,2646.77,4.38,16/04/2024,Disputed,Mental Health,N,N,Sophie T.
+DC101106,Catherine Middleton,1961-02-20,L3K 0QS,,Aurora Credit Ltd,Council Tax,2526.79,236.47,10.22,2024-08-20,In Arrangement,None,N,Y,Natalie S.
+DC100333,Gordon Stephens,1971-05-14,SM9 9YQ,Midlands,Pinnacle Retail Finance,Credit Card,11355.07,2471.19,,2025-02-18,Open,Financial Hardship,N,Unknown,Guy H.
+DC100087,Leon Turner,1948-08-14,G6H 8SY,East Anglia,Kestrel Bank,Utility Arrears,7067.62,7067.62,27.23,22-08-2023,Legal Action,None,N,Y,Dean Y.
+DC100886,Jemma Pugh,21-12-1959,N5G 7NZ,,Vantage Home Finance,Utility Arrears,14980.86,13288.83,26.11,2022-10-26,In arrangement,None,N,Y,Robert W.
+DC100212,Guy Gray,04/11/1982,W2 6XW,East Anglia,Vantage Home Finance,Overdraft,1285.47,1285.47,6.36,10-02-2026,Disputed,None,Y,Y,Hilary H.
+DC100320,Callum Walsh,02/04/1998,SO20 5ZB,Scotland,Vantage Home Finance,Utility Arrears,4995.65,2031.44,9.16,09/29/2022,Legal Action,None,N,Y,Kayleigh R.
+DC101183,Maria Rice,2000-01-03,G4J 6GJ,Scotland,Vantage Home Finance,Mobile Phone Contract,5910.8,5618.36,13.98,2025-02-25,In arrangement,None,N,N,Andrew M.
+DC100793,Dorothy Whitehead,22/07/1950,SW5A 7FU,South West,Kestrel Bank,Personal Loan,10902.32,6905.07,4.76,2025-04-28,Written Off,None,N,Y,Elliott C.
+DC100492,Liam Jones,1973-08-30,L97 6QF,South West,Pinnacle Retail Finance,Utility Arrears,275.91,275.91,2.91,2026-03-18,Closed,None,N,N,Clare P.
+DC100841,Stephen Price,1955-07-02,B7 0SQ,Midlands,Pinnacle Retail Finance,Overdraft,13752.56,11186.31,17.21,2025-12-15,In Arrangement,Bereavement,N,N,Irene L.
+DC100868,Callum Dixon,07/24/1943,L5G 4JA,North East,Vantage Home Finance,Store Card,630.89,630.89,26.7,2022-11-10,Closed,Mental Health,N,Y,William P.
+DC100741,James Perkins,1956-10-21,KW9 6UN,East Anglia,Pinnacle Retail Finance,Council Tax,11313.14,816.23,28.9,18/05/2025,Open,None,N,N,Lawrence J.
+DC100103,Diane Jones,1970-10-13,E5G 4YU,East Anglia,Northbridge Finance,Catalogue Debt,4022.66,3075.24,20.71,2023-10-16,OPEN,None,N,Y,Kerry K.
+DC100062,Charlene Wright,12-07-1960,GL7B 4YH,,Summit Consumer Credit,Credit Card,12137.24,1879.39,19.67,2023-08-18,Written Off,None,N,Y,Diane C.
+DC101032,Joseph Howard,17-08-1968,L62 6YH,Wales,Aurora Credit Ltd,Catalogue Debt,8115.18,1822.99,10.06,14/04/2023,In Arrangement,,Y,N,Frederick L.
+DC100515,,20/11/1968,E2D 7WP,South East,Yorkshire Utilities Group,Personal Loan,5380.96,5380.96,11.11,2025-12-29,Closed,None,N,Y,Gary B.
+DC100823,Amy Todd,28/02/1986,W74 7JD,,Northbridge Finance,Credit Card,8190.8,6220.09,4.91,10/06/2024,Closed,None,N,Y,Arthur M.
+DC100542,Kayleigh Cook,05-05-1947,KA5 3JJ,North East,Pinnacle Retail Finance,Council Tax,12802.66,12802.66,24.18,2024-01-27,Open,Bereavement,N,Y,Eileen W.
+DC101126,Charlotte Davey,20-04-1986,ME0 8DB,London,Northbridge Finance,Overdraft,3534.22,3534.22,13.16,18/10/2022,Closed,None,N,N,Marc W.
+DC100909,Michelle Long,16/03/1993,,Scotland,Meridian Telecom,Rent Arrears,3772.93,213.53,5.83,30/09/2023,Written Off,None,N,N,Alexander P.
+DC100199,Annette Thorpe,1962-02-01,GY7 5RL,Yorkshire,Pinnacle Retail Finance,Store Card,3870.83,621.73,25.95,2026-07-02,Open,None,N,N,Lisa O.
+DC100527,Katy Lewis,1944-10-01,BH1 0EE,,Leeds City Council,Council Tax,164.95,20.91,5.0,2023-03-10,Open,None,N,Y,Mandy M.
+DC100098,Suzanne Howard,09/10/2005,CM6N 0NZ,South East,Kestrel Bank,Catalogue Debt,4423.67,1886.8,,2024-12-02,On Hold,None,N,Y,Graeme P.
+DC100436,Geoffrey Vincent,1963-12-08,B2D 5UU,Wales,Summit Consumer Credit,Overdraft,13662.74,13662.74,21.94,2025-07-23,Closed,None,N,Unknown,Alan B.
+DC100992,Joan Stevens,,S1T 3YZ,Midlands,Kestrel Bank,Store Card,9032.94,2391.75,22.38,2024-12-13,Open,None,N,N,Caroline C.
+DC100667,JOEL DICKINSON,18/09/1996,,East Anglia,Aurora Credit Ltd,Rent Arrears,9202.48,2649.27,4.82,19/01/2026,Open,,N,,Amelia P.
+DC100508,Shaun Ellis,,SM2E 1BP,South East,Yorkshire Utilities Group,Personal Loan,5971.38,1420.16,,2026-07-14,Legal Action,None,N,N,Beverley C.
+DC100452,Jodie Hall,20/06/1978,M61 9RP,,Summit Consumer Credit,Council Tax,9849.95,9849.95,,10/12/2025,Open,None,N,N,Olivia B.
+DC100250,Amber Smith,1960-10-15,W0B 6FS,,Vantage Home Finance,Mobile Phone Contract,8614.91,452.25,21.01,2024-05-02,In Arrangement,None,N,Y,Marc G.
+DC100293,Daniel Wright,,TQ0P 8ZB,Scotland,Northbridge Finance,Store Card,2637.5,804.3,17.13,2024-02-27,Closed,None,N,Y,Marilyn T.
+DC100330,Suzanne Dale,1943-07-25,NN81 3QH,Midlands,Aurora Credit Ltd,Council Tax,2284.21,2284.21,6.61,18/12/2024,Written Off,None,N,N,Amy H.
+DC101071,Garry Wallace,1969-06-23,HA3X 6AS,Yorkshire,Yorkshire Utilities Group,Mobile Phone Contract,11883.09,8395.98,,2024-12-15,Open,None,N,Unknown,Amy P.
+DC100015,Gerald Bailey,1988-11-08,B5 8JL,North West,Yorkshire Utilities Group,Mobile Phone Contract,14942.03,14942.03,13.1,14-12-2022,Open,Bereavement,N,Y,Aimee J.
+DC100297,Jean Walker,09/07/1987,B01 9UF,,Vantage Home Finance,Overdraft,13782.92,13782.92,20.19,2024-08-08,Open,None,N,N,George M.
+DC100009,Carl Johnson,,S6 8LX,Wales,Hallgate Bank,Personal Loan,10394.53,2983.76,1.91,2024-05-17,In Arrangement,None,Y,N,Mark D.
+DC100705,Vanessa Lees,1949-12-14,LU1Y 3YZ,North West,Hallgate Bank,Overdraft,8009.15,4303.4,23.66,24/10/2024,On Hold,None,N,Y,Gary G.
+DC100991,Paula Wallace,1944-03-12,L7 7DU,North West,Hallgate Bank,Credit Card,14740.43,6591.94,14.49,2025-10-25,Written Off,None,N,N,Joe S.
+DC100858,Sam Barnes,17-12-1985,LN5H 1GR,Yorkshire,Northbridge Finance,Catalogue Debt,5559.96,1505.62,14.62,04/09/2024,Open,None,N,N,Emily P.
+DC100219,Elizabeth Patel,1945-11-09,S8 5TU,North West,Hallgate Bank,Utility Arrears,13538.88,5418.07,16.12,2025-11-01,Disputed,None,Y,Unknown,Toby J.
+DC100325,MOHAMMED PAGE,1993-04-22,BR3X 6EH,North East,Meridian Telecom,Store Card,5272.07,3647.82,24.09,2024-10-23,In Arrangement,None,N,Y,Shannon N.
+DC100604,Janet Wood,1991-01-17,M3B 8PG,,Meridian Telecom,Overdraft,2061.78,1016.52,9.06,2023-03-20,Open,None,N,N,Daniel D.
+DC100478,Eileen Green,1977-01-28,W4 2XB,,Vantage Home Finance,Rent Arrears,11740.62,10490.92,13.22,2026-06-27,Closed,None,N,Y,Jacqueline B.
+DC100530,Amelia Wright,,N66 8JS,East Anglia,Aurora Credit Ltd,Overdraft,14910.06,14910.06,16.94,22/06/2026,Disputed,None,N,Y,Nathan C.
+DC100539,Alan Rhodes,29/07/1978,,Midlands,Northbridge Finance,Catalogue Debt,4236.44,2601.93,16.87,02/03/2026,Closed,None,Y,Y,Janet J.
+DC100961,Andrew Williams,18-12-1960,N0 3GD,London,Pinnacle Retail Finance,Council Tax,9110.34,9110.34,12.65,2022-11-10,Legal Action,None,N,Y,Eleanor G.
+DC101069,Dennis Hughes,24/07/1979,S3 4AJ,Scotland,Yorkshire Utilities Group,Mobile Phone Contract,12008.46,203.72,12.61,2025-02-14,Closed,None,N,Y,Katy B.
+DC100853,Gregory Harris,1947-07-11,SG4 6ET,,Hallgate Bank,Overdraft,8632.6,8632.6,16.56,2025-01-10,Open,None,N,Y,Helen B.
+DC100714,Dominic Newman,05-05-1941,E2G 2BE,Scotland,Yorkshire Utilities Group,Rent Arrears,8959.88,6241.72,,07/25/2025,In Arrangement,None,Y,N,Susan S.
+DC100267,Max Armstrong,1950-12-31,E5 9JX,Wales,Meridian Telecom,Credit Card,1773.35,963.11,15.43,2025-06-13,On Hold,None,N,Y,Benjamin G.
+DC100118,Louise Morrison,20/11/1991,L47 5YT,,Northbridge Finance,Personal Loan,10503.96,7353.04,11.28,10/16/2025,Open,,N,N,Bethany M.
+DC100096,Rita Clark,03/30/1985,L6H 6PT,East Anglia,Hallgate Bank,Credit Card,431.22,431.22,15.51,2026-02-27,In Arrangement,None,N,,Tracey S.
+DC100951,Dennis Williams,1989-12-18,N0H 5EU,East Anglia,Leeds City Council,Mobile Phone Contract,13754.64,13754.64,10.78,2023-04-29,Closed,None,N,Y,Georgina H.
+DC101143,Christopher Smith,1978-02-25,DY5R 5QX,East Anglia,Vantage Home Finance,Utility Arrears,14237.12,6133.41,22.04,2026-05-31,Open,None,N,N,Hannah N.
+DC101044,Oliver Johnston,1946-11-15,W2U 3LU,South East,Yorkshire Utilities Group,Rent Arrears,1550.25,438.01,26.11,2024-04-24,In Arrangement,None,N,Y,Bruce H.
+DC100595,Clive Finch,18/07/2001,N6 9JE,Scotland,Hallgate Bank,Catalogue Debt,6297.64,6297.64,,05-11-2022,Open,,N,Y,Chelsea W.
+DC100300,Max Shaw,1947-01-16,E66 4RU,Scotland,Kestrel Bank,Store Card,1248.86,278.36,,30/11/2025,Closed,None,N,Y,Emily B.
+DC100494,Glenn Lloyd,1960-10-16,PO2W 1SW,London,Vantage Home Finance,Personal Loan,12860.9,7319.12,16.95,03-05-2023,Written Off,None,N,Y,Wendy T.
+DC100704,Ronald Mitchell,1985-08-02,SP02 6LJ,Midlands,Pinnacle Retail Finance,Council Tax,7221.39,7221.39,18.22,2023-01-26,Written Off,None,N,Y,Douglas K.
+DC100383,Ryan Sheppard,1998-01-31,M6 8UG,South West,Aurora Credit Ltd,Personal Loan,3009.45,666.44,,2026-06-13,Open,None,N,N,Alex B.
+DC100086,Chelsea Mills,1982-03-17,UB7Y 6EF,Midlands,Vantage Home Finance,Personal Loan,7486.23,4784.48,,2025-04-04,Closed,,N,N,Jordan H.
+DC100713,Kimberley Taylor,27/05/1944,LE2 7UN,,Summit Consumer Credit,Overdraft,13484.23,8189.88,3.37,20/05/2026,Closed,None,N,Y,Jacob K.
+DC100757,Max Martin,20-07-1983,CV73 5FU,East Anglia,Summit Consumer Credit,Catalogue Debt,11170.35,11170.35,23.27,01/31/2026,Open,None,N,N,Colin H.
+DC100749,,17/06/1954,G3 8LX,North West,Yorkshire Utilities Group,Utility Arrears,9193.19,5817.53,22.56,2025-07-18,Closed,None,N,Y,Denis B.
+DC100388,Declan Begum,2008-07-07,N2 2UJ,Wales,Vantage Home Finance,Credit Card,4736.39,1680.66,15.6,2025-03-03,Open,Physical Health,N,N,Elliott R.
+DC100937,Terry Gibson,1977-09-20,B55 9QW,Midlands,Hallgate Bank,Mobile Phone Contract,12670.99,7360.83,5.58,29/07/2026,Open,None,N,,Stephen S.
+DC100918,Peter Simmons,04/07/1956,E4F 1EX,Wales,Kestrel Bank,Rent Arrears,2699.4,2699.4,26.53,2024-03-03,Legal Action,,N,Y,Leslie M.
+DC100259,Anna Webb,18-06-1974,L5 2DP,Scotland,Yorkshire Utilities Group,Catalogue Debt,423.07,176.42,,2024-01-07,Open,None,N,Y,Katie B.
+DC101180,Abigail Williams,1971-01-02,EN53 5LU,London,Vantage Home Finance,Catalogue Debt,2272.4,1324.93,3.03,19-05-2024,Open,None,N,N,Charles T.
+DC100240,Dominic Hope,1977-11-20,,North West,Kestrel Bank,Utility Arrears,10316.91,7379.92,19.04,2025-11-03,Written Off,None,N,Y,Albert W.
+DC101040,Rachael Oliver,1967-07-01,RM7 9WB,,Leeds City Council,Catalogue Debt,6382.52,3687.69,15.81,2025-08-21,Disputed,None,N,N,Tracey B.
+DC100774,Stephanie Walsh,05-09-1967,NR49 3SG,London,Vantage Home Finance,Store Card,11387.83,10208.4,22.36,2024-05-19,Written Off,None,N,,Abdul S.
+DC100481,LUKE STEVENSON,1955-02-12,,Midlands,Hallgate Bank,Store Card,11906.16,5448.61,9.19,2025-04-13,Legal Action,None,N,Y,Wendy L.
+DC100308,Jasmine Foster,1989-06-15,CH13 5QN,Midlands,Vantage Home Finance,Credit Card,10431.52,8280.96,21.44,02/22/2024,Disputed,None,N,Y,Lorraine B.
+DC100001,Ruth Griffiths,23/02/1991,E81 0AD,Wales,Aurora Credit Ltd,Overdraft,521.41,521.41,,2023-09-06,In Arrangement,None,N,Y,Charlie B.
+DC100587,Francesca Smith,1997-12-25,L1E 2US,Midlands,Hallgate Bank,Credit Card,11782.97,11782.97,26.79,2026-01-31,Written Off,None,N,N,Daniel C.
+DC100235,Marcus Edwards,08-12-1979,ML50 9GQ,North East,Pinnacle Retail Finance,Rent Arrears,4805.21,1667.34,12.38,2023-01-09,In Arrangement,None,N,Y,Charles S.
+DC101059,Karen Green,1940-11-02,B5 4AY,East Anglia,Vantage Home Finance,Personal Loan,6139.1,6139.1,3.56,31/07/2026,Open,None,N,Y,Lynne P.
+DC101133,,01/04/1999,M7 9GE,Midlands,Aurora Credit Ltd,Store Card,7762.55,1740.57,3.34,2026-06-06,Open,None,N,N,Alexander C.
+DC100185,Charlie Lowe,06/02/1966,PO7X 0AX,North East,Meridian Telecom,Personal Loan,862.21,768.99,14.18,21/02/2025,Open,None,N,N,Lynn A.
+DC100145,Adrian Phillips,1957-07-31,IP9 3GP,,Summit Consumer Credit,Overdraft,4043.45,4043.45,12.03,2023-02-06,Written Off,None,N,N,Melissa A.
+DC100493,Julia Evans,23-01-1959,B4 1TT,London,Yorkshire Utilities Group,Utility Arrears,4458.27,3782.67,4.82,2024-01-14,On Hold,None,N,N,Samantha T.
+DC100409,Gerard Brown,,LN05 8HH,London,Yorkshire Utilities Group,Rent Arrears,6590.71,6590.71,11.19,2023-02-27,On Hold,None,N,,Janice N.
+DC100907,Gerald Clark,2000-08-15,KT7 3SE,East Anglia,Summit Consumer Credit,Council Tax,8563.73,142.11,3.62,2025-09-05,Disputed,None,N,Y,Edward H.
+DC100262,Stuart Ford,1952-04-15,BS8B 9ZU,London,Vantage Home Finance,Utility Arrears,5825.78,229.5,9.34,2024-03-11,In Arrangement,None,N,Y,Geraldine H.
+DC100700,Amelia Alexander,1997-07-13,E8 3QT,South West,Hallgate Bank,Store Card,10409.34,6144.3,4.25,2026-05-06,Closed,None,N,Y,Marian H.
+DC100296,Geoffrey McKenzie,,WA8 5SN,South West,Northbridge Finance,Catalogue Debt,8057.93,4997.52,13.42,02/08/2025,Closed,None,N,Unknown,Shaun T.
+DC100799,Lynn Palmer,1954-01-08,N7 6AQ,South West,Aurora Credit Ltd,Rent Arrears,9518.06,9518.06,22.5,23-07-2024,Open,None,N,Y,Francis B.
+DC100278,Elaine Fox,1964-07-03,SW1 0RB,Scotland,Pinnacle Retail Finance,Credit Card,12659.73,5431.26,2.6,2023-05-12,In Arrangement,None,N,Y,Ben D.
+DC100801,Maureen Perry,,S3J 3ZR,London,Pinnacle Retail Finance,Mobile Phone Contract,6166.97,6166.97,10.95,2024-01-13,Open,None,N,N,Lee R.
+DC100852,Gail Williams,06/23/1985,B22 2WX,South West,Summit Consumer Credit,Personal Loan,3178.76,3178.76,5.29,2023-03-16,Disputed,None,N,Y,Marc J.
+DC100960,Adam Gregory,25/05/1987,SK4 8LG,South East,Vantage Home Finance,Mobile Phone Contract,2919.33,799.15,25.71,17/09/2023,Written Off,None,N,Unknown,Billy E.
+DC100740,Georgina Hughes,30/01/1987,MK62 1AF,,Meridian Telecom,Council Tax,1193.66,1065.39,,2023-03-22,Open,None,N,Y,Dean W.
+DC100747,Aimee Brown,1978-03-30,HX5 3LH,Midlands,Leeds City Council,Rent Arrears,3592.46,3592.46,12.66,05/02/2026,In Arrangement,None,N,Y,Fiona C.
+DC100066,Ricky Clayton,1980-07-10,CA75 5PE,South East,Kestrel Bank,Store Card,8664.99,2517.19,27.5,2025-03-17,Open,None,N,N,Shaun S.
+DC100352,Pamela Carpenter,28/09/1978,OX5 2EJ,London,Kestrel Bank,Store Card,14673.19,14673.19,26.3,2024-08-13,Legal Action,None,N,Y,Katie G.
+DC100888,Kieran Palmer,28-07-2008,,North West,Summit Consumer Credit,Utility Arrears,12700.15,6730.49,17.78,11/01/2023,On Hold,Bereavement,N,N,Lee J.
+DC101150,Dylan Fisher,06/08/1988,S1A 9AW,South East,Northbridge Finance,Council Tax,339.08,170.83,22.65,27/06/2024,In Arrangement,None,N,Y,Louise R.
+DC100761,John Andrews,12/15/1947,WF1 2UY,,Pinnacle Retail Finance,Personal Loan,181.0,181.0,,2025-08-09,In arrangement,None,N,Y,Louise S.
+DC100184,Joanna Scott,2005-10-24,B0 2JD,London,Yorkshire Utilities Group,Utility Arrears,5484.88,4451.39,0.66,09/10/2024,On Hold,None,N,Y,Lindsey H.
+DC100003,Robin Andrews,1963-08-11,N5 0TX,Yorkshire,Yorkshire Utilities Group,Catalogue Debt,12466.66,4755.78,25.57,31/01/2023,In Arrangement,None,N,Y,Harry S.
+DC100332,Liam Harris,1945-04-21,PA7N 2JE,North West,Aurora Credit Ltd,Credit Card,3514.63,3514.63,22.64,2023-02-08,Open,None,N,Y,Glen B.
+DC101041,Teresa Morris,31-01-1970,G05 4SA,Yorkshire,Vantage Home Finance,Utility Arrears,11379.15,939.43,16.04,12-04-2026,In Arrangement,None,N,Unknown,Caroline B.
+DC101148,Conor Harrison,1999-04-14,E6T 7AR,Wales,Northbridge Finance,Mobile Phone Contract,4026.13,379.49,3.94,23-03-2024,On Hold,None,Y,N,Ian H.
+DC100812,Russell Watson,23-11-1973,PH45 9RS,East Anglia,Summit Consumer Credit,Utility Arrears,14954.45,12042.73,,2026-03-07,Open,None,N,Y,Marc S.
+DC100222,Charles Williams,1940-10-07,G42 1QL,South West,Kestrel Bank,Personal Loan,2803.99,1236.3,13.35,22/06/2026,In arrangement,None,N,Y,Jake P.
+DC101052,Alexander Nicholls,1970-07-01,G0 8BQ,Scotland,Aurora Credit Ltd,Utility Arrears,1528.72,1528.72,27.32,2025-01-13,Open,Mental Health,N,Y,Lesley T.
+DC100047,Bruce Wilson,22/05/1945,B3 0ZF,Wales,Northbridge Finance,Personal Loan,12911.23,12911.23,20.46,2026-06-21,In Arrangement,None,N,Y,Shane C.
+DC100794,Frances Stevenson,1976-02-17,WA27 0HH,Wales,Summit Consumer Credit,Mobile Phone Contract,6313.53,3569.55,4.71,2022-09-26,Open,None,N,N,Emily B.
+DC100306,Dawn Williams,1948-10-17,BA1P 0XX,,Meridian Telecom,Mobile Phone Contract,7532.58,7532.58,20.45,2024-09-01,Written Off,None,N,Y,David M.
+DC101137,Ian Stephenson,11/03/1997,B1 4UH,Midlands,Northbridge Finance,Council Tax,2696.63,1423.15,13.64,2024-05-03,Open,None,N,N,Vincent J.
+DC100832,Denis Todd,1988-09-20,E2 4JG,East Anglia,Summit Consumer Credit,Overdraft,3549.29,886.36,27.72,07/11/2023,Open,None,N,N,Guy D.
+DC100270,Jill Williams,2008-07-15,M5T 1RX,Yorkshire,Meridian Telecom,Catalogue Debt,5127.62,659.9,22.98,2025-03-06,Open,None,N,N,Patricia F.
+DC100920,Derek Sims,1987-07-29,M3 8UP,North West,Northbridge Finance,Mobile Phone Contract,13305.74,11852.66,24.43,2025-01-24,Open,None,N,Y,Naomi S.
+DC100385,Gavin Jones,1987-01-22,CW0 4UN,Scotland,Northbridge Finance,Rent Arrears,13837.21,12193.82,11.11,11-12-2023,Open,None,N,Y,Joe E.
+DC100450,Francesca Hammond,1961-04-07,S3K 8GU,East Anglia,Aurora Credit Ltd,Utility Arrears,2300.62,1798.77,29.38,2024-07-11,In Arrangement,None,N,Y,Jacqueline C.
+DC100702,Tracey Cox,1994-09-17,SE16 9HF,North West,Aurora Credit Ltd,Mobile Phone Contract,6611.35,981.14,18.17,2024-02-01,In Arrangement,None,N,N,Maria H.
+DC100498,Andrew Jones,1961-06-14,B7H 6GQ,London,Hallgate Bank,Personal Loan,6581.75,6581.75,1.14,23-06-2025,Closed,None,N,N,Kayleigh H.
+DC100188,Jonathan Lambert,1999-01-30,S6 8UB,Yorkshire,Northbridge Finance,Utility Arrears,12805.89,8193.02,5.1,2025-09-11,Closed,None,N,Y,Kim P.
+DC100655,Sarah Hutchinson,1960-09-30,E4D 1DQ,Yorkshire,Aurora Credit Ltd,Catalogue Debt,3733.2,,21.9,08/09/2024,In Arrangement,None,N,N,Ian K.
+DC100162,,1995-09-21,LE4Y 0PN,,Vantage Home Finance,Utility Arrears,10651.67,4665.67,21.95,2024-01-07,In Arrangement,None,N,Y,Kirsty D.
+DC100777,Mandy Marsh,15-07-1963,E13 4HX,Scotland,Leeds City Council,Overdraft,5198.13,5198.13,,2023-08-29,Disputed,None,N,Y,Reece D.
+DC100597,Kathryn John,1999-02-03,B8B 1HQ,,Vantage Home Finance,Credit Card,9522.04,4997.07,3.13,2023-02-13,Closed,None,N,Unknown,Charles B.
+DC100365,Guy Conway,1941-07-11,E5F 2XL,Scotland,Vantage Home Finance,Utility Arrears,14323.32,14323.32,2.87,2023-07-19,Written Off,None,N,Y,Frank P.
+DC100343,Catherine Kelly,08/09/1951,L0 9YG,Yorkshire,Hallgate Bank,Credit Card,705.06,241.29,11.29,26/12/2025,Disputed,None,N,N,Aaron J.
+DC100649,Karen Stephens,1969-12-06,L8 2PJ,North West,Summit Consumer Credit,Utility Arrears,8324.4,5862.76,28.14,19/03/2025,Closed,None,N,Y,Alexander J.
+DC100628,Bethan Robinson,16/03/1949,W03 4QH,South East,Summit Consumer Credit,Store Card,2862.44,633.2,8.97,04/03/2024,Open,None,N,N,George W.
+DC100391,Dean Patterson,1996-06-10,AB86 0ZQ,North West,Leeds City Council,Credit Card,11319.19,4685.82,16.54,2024-11-04,Written Off,None,N,Y,Jasmine S.
+DC100659,Nicole Holland,04-03-1950,ST0 5PJ,North East,Aurora Credit Ltd,Mobile Phone Contract,9777.06,2535.15,16.09,22/02/2026,Written Off,None,N,Unknown,Samantha P.
+DC101167,Joyce Vincent,1989-03-07,,South West,Northbridge Finance,Utility Arrears,602.68,596.36,23.91,20/11/2024,In Arrangement,None,N,N,Russell A.
+DC100366,Molly Ward,24/03/1953,SN55 4TG,,Yorkshire Utilities Group,Utility Arrears,2917.38,2917.38,15.77,19/05/2024,Disputed,,N,Y,Alexandra C.
+DC100769,Bernard Cooper,1980-03-24,,London,Vantage Home Finance,Catalogue Debt,12546.81,12546.81,0.13,16/05/2024,On Hold,None,N,Y,Linda D.
+DC100802,Melissa Mahmood,07/08/2004,DD6N 6JE,Yorkshire,Vantage Home Finance,Rent Arrears,6241.22,898.58,1.93,2024-04-01,In Arrangement,None,N,Y,Carolyn R.
+DC100599,Thomas Smith,1995-09-29,G1E 6QJ,Wales,Kestrel Bank,Catalogue Debt,6401.64,1446.31,28.86,01/22/2024,Closed,None,N,Y,Derek M.
+DC100582,Jordan Lewis,06/13/1975,,North West,Meridian Telecom,Personal Loan,10676.69,5184.27,22.63,2024-05-04,In arrangement,None,N,N,Stephanie B.
+DC100069,Gerard Williams,1988-03-15,PL3Y 4XA,East Anglia,Summit Consumer Credit,Credit Card,9723.3,9723.3,24.21,2023-03-13,In Arrangement,None,N,Y,Lynn M.
+DC100224,Jenna Wilson,1986-12-17,HR1P 7DJ,Wales,Leeds City Council,Council Tax,2752.78,,,2022-10-04,Legal Action,Bereavement,N,N,Jacqueline A.
+DC100389,Leah Peacock,1995-07-01,B65 4BU,East Anglia,Northbridge Finance,Store Card,12607.92,12607.92,0.7,2024-06-09,Disputed,None,N,Y,Diana W.
+DC100972,Joanne Walton,,M5U 1PW,South West,Leeds City Council,Catalogue Debt,2504.31,1036.55,13.64,2023-07-29,Open,None,N,N,Paula K.
+DC101083,Carolyn Shaw,,N36 6TT,Scotland,Kestrel Bank,Overdraft,14158.33,14158.33,,2026-08-04,Open,None,N,Y,Louise W.
+DC100502,Kimberley Carr,07/07/1988,N54 4BD,London,Meridian Telecom,Rent Arrears,9569.25,3455.3,17.97,2025-09-02,Open,None,N,Y,Christine W.
+DC100253,Oliver Smith,13-02-1957,BN3W 5GG,North West,Vantage Home Finance,Overdraft,2205.36,1395.81,6.5,2024-10-23,Open,None,N,Y,Frank W.
+DC100393,Katy Rice,1997-07-07,L1 3EB,,Meridian Telecom,Mobile Phone Contract,14585.41,14577.49,6.36,25/03/2023,Disputed,None,N,Y,Alexandra G.
+DC100459,Jacqueline Evans,05/10/1953,W3T 6XY,Wales,Leeds City Council,Personal Loan,12346.95,6301.65,5.11,02/02/2025,In Arrangement,None,N,Y,Claire R.
+DC100113,Kathryn Walsh,1966-01-28,TF59 5DP,North East,Yorkshire Utilities Group,Council Tax,13648.56,13648.56,7.16,2023-10-30,Written Off,None,N,Y,Neil B.
+DC100054,Cameron Marshall,23/08/1984,E4 6JN,Scotland,Hallgate Bank,Personal Loan,13654.41,9528.18,,23/08/2024,Open,Physical Health,N,Y,Cheryl J.
+DC100936,Stuart Thomas,07/09/1942,G21 1BT,North East,Pinnacle Retail Finance,Rent Arrears,3416.17,2951.29,16.24,2026-03-23,Open,None,N,N,Kim E.
+DC100386,Lee Taylor,14/07/1955,KY5A 4YE,Yorkshire,Meridian Telecom,Store Card,3351.38,606.18,16.92,2023-03-01,Open,None,N,N,Hannah P.
+DC100097,Neil Webster,1961-12-22,W11 1SE,London,Leeds City Council,Rent Arrears,13034.67,4161.37,28.15,20-09-2023,Open,None,N,N,Christine B.
+DC100890,Connor Marshall,1970-12-25,HX15 5UZ,North West,Pinnacle Retail Finance,Mobile Phone Contract,6689.15,466.17,29.27,22/06/2026,Closed,Financial Hardship,N,Y,Bernard P.
+DC100144,Gareth Webster,27/07/1989,JE2 8XE,Wales,Northbridge Finance,Mobile Phone Contract,14326.87,14326.87,3.95,2025-08-06,Disputed,None,N,N,Stanley S.
+DC100315,Dorothy Ellis,28-07-1986,M6U 8EA,Midlands,Meridian Telecom,Utility Arrears,10594.07,1505.18,11.08,2026-03-23,Open,None,N,N,Margaret L.
+DC100903,Diana Holmes,2001-05-25,N3 0JF,,Pinnacle Retail Finance,Catalogue Debt,13589.29,13589.29,1.6,14/11/2022,Open,None,N,N,Kate P.
+DC100445,Patrick Hewitt,1995-05-25,E49 8TB,Scotland,Aurora Credit Ltd,Personal Loan,11808.47,398.56,,2024-12-20,Open,None,N,Unknown,Callum D.
+DC100370,Douglas Ward,1968-09-20,PL3W 4QP,London,Meridian Telecom,Rent Arrears,10486.08,10486.08,9.0,2024-02-05,Disputed,None,N,N,Ellie D.
+DC100405,Tom Barlow,31/07/1979,EX16 2FU,Yorkshire,Meridian Telecom,Mobile Phone Contract,9916.5,9916.5,5.99,2022-11-30,Written Off,None,N,N,Yvonne R.
+DC100872,Lawrence Thomas,1964-07-01,M29 7ED,London,Aurora Credit Ltd,Rent Arrears,10194.04,5639.14,,2025-04-15,In Arrangement,None,N,N,Martin S.
+DC100984,Jacqueline Smith,21/03/1956,M2K 4QW,Midlands,Kestrel Bank,Rent Arrears,1017.91,785.44,8.38,2026-01-20,Legal Action,Physical Health,N,Y,Georgia S.
+DC100469,Naomi Taylor,07/02/1963,M9 7JY,Scotland,Yorkshire Utilities Group,Overdraft,3829.05,3245.14,21.12,2023-10-08,Open,None,N,N,Gordon R.
+DC100065,Bernard Hunt,1997-07-26,,Midlands,Meridian Telecom,Rent Arrears,11497.79,11497.79,14.96,22-12-2024,Disputed,None,N,N,Naomi W.
+DC101086,CLIFFORD FRANKLIN,2005-09-17,BL33 8GR,Midlands,Hallgate Bank,Rent Arrears,1909.6,456.29,17.5,2026-02-17,Closed,None,N,Unknown,Georgia W.
+DC100879,Eleanor Hall,29-08-1979,M2G 3FA,,Vantage Home Finance,Catalogue Debt,1812.56,43.48,15.2,12/12/2024,In Arrangement,None,N,N,Leonard R.
+DC100796,Francesca Watkins,1968-11-16,S8U 1GT,London,Kestrel Bank,Council Tax,8772.84,8772.84,15.2,2024-02-06,Disputed,None,N,N,Anne P.
+DC100252,Charlotte Dixon,1942-06-30,M0 8QY,London,Yorkshire Utilities Group,Mobile Phone Contract,8997.08,4340.11,,2025-01-22,Closed,None,N,N,Donald S.
+DC100217,Darren Pearce,1976-12-01,N44 8EF,South West,Vantage Home Finance,Credit Card,731.98,731.98,21.77,2025-01-22,Open,None,N,Unknown,Victoria B.
+DC101061,Diana Baker,1993-03-20,BB90 4NE,Wales,Leeds City Council,Council Tax,3787.42,3595.54,3.55,15/09/2024,Written Off,,N,N,Damien R.
+DC101159,Lesley Jones,17-06-1947,RG8B 2WF,South West,Northbridge Finance,Catalogue Debt,2570.69,2570.69,23.88,03/29/2024,Open,None,N,Y,Joseph J.
+DC101194,Molly Nicholls,1983-01-01,E7 6WB,South West,Hallgate Bank,Catalogue Debt,5504.83,2484.68,6.27,02/11/2023,Written Off,None,N,Y,Dorothy M.
+DC100301,Mohammed Clark,23-01-1988,E69 9TG,North East,Northbridge Finance,Store Card,6707.49,6707.49,19.15,13-12-2022,Open,None,N,N,Kathryn P.
+DC100281,Sian Reynolds,1983-02-16,N8 4EU,Wales,Summit Consumer Credit,Personal Loan,10116.19,10116.19,10.47,2025-01-04,Open,Elderly - Support Needed,N,Y,Philip H.
+DC100124,Dawn Anderson,03-11-1941,G46 9QJ,London,Hallgate Bank,Council Tax,2633.03,2633.03,4.05,27/09/2024,Written Off,None,Y,Y,Alexandra F.
+DC100414,Donna White,12/09/1944,WV08 3FP,Scotland,Pinnacle Retail Finance,Overdraft,12846.74,3646.09,24.57,24/09/2023,Open,None,N,Y,Lisa M.
+DC100834,John Wright,26/08/2006,WR37 0AY,North West,Vantage Home Finance,Utility Arrears,6163.28,6163.28,11.9,02/01/2025,In Arrangement,Bereavement,N,N,Gail S.
+DC100283,Stanley Davies,08-10-1989,EX6 6BY,North East,Aurora Credit Ltd,Store Card,13853.34,3263.46,19.27,2025-04-15,Open,None,N,N,Lindsey T.
+DC100312,Scott Webb,07/06/1985,MK6 9JL,North East,Hallgate Bank,Overdraft,3152.83,2751.75,10.27,04-02-2025,Open,None,N,N,Patricia R.
+DC100651,Karen Morley,1972-04-17,NG7 7LY,South West,Hallgate Bank,Store Card,876.35,27.04,21.57,2023-12-25,Closed,None,N,Y,Joanne D.
+DC100154,Amy Marshall,1968-08-17,WR02 8PU,London,Pinnacle Retail Finance,Overdraft,10498.64,10075.23,20.25,2025-10-03,Closed,None,N,,Kerry P.
+DC101089,Alexander Fry,03/11/1946,DH2 4DQ,Yorkshire,Yorkshire Utilities Group,Personal Loan,9837.23,4608.17,9.18,2026-05-16,Open,None,N,Y,Sara W.
+DC100074,Naomi Robinson,1974-05-28,N1W 1WT,North East,Yorkshire Utilities Group,Mobile Phone Contract,11323.01,11323.01,17.06,12/11/2022,Open,Elderly - Support Needed,N,N,Stephen W.
+DC100630,Kim Frost,,DA83 1YF,North East,Leeds City Council,Credit Card,11469.01,6834.6,6.05,2024-12-13,Closed,None,N,Y,Gary C.
+DC101000,Margaret Rose,20/10/1978,W41 3GP,South East,Summit Consumer Credit,Mobile Phone Contract,7611.77,514.27,28.7,2023-07-03,Disputed,None,N,Y,Catherine H.
+DC101117,Terry Butler,11/03/1977,DG9W 4BH,South East,Yorkshire Utilities Group,Store Card,4328.5,1260.84,8.11,2025-12-13,Closed,None,N,N,Judith R.
+DC100486,Antony Bennett,1988-10-12,KT7 3FL,South East,Northbridge Finance,Council Tax,7975.15,1781.71,0.51,17/01/2025,Open,None,N,Unknown,Zoe P.
+DC100097,Neil Webster,1961-12-22,W11 1SE,London,Leeds City Council,Rent Arrears,13034.67,4161.37,28.15,20-09-2023,Open,None,N,N,Christine B.
+DC100017,JADE TAYLOR,1944-05-28,CB0P 1JH,South West,Summit Consumer Credit,Credit Card,11601.12,11601.12,28.26,2025-04-13,Written Off,None,N,Y,Karl W.
+DC100759,Roy Rees,1945-08-15,JE1Y 0ZE,South West,Kestrel Bank,Overdraft,9993.8,2248.94,0.91,2023-09-06,Open,None,N,Y,Gemma C.
+DC100633,Francis Parker,05/03/2003,AB6 5DY,Yorkshire,Kestrel Bank,Personal Loan,8655.09,8655.09,20.91,2024-10-21,Disputed,None,N,Unknown,Peter S.
+DC100367,Beverley Vincent,1996-02-02,S63 2UA,Wales,Aurora Credit Ltd,Rent Arrears,3842.5,2198.94,2.83,18/07/2025,In Arrangement,Mental Health,N,N,Edward O.
+DC100500,Gavin Greenwood,1946-03-24,BN8X 0ER,London,Pinnacle Retail Finance,Overdraft,948.07,99.59,16.01,04-03-2026,OPEN,None,N,Unknown,Claire H.
+DC100432,Hugh Hill,1976-05-25,B1K 7ZN,Midlands,Hallgate Bank,Credit Card,6063.93,5046.61,12.78,2025-06-12,Disputed,None,N,Unknown,Rachel J.
+DC101004,Joseph Taylor,1988-04-09,ZE7 2PT,South East,Summit Consumer Credit,Utility Arrears,2814.99,2127.37,25.19,2025-08-13,Open,None,N,N,Julian H.
+DC100227,Bruce Robson,1962-02-09,RM1 8ZZ,,Yorkshire Utilities Group,Mobile Phone Contract,556.16,556.16,10.56,2023-04-09,In Arrangement,,N,N,Tina K.
+DC100568,Darren Barnett,01/13/2004,PL9 0LW,North West,Yorkshire Utilities Group,Catalogue Debt,6667.91,6667.91,6.18,2024-07-25,On Hold,,N,N,Jasmine P.
+DC100434,Gordon Winter,09/05/1942,L9 6BP,South West,Leeds City Council,Mobile Phone Contract,13292.24,13292.24,14.61,04/03/2025,On Hold,None,N,N,Bruce M.
+DC100449,Alice Clark,1973-04-09,TD5 8ER,Wales,Meridian Telecom,Personal Loan,5961.74,5533.55,22.49,13/01/2026,Open,Mental Health,N,N,Kenneth R.
+DC100743,Timothy Harrison,1974-11-18,G3B 6BL,Scotland,Yorkshire Utilities Group,Store Card,2383.23,266.64,26.17,2023-06-07,Written Off,None,N,Y,Alex M.
+DC101099,Alexandra Roberts,07-09-1993,B5 2YT,North West,Vantage Home Finance,Council Tax,2470.67,1606.44,6.72,07/02/2026,Written Off,None,N,Y,Julia W.
+DC101034,Terence Reynolds,1976-05-15,W3S 4EX,North West,Vantage Home Finance,Council Tax,10083.7,8115.78,2.39,2025-09-29,Open,None,N,N,Kathryn P.
+DC100075,Michelle Carr,2006-09-05,HR9 1PX,Wales,Aurora Credit Ltd,Catalogue Debt,924.87,480.39,,06-01-2023,On Hold,None,N,Y,Jessica W.
+DC100041,Maria Jones,1956-12-28,GL3M 5XD,Midlands,Pinnacle Retail Finance,Overdraft,7452.13,7452.13,8.62,2024-06-11,Closed,None,N,N,Ashley H.
+DC100558,Angela McCarthy,2002-08-03,GU1 4HG,North East,Vantage Home Finance,Mobile Phone Contract,9326.55,9326.55,,2024-04-05,Open,None,N,Y,Jennifer M.
+DC100603,Sean Harrison,23/01/1971,W5U 3ND,Yorkshire,Leeds City Council,Overdraft,9862.57,9862.57,11.91,11/07/2023,Closed,None,N,Y,Alan P.
+DC100629,Kayleigh Stokes,14/07/1989,HX04 9HA,Scotland,Yorkshire Utilities Group,Catalogue Debt,14357.1,270.57,25.6,2023-08-22,Written Off,None,N,Y,Dominic R.
+DC101115,Sean Johnson,1946-04-02,M1H 3LF,London,Vantage Home Finance,Personal Loan,3033.95,2831.42,,23/08/2024,In Arrangement,None,N,N,Julie B.
+DC100226,Chloe Parsons,18/03/1955,PO73 1FE,Wales,Leeds City Council,Rent Arrears,6195.95,6195.95,17.19,2025-08-26,Open,Physical Health,N,Unknown,Joan E.
+DC100716,Wendy Stokes,05/04/1981,IM1R 4TQ,South West,Northbridge Finance,Catalogue Debt,3347.33,2708.71,26.87,25/05/2023,On Hold,None,N,Y,Mark O.
+DC101184,Dominic Gibbs,1945-12-17,TW2 7XQ,Yorkshire,Vantage Home Finance,Store Card,4149.69,933.5,11.81,2025-09-30,On Hold,None,N,N,Antony G.
+DC100137,Marc James,1956-10-26,NR9 7XF,,Kestrel Bank,Utility Arrears,2163.5,540.67,21.27,2024-08-27,Open,None,N,N,Molly Y.
+DC100132,Kevin Tucker,1984-01-27,SK2A 9TB,Scotland,Vantage Home Finance,Personal Loan,1846.35,1196.46,9.36,2024-02-22,Open,None,N,Y,Malcolm R.
+DC100859,Benjamin Blackburn,1948-07-04,W5 2PE,Yorkshire,Northbridge Finance,Council Tax,13195.95,4389.66,,2026-01-14,Open,None,N,Y,Amelia P.
+DC101057,Elaine Khan,1964-01-25,DD6 7DG,Wales,Meridian Telecom,Catalogue Debt,2048.68,2048.68,28.42,05-02-2023,Open,None,N,Y,Elliot A.
+DC100813,Karen Bartlett,08/06/1996,M9 4ZW,South East,Yorkshire Utilities Group,Store Card,6197.63,1567.1,12.82,25-06-2024,In Arrangement,None,N,N,Jay M.
+DC100138,Gary Gordon,10/09/2008,S6W 2PD,South East,Hallgate Bank,Store Card,13219.86,11989.16,0.07,2025-07-15,Open,Bereavement,N,N,Barbara H.
+DC100033,Leigh Briggs,1962-01-19,E6K 4BS,South East,Leeds City Council,Mobile Phone Contract,10072.6,6684.21,17.83,2025-02-04,Closed,None,N,N,David R.
+DC100944,Tracy Ward,1995-11-12,N88 1WH,North West,Northbridge Finance,Utility Arrears,6975.04,4199.79,2.68,03-11-2025,In Arrangement,None,N,N,Garry L.
+DC100973,Eric Taylor,1974-05-16,CW26 0XP,Scotland,Aurora Credit Ltd,Overdraft,10030.91,5664.87,11.53,15/07/2024,In Arrangement,None,N,N,Gillian L.
+DC100831,Oliver White,27/09/2000,IV61 4UH,North East,Vantage Home Finance,Store Card,4027.31,279.55,12.74,2025-06-18,In Arrangement,None,N,N,Ronald T.
+DC100179,Ellie Butler,31/05/1943,L7D 4AH,Wales,Leeds City Council,Utility Arrears,3452.09,1606.48,26.21,03/01/2023,On Hold,None,N,Y,Karl H.
+DC100285,Jeremy Harris,1972-09-25,TS8E 1JQ,North East,Meridian Telecom,Personal Loan,8061.27,4830.18,24.34,2025-08-16,In Arrangement,None,N,N,Francis R.
+DC100247,BENJAMIN BURKE,2007-07-16,IG19 1AD,Wales,Meridian Telecom,Council Tax,12873.91,12873.91,14.88,27/03/2023,In Arrangement,None,N,N,Joe P.
+DC100938,Sophie Fletcher,1986-02-16,,Midlands,Aurora Credit Ltd,Utility Arrears,3500.9,3500.9,,2022-12-17,Open,None,N,N,Tina R.
+DC100404,Sheila Armstrong,1962-12-12,B67 3SN,Scotland,Vantage Home Finance,Overdraft,10910.65,10910.65,19.49,06/15/2025,Written Off,None,N,N,Lisa K.
+DC100996,Stanley Perkins,1972-10-22,L9S 5GH,Scotland,Aurora Credit Ltd,Personal Loan,2137.25,739.23,25.85,2025-05-27,On Hold,None,N,Y,Hannah T.
+DC100321,Irene Hodgson,1994-06-08,,,Kestrel Bank,Utility Arrears,2537.73,2537.73,1.23,2024-11-16,Open,None,N,Y,Leanne W.
+DC100143,Pamela Smith,1995-08-16,BS02 6UT,Wales,Vantage Home Finance,Catalogue Debt,14454.24,14454.24,20.65,2024-04-24,Open,None,N,N,Dennis C.
+DC100002,Mandy Payne,30/03/1954,S3H 0GS,London,Pinnacle Retail Finance,Personal Loan,13059.11,13059.11,,2025-04-07,Closed,None,N,N,Maurice W.
+DC100080,Diane Marshall,15-10-1971,,South East,Leeds City Council,Rent Arrears,14162.54,14162.54,24.38,2023-11-27,Written Off,Financial Hardship,N,Y,Beverley D.
+DC100976,Hilary McCarthy,1975-06-30,W53 7HP,London,Leeds City Council,Catalogue Debt,4583.28,4583.28,23.67,24-06-2023,On Hold,Mental Health,N,Y,Wayne H.
+DC100446,FRANCES BENTLEY,22/10/1966,DD99 9QN,South East,Kestrel Bank,Rent Arrears,1068.99,496.44,17.66,22/01/2023,closed,None,N,Y,Brett W.
+DC100424,Bethan Kaur,1967-06-14,G7 7DL,,Aurora Credit Ltd,Overdraft,6714.56,6393.9,13.28,2023-12-27,Disputed,None,N,Y,Brandon M.
+DC101002,Ruth Ward,1977-04-19,CH7 1PS,East Anglia,Hallgate Bank,Utility Arrears,13217.62,3007.2,12.15,2024-06-08,Open,None,N,,Derek C.
+DC101001,Jenna Jones,2006-10-05,IP7H 9YR,North West,Yorkshire Utilities Group,Utility Arrears,2827.35,1101.21,,2022-11-25,Closed,None,N,Y,Darren S.
+DC100765,Melanie Shepherd,20/01/1953,SL4W 5EL,Scotland,Meridian Telecom,Utility Arrears,2474.48,2474.48,13.86,21/05/2024,Open,None,N,N,Dawn A.
+DC101042,Howard Evans,02/03/1987,M70 7LG,North West,Hallgate Bank,Catalogue Debt,12496.77,8389.69,0.64,07/02/2024,Closed,None,N,N,Rhys D.
+DC100127,Carly Jarvis,14/09/1993,LS2E 7BN,South West,Summit Consumer Credit,Credit Card,6818.64,2741.54,10.75,16/07/2024,Disputed,Mental Health,N,N,Reece T.
+DC100471,Gerald Wood,1957-11-07,E0K 9EE,Yorkshire,Pinnacle Retail Finance,Council Tax,5362.71,5362.71,8.38,08/11/2022,Open,None,N,Y,Nicholas B.
+DC100464,Malcolm Lowe,1998-08-15,M44 1ZG,Wales,Aurora Credit Ltd,Catalogue Debt,5779.56,5779.56,8.78,23/10/2023,On Hold,None,N,N,Marie H.
+DC100387,John Morgan,1980-03-27,PH2N 3GU,South West,Meridian Telecom,Council Tax,6818.76,6818.76,10.14,05/06/2025,Written Off,None,N,N,George V.
+DC100426,Samuel Read,2002-10-03,WN2E 2BS,London,Hallgate Bank,Council Tax,1722.4,1722.4,,12/08/2024,In Arrangement,None,N,N,Mohammad G.
+DC100194,Ashleigh Nash,21/03/1967,B4 5LE,South East,Leeds City Council,Rent Arrears,5544.92,5544.92,20.99,2024-02-19,In Arrangement,None,N,Y,Wayne H.
+DC100913,James Fowler,1942-01-31,S7 2NN,South West,Kestrel Bank,Mobile Phone Contract,9666.45,9666.45,2.32,28/05/2026,Open,None,N,Y,Peter W.
+DC100572,Chloe Manning,10/30/1950,W4 7SE,Midlands,Northbridge Finance,Overdraft,10890.76,8558.08,18.34,15-08-2023,Disputed,None,N,Y,Olivia T.
+DC101038,Danielle Smith,1974-05-19,FK1Y 8ZY,East Anglia,Meridian Telecom,Overdraft,13678.55,13678.55,10.26,2025-01-13,Open,None,N,Y,Nicola J.
+DC101177,Abigail Williams,2000-03-26,W8 7ZH,Yorkshire,Kestrel Bank,Store Card,4421.81,4421.81,20.19,23-01-2024,Closed,None,N,N,Christine C.
+DC100839,Martyn Gordon,08-07-1943,WA9 6TY,,Aurora Credit Ltd,Utility Arrears,5943.79,5943.79,16.2,2024-10-04,Closed,None,N,Y,Denis B.
+DC100725,Eileen Perry,1981-11-10,N66 9JD,South West,Summit Consumer Credit,Personal Loan,14658.65,7329.4,17.56,2024-05-13,Open,None,N,Unknown,Mathew H.
+DC100394,Charlotte Moss,06/23/1976,BL5 9DA,,Pinnacle Retail Finance,Catalogue Debt,14982.5,14982.5,21.16,2025-06-20,Disputed,None,N,N,Gavin L.
+DC100600,Melanie Oliver,28/03/1956,KA78 0TF,Midlands,Yorkshire Utilities Group,Utility Arrears,11522.47,2287.33,2.4,2025-11-11,Open,None,N,Y,Mark E.
+DC101186,Wayne Smith,1982-02-17,LL3 2EJ,,Northbridge Finance,Mobile Phone Contract,5163.04,1100.26,,2024-02-28,Disputed,None,N,Y,Shaun H.
+DC100744,Rachel Brown,19/04/1954,KA84 3PS,Scotland,Yorkshire Utilities Group,Catalogue Debt,10296.68,8562.91,11.35,2026-02-08,Open,None,N,Unknown,Catherine L.
+DC100589,John Webb,1998-05-12,WD79 0UR,London,Vantage Home Finance,Rent Arrears,525.64,333.42,27.53,2024-05-30,In Arrangement,None,N,Y,Danielle L.
+DC100031,Kelly Stone,08/07/1996,,Scotland,Vantage Home Finance,Personal Loan,14130.84,11328.27,16.92,2026-02-18,Legal Action,None,N,N,Bruce H.
+DC100768,Annette Page,1981-08-22,L66 8XU,Wales,Hallgate Bank,Credit Card,14254.78,2846.97,0.54,2025-03-19,In Arrangement,None,N,Unknown,Stacey W.
+DC101074,Elliot Griffiths,1948-11-03,E87 2WB,East Anglia,Meridian Telecom,Rent Arrears,13135.31,13135.31,,2025-12-11,Open,None,N,Y,Pauline J.
+DC100993,Tony Mitchell,12/08/1981,N87 4LX,London,Yorkshire Utilities Group,Credit Card,10235.04,10235.04,24.41,2024-08-25,On Hold,None,N,Y,Frederick C.
+DC100357,Yvonne Austin,1964-05-23,DT9 7RY,Scotland,Yorkshire Utilities Group,Store Card,10941.61,10941.61,11.05,30/06/2026,Written Off,None,N,N,Christopher S.
+DC100650,Leonard Wong,16/08/1998,DL17 2WR,Wales,Kestrel Bank,Mobile Phone Contract,12919.9,6136.37,20.34,2026-07-07,Closed,None,N,N,Leah M.
+DC101131,KIRSTY BALL,31/01/1998,M0 2PH,Midlands,Northbridge Finance,Council Tax,6429.9,1090.13,17.68,07/28/2023,Open,None,N,N,Dawn M.
+DC100985,Marian Lyons,05/11/2006,N8F 7GW,North West,Yorkshire Utilities Group,Council Tax,9410.59,9410.59,6.87,2025-03-30,Open,None,N,Y,Hayley J.
+DC100435,Kim Kelly,14/04/1984,TQ1 4WX,,Kestrel Bank,Catalogue Debt,10194.92,3084.25,17.29,06/04/2025,Open,None,N,Y,Brandon P.
+DC100311,Leanne Macdonald,1974-08-23,S9 8GY,South West,Yorkshire Utilities Group,Personal Loan,11717.78,11717.78,14.48,18/10/2024,In Arrangement,Financial Hardship,N,Y,Kyle E.
+DC100059,Lesley Clark,01/03/1945,B2C 1JE,East Anglia,Summit Consumer Credit,Catalogue Debt,1125.38,815.88,18.1,2024-08-24,In Arrangement,None,N,N,Nicole M.
+DC100413,Daniel Thomas,09/06/2003,IV20 5QN,North West,Aurora Credit Ltd,Personal Loan,12662.66,6169.36,16.33,01/12/2023,Written Off,Bereavement,N,N,Damian T.
+DC100495,Robin Wright,21/08/1997,KW3H 6YJ,South East,Aurora Credit Ltd,Personal Loan,6903.9,6903.9,23.08,2023-10-25,Open,None,N,N,Marie H.
+DC100592,Jennifer Barnes,30/08/1955,PL7 4RS,South East,Kestrel Bank,Mobile Phone Contract,12810.75,4418.36,28.12,2026-04-13,Closed,None,N,N,Ellie R.
+DC100830,Valerie Joyce,1948-02-23,E31 0YL,Midlands,Hallgate Bank,Store Card,6858.32,2180.61,5.09,2022-12-01,Closed,None,N,Y,Shane C.
+DC100257,Brandon Khan,07/06/1951,LU5E 3YG,South East,Vantage Home Finance,Store Card,2978.77,1952.51,13.17,2026-06-09,Written Off,None,N,Y,Gemma P.
+DC100264,Joel Smith,1944-02-05,CV05 6DN,London,Aurora Credit Ltd,Utility Arrears,6728.62,445.65,22.8,17/12/2024,On Hold,None,N,Y,Irene J.
+DC100053,Phillip Evans,1958-04-16,M8A 1JS,Scotland,Vantage Home Finance,Overdraft,6009.43,6009.43,28.11,2023-10-26,Closed,None,N,Y,Wendy D.
+DC100590,Molly Hudson,2002-04-08,B80 9PX,,Leeds City Council,Store Card,13678.96,1151.67,29.77,13/02/2026,Open,None,N,Y,Philip P.
+DC100922,Adrian Thompson,24/06/1970,S7 8UF,North West,Vantage Home Finance,Rent Arrears,2102.85,1562.23,29.22,2026-07-12,Written Off,None,N,Y,Lorraine F.
+DC101060,Brian Andrews,16-07-1953,L51 9QY,East Anglia,Hallgate Bank,Credit Card,7492.91,495.89,16.2,2025-02-25,In Arrangement,None,N,Y,Edward N.
+DC100417,Nicole Ashton,23/08/1989,,North West,Pinnacle Retail Finance,Store Card,14705.56,11702.62,9.11,11-06-2023,Disputed,None,N,N,Derek M.
+DC100523,Danielle Ali,2003-05-06,G83 8ZW,Scotland,Northbridge Finance,Store Card,6995.17,6995.17,13.53,2023-05-12,Open,None,N,Unknown,Stacey E.
+DC100120,Glen Short,1951-08-16,G6B 7QA,London,Vantage Home Finance,Overdraft,11320.98,3252.39,16.16,2024-06-24,Open,None,N,N,Elizabeth M.
+DC100792,Samantha Jones,1977-02-19,KY5Y 0XZ,London,Kestrel Bank,Utility Arrears,2589.77,676.19,1.35,2025-10-16,In Arrangement,None,N,N,Joe H.
+DC101113,Rhys Curtis,1987-07-11,RH7 8PY,Midlands,Pinnacle Retail Finance,Overdraft,8398.42,,26.4,15-04-2026,Open,None,N,Y,Mohamed H.
+DC101172,Joyce Davison,1943-06-09,B1 9LN,Midlands,Pinnacle Retail Finance,Council Tax,8548.01,8548.01,24.38,2025-04-22,Open,None,N,N,Sharon S.
+DC101072,Karl Warren,02/12/1973,SM6A 2JD,South West,Summit Consumer Credit,Utility Arrears,4187.35,4187.35,4.51,26/01/2025,In Arrangement,Financial Hardship,N,N,Kim C.
+DC100467,Connor Barnett,1972-04-10,SW83 6UL,,Yorkshire Utilities Group,Store Card,4380.76,3795.14,29.39,2024-08-02,Closed,None,N,N,Jacob H.
+DC100203,Samuel Moore,01/08/1984,TQ6 0EL,Wales,Hallgate Bank,Rent Arrears,3318.3,2217.01,29.34,03/04/2025,Open,None,Y,N,Ross D.
+DC100588,Carl Hicks,01/01/1971,W9 3NY,East Anglia,Yorkshire Utilities Group,Utility Arrears,5875.12,5875.12,24.92,2024-08-15,Disputed,None,N,N,Deborah B.
+DC100148,Sophie Owen,18-12-1967,N84 6WT,East Anglia,Aurora Credit Ltd,Council Tax,973.27,973.27,0.08,2024-12-15,Open,None,N,Y,Georgina W.
+DC100829,Chloe Sharpe,1947-05-17,KW3M 6GZ,Scotland,Vantage Home Finance,Credit Card,1950.77,1950.77,5.04,2025-04-06,In Arrangement,None,N,Y,Martyn H.
+DC100193,Nicola Williams,10/12/1986,M3 1LF,,Leeds City Council,Rent Arrears,682.1,307.56,19.57,2025-04-23,Written Off,Elderly - Support Needed,N,Y,Jessica E.
+DC100158,Shannon Dixon,1978-12-09,L3 8JJ,Yorkshire,Hallgate Bank,Rent Arrears,2820.27,2820.27,17.46,14/10/2023,On Hold,None,N,Y,Lee S.
+DC100340,Maria Parkinson,1959-04-27,G6S 5YD,North East,Northbridge Finance,Credit Card,6541.54,556.43,19.72,2025-08-17,Closed,None,N,N,Georgia S.
+DC100331,Sally Sanders,1953-03-26,DG1 9BX,Scotland,Pinnacle Retail Finance,Utility Arrears,6988.3,6454.39,26.6,19-02-2025,On Hold,None,N,N,Bethany B.
+DC100027,Brett Vaughan,1984-01-17,LA8Y 8AE,South East,Leeds City Council,Overdraft,14199.02,13921.69,28.51,2023-09-30,In Arrangement,None,N,N,Keith H.
+DC100690,Wendy Thomson,1965-10-04,KW33 0QA,South East,Hallgate Bank,Utility Arrears,2163.64,1339.4,0.59,12/12/2022,Open,None,N,N,Amelia K.
+DC100007,Gary Kelly,2004-11-03,DN7 7FL,,Leeds City Council,Rent Arrears,13156.42,,4.57,26-02-2026,Open,Mental Health,N,N,Bradley S.
+DC101192,Natalie Walker,2001-01-15,M5 0UD,North East,Hallgate Bank,Store Card,410.8,410.8,13.06,02/19/2026,Open,None,N,Y,Jay F.
+DC101160,Liam Sullivan,1957-07-10,HX3M 0SB,,Kestrel Bank,Council Tax,4285.96,2227.64,,2025-09-03,Written Off,None,N,Y,Danny P.
+DC100870,Georgina Khan,07/03/1970,HU3 6BJ,Yorkshire,Summit Consumer Credit,Personal Loan,4251.12,241.42,20.04,2026-03-27,Closed,None,N,Y,Dale G.
+DC100236,Timothy Lawrence,1986-07-25,ML0A 3BU,North West,Aurora Credit Ltd,Catalogue Debt,1097.32,133.11,2.52,2023-03-05,Open,None,N,Y,Julie C.
+DC100549,Jade Phillips,1984-02-07,OL08 5TF,,Northbridge Finance,Rent Arrears,972.04,220.06,11.58,21-11-2025,Disputed,None,N,Y,Cameron H.
+DC101193,Dylan Woodward,03/01/1952,M00 8QA,East Anglia,Pinnacle Retail Finance,Rent Arrears,10866.27,8677.08,20.82,2026-08-10,Written Off,None,N,Y,Lucy A.
+DC100169,Kevin Doherty,06/21/1986,S4 3YD,Yorkshire,Summit Consumer Credit,Rent Arrears,8654.81,8654.81,20.26,2023-12-05,Closed,None,N,Y,Jordan D.
+DC100581,Jason Walker,14/03/1973,M38 4YB,South East,Kestrel Bank,Credit Card,12618.8,12618.8,16.9,21/04/2023,Disputed,None,N,Y,Lynn H.
+DC100731,George Thomson,08/12/1945,G9 1NX,Yorkshire,Pinnacle Retail Finance,Credit Card,8461.05,8461.05,0.36,2023-08-30,Open,None,N,Y,Valerie M.
+DC100708,Paula Barrett,1967-02-12,TR2 1RA,South East,Summit Consumer Credit,Store Card,6882.0,6882.0,9.43,2024-05-19,OPEN,None,N,N,Shannon D.
+DC100251,Kerry Smith,04/27/2008,S5 8UQ,,Meridian Telecom,Mobile Phone Contract,13551.9,6097.25,16.84,06/11/2024,Legal Action,None,N,N,Anna K.
+DC100362,Cameron Wong,,N21 1UZ,Yorkshire,Summit Consumer Credit,Utility Arrears,7704.76,5602.97,2.3,2023-07-08,In Arrangement,None,N,N,Thomas M.
+DC101076,Luke Adams,20-12-1974,N09 2PL,East Anglia,Hallgate Bank,Rent Arrears,935.14,935.14,18.62,2026-07-16,In arrangement,None,N,Y,Clive D.
+DC100522,Lydia Roberts,1959-03-08,CB8 2AF,Midlands,Yorkshire Utilities Group,Mobile Phone Contract,11443.25,7874.95,13.53,2025-06-15,Open,None,N,Y,Maureen W.
+DC100965,Norman Garner,1944-01-16,S42 8BZ,London,Pinnacle Retail Finance,Credit Card,6164.66,3840.42,7.24,2024-12-19,In Arrangement,,N,N,Tracey W.
+DC100788,Marc Alexander,08-02-1945,W3T 1LT,East Anglia,Yorkshire Utilities Group,Overdraft,1760.72,1221.34,28.72,2024-01-24,Open,None,N,Y,Ian K.
+DC101129,Elliot Gilbert,14-12-1984,PL86 2EB,South West,Hallgate Bank,Credit Card,9771.49,4289.35,6.16,2024-06-28,Written Off,None,N,N,Charlotte N.
+DC101085,Julie Hutchinson,1977-12-31,IG43 2UE,South East,Summit Consumer Credit,Overdraft,3545.2,3022.78,12.09,2025-09-18,Open,None,N,Y,Joanna R.
+DC100425,Ben Edwards,14/02/1949,RH51 8ZG,North West,Kestrel Bank,Utility Arrears,366.22,65.73,,2023-03-03,Open,Elderly - Support Needed,N,N,Gemma W.
+DC100956,Jill Weston,17/12/1947,SL1 0GP,,Hallgate Bank,Credit Card,2766.84,306.62,5.8,17/11/2025,Closed,None,N,N,Scott A.
+DC100050,Anna Gill,01-05-1964,BR8 0SU,South West,Leeds City Council,Credit Card,5480.54,3859.0,20.51,26/05/2024,Open,None,N,Y,Kenneth W.
+DC100797,Andrea Wright,1977-08-18,SM6X 9ED,London,Aurora Credit Ltd,Rent Arrears,2797.9,1601.18,13.23,2024-03-20,Open,None,N,N,Stuart A.
+DC100887,Samuel Harris,05-12-1950,L5 3RY,Midlands,Pinnacle Retail Finance,Catalogue Debt,8410.96,8410.96,14.82,14/01/2025,Legal Action,None,N,N,Ryan M.
+DC100507,Stewart Thompson,1958-05-27,TD0 5NT,East Anglia,Meridian Telecom,Utility Arrears,3741.19,3741.19,11.67,2024-08-13,In Arrangement,None,N,Y,Mohammed H.
+DC100521,Susan Parker,1960-07-22,L2 9GX,London,Aurora Credit Ltd,Personal Loan,10714.01,6931.86,1.8,2025-03-23,Open,None,Y,Y,Brandon C.
+DC100711,Rhys Baker,2004-04-06,,South East,Meridian Telecom,Overdraft,3402.16,3402.16,,2023-08-09,On Hold,None,N,N,Lorraine G.
+DC100142,Jemma Vaughan,1958-09-20,S9S 7XN,Midlands,Hallgate Bank,Mobile Phone Contract,9677.41,9677.41,18.78,2023-07-19,In Arrangement,None,N,Y,Jemma A.
+DC100764,Jamie Wilson,2005-10-05,N1 1BZ,South East,Vantage Home Finance,Council Tax,1748.97,1748.97,13.02,2023-10-29,Open,None,N,N,Derek W.
+DC100770,Aaron Wall,09-10-1944,M72 3HJ,,Leeds City Council,Credit Card,13507.48,13507.48,17.35,2024-02-02,Legal Action,None,N,N,William M.
+DC100186,Andrew Hill,1959-05-28,S2 1WF,North West,Hallgate Bank,Council Tax,12485.19,11175.32,23.26,20/07/2026,Open,None,N,,Cameron L.
+DC100615,Vanessa Ball,1990-10-06,B94 8DH,Yorkshire,Vantage Home Finance,Council Tax,1610.1,675.99,18.54,2025-04-02,Closed,None,N,N,Marian F.
+DC100359,Gemma Moore,1993-01-29,SL79 7EL,Wales,Hallgate Bank,Mobile Phone Contract,5657.88,180.73,3.94,08/09/2025,In Arrangement,None,N,N,Joseph C.
+DC101088,Duncan Taylor,1949-08-07,PO9 1DD,South East,Leeds City Council,Overdraft,430.08,430.08,14.01,2026-05-15,Written Off,None,Y,Y,Michael B.
+DC101154,Wayne Cox,04/02/2005,ME56 8QX,Yorkshire,Hallgate Bank,Store Card,9344.45,9344.45,,2024-12-04,In Arrangement,Mental Health,N,N,Kenneth F.
+DC100336,Julia Holland,16/04/1980,L0J 8XU,South West,Yorkshire Utilities Group,Personal Loan,4783.3,113.94,23.99,22/04/2024,In Arrangement,None,N,Y,Hilary R.
+DC100624,Gail Palmer,1964-08-14,M0C 4DR,Midlands,Yorkshire Utilities Group,Council Tax,1329.79,268.73,13.64,13-03-2025,Disputed,None,N,N,Amelia L.
+DC100755,Georgina Pritchard,1949-10-22,HG0 5JL,London,Northbridge Finance,Credit Card,2287.68,2287.68,28.51,29-03-2026,In Arrangement,None,N,N,Edward S.
+DC100679,Charlene Stephens,18/08/1998,BA9 6WJ,London,Kestrel Bank,Rent Arrears,6014.36,6014.36,14.02,10/08/2024,Open,None,N,Y,Stephanie F.
+DC100182,Ross Cox,28-10-1941,S4C 5JR,South West,Meridian Telecom,Overdraft,8707.74,7328.13,14.27,2024-11-20,Written Off,None,Y,N,Shirley L.
+DC100280,John Wilson,1982-02-02,SO4P 5TL,South East,Hallgate Bank,Credit Card,1870.16,1870.16,22.91,2026-06-01,Legal Action,Financial Hardship,N,Y,Charlie H.
+DC100078,MELANIE ALI,31/01/1987,E96 7YF,London,Vantage Home Finance,Overdraft,7803.33,7803.33,19.98,05-06-2023,Closed,None,N,Y,Dale H.
+DC101109,Deborah Jones,22/02/1959,IV24 3HU,Scotland,Hallgate Bank,Utility Arrears,883.14,131.28,22.16,2023-06-30,In Arrangement,None,N,Y,Lynda W.
+DC101145,Steven Booth,26-07-1961,UB3 3AA,Scotland,Leeds City Council,Credit Card,1406.87,12.6,19.68,06/09/2025,Open,Financial Hardship,N,Y,Robert D.
+DC101166,Stewart Lucas,03/07/1963,EX9 3ZF,,Pinnacle Retail Finance,Utility Arrears,4352.4,2915.36,18.43,2025-05-15,Open,None,N,N,Charlene H.
+DC100214,Leslie Porter,10/03/1979,NR81 4XQ,South East,Meridian Telecom,Store Card,3591.49,3591.49,26.36,2025-09-30,In Arrangement,None,Y,N,Joanna W.
+DC100479,Clifford Booth,2001-09-06,LU1 3FB,East Anglia,Hallgate Bank,Utility Arrears,7263.25,3660.96,0.63,11-03-2025,Written Off,None,N,Y,Alex P.
+DC100900,Natasha Mitchell,01/08/1942,L0H 5HN,North East,Vantage Home Finance,Personal Loan,2439.33,700.27,26.94,2026-04-04,Written Off,None,N,Y,Alexandra P.
+DC100302,Sarah Talbot,05/18/1999,YO2R 1ST,Yorkshire,Meridian Telecom,Store Card,6625.46,1033.25,16.01,03-03-2026,Written Off,None,N,Y,Jordan C.
+DC100329,Jennifer Palmer,1996-08-17,L26 2NQ,London,Kestrel Bank,Personal Loan,14334.07,14334.07,5.0,2022-11-04,In Arrangement,None,N,Y,Mark F.
+DC100928,Timothy Clarke,28/03/1976,HP99 9UH,South West,Northbridge Finance,Personal Loan,11806.26,1179.47,10.08,2025-03-31,OPEN,None,N,Unknown,Leslie H.
+DC100750,Lucy Yates,09/15/1948,KT88 2ZL,South West,Leeds City Council,Rent Arrears,7947.0,301.15,4.99,06-06-2024,Closed,None,N,Y,Bethan M.
+DC101021,MANDY BARKER,1940-10-08,CO5 9EU,North East,Yorkshire Utilities Group,Utility Arrears,3849.68,3849.68,13.85,02/08/2024,Open,None,N,N,Valerie M.
+DC100728,Tina Gibson,1943-12-26,DE58 7YF,,Kestrel Bank,Overdraft,2448.72,2448.72,,20-12-2023,Disputed,None,N,Y,Garry P.
+DC100244,Reece Khan,02/03/1993,G7 5SE,North East,Vantage Home Finance,Utility Arrears,1926.8,1926.8,2.68,23/02/2023,Open,None,N,Y,Paula E.
+DC100427,Katie Barber,1953-01-03,B94 7UU,East Anglia,Pinnacle Retail Finance,Overdraft,8112.3,76.81,29.07,2026-03-29,Open,Elderly - Support Needed,N,Y,Paige M.
+DC101037,Stuart Taylor,1959-10-11,ZE4 6LQ,South West,Meridian Telecom,Council Tax,5595.76,248.3,16.99,23/07/2025,Open,None,N,N,Jake B.
+DC101022,Alexandra Chapman,21-08-1955,L11 4ZE,South East,Aurora Credit Ltd,Overdraft,2688.89,2688.89,15.02,2023-03-25,In Arrangement,None,N,N,Frederick W.
+DC100448,Natalie Jones,,M5G 5PT,Yorkshire,Kestrel Bank,Store Card,12444.09,9823.2,8.94,2023-04-14,Written Off,None,N,Unknown,Holly H.
+DC100983,Iain Parkes,1989-05-26,LN7 2FF,Scotland,Meridian Telecom,Credit Card,13538.86,13538.86,24.06,2024-12-11,In Arrangement,None,N,N,Tina H.
+DC100654,Tom Pickering,1972-07-07,HD46 2TJ,Scotland,Aurora Credit Ltd,Store Card,10842.1,1352.71,5.04,04/28/2024,Open,None,N,N,Arthur B.
+DC100276,Kathleen Ahmed,1993-10-18,B2D 0JB,Yorkshire,Kestrel Bank,Council Tax,241.05,241.05,10.1,2024-10-10,In Arrangement,None,N,Unknown,Caroline B.
+DC101188,Melissa Edwards,1991-09-05,S2J 2BH,South West,Northbridge Finance,Utility Arrears,9389.83,9389.83,,2025-08-31,On Hold,None,N,N,Liam F.
+DC100885,Grace Henry,1948-02-23,,Yorkshire,Meridian Telecom,Utility Arrears,11713.18,8598.43,11.82,2024-09-15,In Arrangement,None,N,,Gail S.
+DC100136,Stanley King,1988-12-20,YO4 2QW,London,Yorkshire Utilities Group,Credit Card,5356.87,1549.45,15.92,16-11-2024,Open,None,N,Y,Francis O.
+DC100045,Scott Robinson,16/01/1977,B1S 2TG,South West,Yorkshire Utilities Group,Overdraft,5751.57,386.2,,2026-04-10,In arrangement,None,N,N,Adam S.
+DC100611,Lauren Woodward,1948-10-18,E5 0WF,North East,Hallgate Bank,Council Tax,13958.61,13958.61,5.08,2026-01-22,Closed,None,N,Y,Terence H.
+DC100876,Joan Cooper,1996-12-20,WF9 7AR,London,Hallgate Bank,Catalogue Debt,8414.65,5952.39,14.5,2023-01-19,Closed,None,N,Y,Jacqueline W.
+DC100867,Lynne Cooke,13-07-1988,N1 9ZD,Midlands,Kestrel Bank,Catalogue Debt,10864.98,,28.26,20/09/2025,In Arrangement,None,N,Y,Lynn J.
+DC100475,,1989-05-15,E9 7AU,South West,Vantage Home Finance,Catalogue Debt,14577.35,12164.53,0.11,2023-02-15,Closed,None,N,N,Kieran R.
+DC100051,Linda Woods,27/01/1997,DD84 7SY,Midlands,Aurora Credit Ltd,Credit Card,9603.78,3640.88,13.18,2025-06-29,In Arrangement,None,N,N,Max S.
+DC100601,Georgia Curtis,27/06/1946,S06 2YB,North East,Yorkshire Utilities Group,Personal Loan,7141.39,2236.78,9.52,2023-12-15,On Hold,None,N,Y,Julia R.
+DC100969,Irene Davis,2006-07-12,N1D 4NP,Midlands,Leeds City Council,Personal Loan,1206.14,160.56,17.09,2025-03-12,Open,None,N,Y,Alison D.
+DC100844,Lynne Williams,2000-04-14,L42 8HN,East Anglia,Yorkshire Utilities Group,Overdraft,1746.71,1746.71,25.29,15/11/2025,Open,None,N,Y,Stewart C.
+DC101170,,1969-04-25,RG79 7SR,London,Pinnacle Retail Finance,Store Card,6158.54,6158.54,20.05,06/10/2023,On Hold,None,N,N,Terry B.
+DC100598,Lindsey Williams,02/14/1975,G5 2EH,South West,Meridian Telecom,Store Card,8269.65,2050.5,7.55,04-08-2025,In Arrangement,None,N,Y,Jennifer M.
+DC101050,Julie Roberts,23/08/1958,N85 2PJ,Wales,Meridian Telecom,Credit Card,11326.63,10934.65,14.13,03/03/2024,Open,None,N,Y,Shannon J.
+DC100874,Stephanie Webb,17/04/1964,W4B 2WJ,Yorkshire,Leeds City Council,Council Tax,901.08,,28.15,2024-04-30,Open,None,N,N,Stewart C.
+DC100732,Mark Hunt,07/21/1969,CR7R 6AZ,,Summit Consumer Credit,Personal Loan,10010.94,10010.94,3.8,17/09/2024,Open,None,N,N,Karl W.
+DC100547,Tom Robertson,1979-03-29,DL51 8NS,Yorkshire,Kestrel Bank,Council Tax,9850.5,9532.58,21.94,19/10/2024,Open,Financial Hardship,N,N,Cheryl P.
+DC100620,Garry Patel,1997-01-03,L99 7WW,East Anglia,Leeds City Council,Credit Card,4010.99,2826.58,4.43,13/03/2023,Written Off,None,N,Y,Emma W.
+DC100476,David Begum,11/30/1985,HP6W 8UU,Scotland,Northbridge Finance,Utility Arrears,4551.0,4551.0,8.3,07/10/2023,Open,None,N,N,Amanda A.
+DC100292,Tom Williams,1987-06-04,HU32 0JJ,Wales,Vantage Home Finance,Catalogue Debt,3791.68,1400.41,27.02,03/31/2023,In Arrangement,None,N,Y,Wayne K.
+DC100110,Chloe Townsend,1970-10-17,,London,Meridian Telecom,Catalogue Debt,10137.1,10137.1,16.65,28/11/2023,Open,None,N,N,Bethany P.
+DC101102,Thomas Hooper,12/19/2006,L1T 3GP,Scotland,Yorkshire Utilities Group,Credit Card,8986.07,7495.25,16.21,10/02/2023,On Hold,None,N,N,Julian M.
+DC100915,Elizabeth Brown,1991-03-23,E96 9NP,Midlands,Hallgate Bank,Catalogue Debt,14366.45,7749.68,5.53,2024-11-04,In Arrangement,None,N,N,Diane L.
+DC100923,John Doyle,1970-05-03,FK8N 9GF,Scotland,Yorkshire Utilities Group,Mobile Phone Contract,11654.05,3915.9,15.67,2023-11-16,In Arrangement,None,N,Y,Gregory N.
+DC100897,Leonard Curtis,24/04/1947,BL9 4PR,South East,Hallgate Bank,Credit Card,8448.62,8448.62,8.17,2023-11-20,In Arrangement,Financial Hardship,N,N,Stanley R.
+DC100077,Geraldine Carr,1970-11-22,B5 4QQ,East Anglia,Summit Consumer Credit,Overdraft,227.98,227.98,8.61,2025-06-10,Legal Action,None,N,Y,Sharon L.
+DC100153,Carole Jones,1976-05-15,CT30 3AT,North West,Kestrel Bank,Store Card,3619.13,3619.13,12.15,19/07/2025,Written Off,None,N,Unknown,Terry F.
+DC101094,Olivia Brown,24/04/2001,N43 8AU,Scotland,Kestrel Bank,Utility Arrears,12780.49,5282.22,25.72,2024-05-10,Open,None,N,Y,Stanley H.
+DC100806,Timothy Griffiths,2003-10-09,M42 1UQ,Wales,Northbridge Finance,Council Tax,6256.2,6256.2,11.01,15/03/2023,In Arrangement,None,N,N,Gavin D.
+DC100665,Rosie Jones,10/10/1981,L8T 4HA,Wales,Hallgate Bank,Rent Arrears,9339.27,4696.41,26.79,26-05-2026,OPEN,None,N,N,Gareth W.
+DC100234,Zoe Weston,26/08/1996,CO4 0PS,North West,Meridian Telecom,Catalogue Debt,4376.44,2953.7,28.6,2023-09-26,Written Off,None,N,N,Abdul B.
+DC100910,GERALD COOK,19/05/1996,DT92 1ZZ,South East,Vantage Home Finance,Overdraft,12554.22,12554.22,2.23,2023-12-06,Closed,None,Y,N,Hugh C.
+DC101098,Graham Nelson,10/30/2002,,North West,Hallgate Bank,Utility Arrears,12551.69,10247.96,23.4,04-02-2026,Closed,None,N,Y,Karen C.
+DC100821,Brandon Taylor,21/12/1989,L5 0LB,Midlands,Vantage Home Finance,Overdraft,4377.82,4377.82,16.42,10/08/2023,Closed,None,N,Y,Jamie P.
+DC100407,Craig Clark,1968-11-05,N59 4GQ,Midlands,Leeds City Council,Store Card,12417.35,12417.35,17.51,2024-02-25,Closed,None,N,Y,Amber F.
+DC100101,Declan Dodd,1953-01-21,JE1E 1WH,Yorkshire,Northbridge Finance,Catalogue Debt,11851.22,9643.2,3.21,2023-04-13,On Hold,None,N,Y,Nicola B.
+DC100661,Mandy Johnston,30-09-1979,DL61 3UE,Scotland,Kestrel Bank,Mobile Phone Contract,3099.5,2818.86,11.86,2024-04-02,On Hold,None,N,Y,Hugh P.
+DC100465,,1995-08-28,EC7E 5DF,South East,Leeds City Council,Mobile Phone Contract,7026.4,2685.85,10.46,2023-09-29,Closed,None,N,Y,Marilyn M.
+DC100313,Billy Price,1949-10-16,WV8M 8HH,Scotland,Northbridge Finance,Overdraft,12876.06,,7.37,05/03/2024,In Arrangement,None,N,N,Rhys J.
+DC100210,Marian Thompson,07/11/1986,E2F 3NE,South East,Hallgate Bank,Store Card,2053.99,2053.99,19.72,09/11/2025,In Arrangement,Financial Hardship,N,Y,Justin P.
+DC100106,Beverley Mahmood,22-03-1968,CH6 5GZ,South West,Leeds City Council,Credit Card,6933.46,6533.14,17.29,2025-03-25,Written Off,None,N,Y,Kelly L.
+DC100990,Karl Hunter,2003-02-10,M03 3YY,North East,Yorkshire Utilities Group,Council Tax,4333.95,3230.0,23.01,2026-04-09,In Arrangement,Physical Health,N,Y,Lesley H.
+DC100632,Francesca Barnett,2004-07-22,FY18 7QW,Scotland,Aurora Credit Ltd,Store Card,1030.85,1030.85,22.42,2024-05-31,Disputed,None,N,N,Samuel Y.
+DC100131,Irene Doyle,1971-01-17,W57 5ZS,North West,Vantage Home Finance,Personal Loan,6826.19,6826.19,16.05,2025-07-13,Open,None,N,Y,Henry D.
+DC101168,Ashleigh Burke,1953-03-04,IG36 4YT,North East,Vantage Home Finance,Credit Card,1488.97,1488.97,5.36,2025-04-04,Closed,None,N,Y,Shannon C.
+DC100157,Hannah Summers,2005-08-20,BH4 5TL,,Summit Consumer Credit,Council Tax,13259.26,13259.26,23.98,2025-11-15,Closed,None,N,,Catherine S.
+DC100215,Luke Carter,1970-09-26,CF34 7LQ,Scotland,Meridian Telecom,Council Tax,5743.39,3569.41,10.55,2023-07-30,On Hold,None,N,N,Nicholas W.
+DC100429,Ricky Bibi,20/08/1978,G2 5BF,South East,Kestrel Bank,Catalogue Debt,712.91,54.6,23.53,2025-12-14,On Hold,None,Y,N,Ryan K.
+DC101101,Jason Cooper,,W92 4YB,Yorkshire,Meridian Telecom,Store Card,497.41,137.89,22.53,06/23/2023,In Arrangement,None,N,Y,Angela G.
+DC101043,Lorraine Brooks,1991-02-02,W15 9XJ,Wales,Aurora Credit Ltd,Rent Arrears,11520.15,11520.15,16.4,2025-09-02,Open,None,N,N,Elliott N.
+DC100753,Bryan Walters,1978-04-08,L4 2LF,Yorkshire,Aurora Credit Ltd,Utility Arrears,12730.54,12730.54,16.79,2023-05-23,Closed,None,N,N,Mathew W.
+DC100638,Margaret Alexander,12-09-1982,B7G 6ZZ,North West,Pinnacle Retail Finance,Mobile Phone Contract,8071.32,8071.32,19.68,01-05-2024,Open,None,N,Y,Oliver C.
+DC100092,Richard Clarke,1965-01-30,N0C 0FS,North West,Meridian Telecom,Utility Arrears,7499.18,882.36,21.75,2025-10-23,Closed,None,N,Y,Kerry C.
+DC100540,Jamie Pearce,1974-01-29,W7J 8BR,Wales,Yorkshire Utilities Group,Mobile Phone Contract,10887.52,7872.72,15.7,2024-11-21,Closed,None,N,Y,Marcus H.
+DC100574,Natasha Fuller,1979-01-09,B89 6DJ,Scotland,Summit Consumer Credit,Council Tax,12625.79,1716.99,23.41,26-04-2025,In Arrangement,None,N,N,Dawn D.
+DC100561,Stewart Sinclair,25/04/1946,G9S 5TU,London,Vantage Home Finance,Rent Arrears,2378.61,564.65,18.85,2023-05-04,OPEN,Elderly - Support Needed,N,N,Aaron S.
+DC101058,Julian Parsons,,SY18 0ZB,Yorkshire,Pinnacle Retail Finance,Mobile Phone Contract,14968.39,11985.16,,2023-01-15,In Arrangement,None,N,Y,Nicole H.
+DC100456,Marie North,1962-05-10,KY83 7FH,London,Vantage Home Finance,Mobile Phone Contract,2942.89,2060.88,21.8,21/03/2024,OPEN,None,N,N,Suzanne C.
+DC100980,Denise Johnson,1970-08-24,G4 2QS,South West,Pinnacle Retail Finance,Rent Arrears,1733.55,1733.55,11.71,2025-10-21,Legal Action,None,N,Y,Sylvia C.
+DC101075,Nathan Wilson,1997-05-16,TS1H 9QT,London,Northbridge Finance,Personal Loan,5660.39,4550.54,1.52,11/06/2023,Open,None,N,Unknown,Gareth W.
+DC100192,Amanda Barnes,1945-11-22,S5A 7UJ,South West,Meridian Telecom,Council Tax,4911.41,4911.41,,2025-02-02,Disputed,None,N,N,Susan F.
+DC100261,Gemma Parsons,1966-03-31,L2H 0NA,Wales,Leeds City Council,Credit Card,422.83,133.48,26.27,20/12/2025,Closed,,N,N,Stanley S.
+DC100733,Thomas Edwards,01-07-1988,B97 8JG,South East,Meridian Telecom,Credit Card,5521.58,5521.58,21.72,2025-08-28,Open,None,N,Y,Keith O.
+DC100068,David Moss,1977-08-14,N97 0HL,,Pinnacle Retail Finance,Utility Arrears,6816.24,516.98,14.02,2024-05-04,In Arrangement,None,N,N,Georgina C.
+DC100902,Aimee Clark,1964-10-10,E52 4TW,South East,Yorkshire Utilities Group,Catalogue Debt,4976.25,2262.61,,2023-01-12,Open,Financial Hardship,N,N,Ellie O.
+DC100652,Carole Brooks,1954-10-24,WN36 4SR,London,Meridian Telecom,Utility Arrears,2233.5,2233.5,11.69,24/03/2026,closed,,N,N,Alexandra F.
+DC100088,Abbie Gibson,30/12/1973,BD5 7TJ,Scotland,Vantage Home Finance,Rent Arrears,12712.12,9526.4,,27-04-2024,In Arrangement,None,N,N,Linda G.
+DC100697,PHILIP COOK,18/07/1980,TA1A 4AY,North West,Aurora Credit Ltd,Council Tax,2761.39,2761.39,9.61,2024-08-04,In Arrangement,,N,Y,Luke G.
+DC100675,Alex Davies,06/01/1945,G2 6WE,Wales,Kestrel Bank,Rent Arrears,14468.18,13709.54,20.91,2026-06-23,On Hold,None,N,Y,Toby S.
+DC100662,Alison Dawson,1961-06-09,NR2A 0GH,North East,Yorkshire Utilities Group,Council Tax,6721.66,6447.6,6.75,2023-05-24,In Arrangement,None,N,Y,Brian W.
+DC100206,Bethan Price,16/04/1945,CH0N 2JW,South West,Meridian Telecom,Store Card,2793.18,2793.18,12.95,23/11/2022,Legal Action,Mental Health,Y,N,Clive F.
+DC100447,Vanessa Law,1946-01-23,OL21 1TN,South East,Leeds City Council,Rent Arrears,4358.38,1102.41,3.69,05/03/2026,Legal Action,None,N,N,Lydia B.
+DC100350,Paige Hanson,1953-07-29,E8 6HP,East Anglia,Northbridge Finance,Store Card,2292.53,1890.98,20.92,2025-07-01,Closed,None,N,N,Michelle E.
+DC100208,Anne McCarthy,1988-08-23,TS1W 8GQ,Wales,Kestrel Bank,Personal Loan,14485.68,1924.58,,2023-07-12,OPEN,None,N,Y,Victor C.
+DC100484,Lydia Allen,1950-01-22,B92 1EL,Yorkshire,Kestrel Bank,Utility Arrears,9976.72,669.62,11.68,2025-12-30,In Arrangement,None,N,N,Patrick R.
+DC100906,Jeremy Shaw,21/11/1997,LU7X 9QX,London,Vantage Home Finance,Store Card,10700.52,10700.52,7.04,24/02/2026,Open,None,N,Y,Hayley H.
+DC100998,Stewart Shepherd,1964-10-15,HA69 6AR,Midlands,Aurora Credit Ltd,Personal Loan,12792.3,12234.44,4.54,2025-08-22,Legal Action,None,N,Y,William M.
+DC100028,Hollie Cooke,1977-10-27,G6C 4QB,East Anglia,Summit Consumer Credit,Credit Card,10235.26,10235.26,17.7,2025-12-28,Closed,None,N,Y,Sarah K.
+DC100914,Charlene Smith,1959-04-02,SA62 1DD,South West,Northbridge Finance,Catalogue Debt,6900.1,252.6,16.54,2023-03-16,In Arrangement,Financial Hardship,Y,Unknown,Leanne W.
+DC100726,Jamie Richardson,20/05/1968,N5 2JL,South West,Pinnacle Retail Finance,Council Tax,1516.93,1144.69,14.03,2024-01-05,In Arrangement,None,N,N,Mark G.
+DC100693,Margaret Grant,18-08-1990,WR1B 2LH,North East,Meridian Telecom,Overdraft,13909.2,13760.68,,2025-09-01,Closed,None,N,N,Patricia H.
+DC100392,Philip Slater,1977-05-16,,Wales,Yorkshire Utilities Group,Utility Arrears,9825.53,8591.73,29.46,28/03/2024,Closed,None,N,N,Jamie G.
+DC100462,Pauline Price,02-05-2002,KT5 4GB,Midlands,Hallgate Bank,Store Card,7468.83,938.44,29.84,20/12/2024,Closed,None,N,N,Annette P.
+DC101063,Gary Haynes,,DG60 0UY,South West,Hallgate Bank,Utility Arrears,9167.06,6871.79,2.86,29-08-2023,In Arrangement,None,N,Y,Nigel B.
+DC100848,Graham Holloway,1997-02-26,PH1 9UP,Yorkshire,Northbridge Finance,Credit Card,1912.07,1753.41,9.17,04/07/2025,In arrangement,None,N,N,Benjamin O.
+DC101047,Stacey Nixon,1949-10-08,TW4W 5JT,North East,Leeds City Council,Utility Arrears,3948.03,263.33,0.42,2024-03-25,Open,None,N,N,Simon S.
+DC100943,,1976-04-15,WA2A 2XY,Midlands,Summit Consumer Credit,Personal Loan,10477.47,9395.82,26.5,21-12-2025,Open,Financial Hardship,N,Y,Rhys T.
+DC100672,Ronald Bull,30/12/1981,S2 0LF,North East,Yorkshire Utilities Group,Overdraft,10080.27,10080.27,,01/06/2023,Open,Elderly - Support Needed,N,,Chloe E.
+DC101006,Darren Johnston,23-07-1975,BD85 4YP,Wales,Leeds City Council,Personal Loan,11288.13,11288.13,,14/10/2022,Closed,None,N,Y,Ashleigh R.
+DC100862,Steven Cook,1987-02-14,RM8R 3YU,,Aurora Credit Ltd,Personal Loan,6986.12,3726.73,12.04,22-06-2026,Open,None,N,Y,Donna P.
+DC100091,Donald Mills,1950-10-03,M2 8LG,South East,Yorkshire Utilities Group,Utility Arrears,3836.81,3836.81,15.39,2026-04-01,Closed,None,N,Y,Jamie B.
+DC100648,Shane Charlton,01/16/1966,S1B 2HH,Wales,Hallgate Bank,Personal Loan,5158.23,5158.23,10.24,2023-05-24,Written Off,None,N,Y,Stacey O.
+DC100497,Alison Hughes,1946-05-16,SS6H 5NJ,North West,Yorkshire Utilities Group,Overdraft,267.95,267.95,20.01,09/02/2025,Open,None,N,N,Eileen W.
+DC100095,Malcolm White,1983-10-09,IM9 7WZ,,Vantage Home Finance,Council Tax,13496.69,1726.24,17.45,13-11-2024,In Arrangement,None,N,N,Sharon G.
+DC100931,Zoe Saunders,1946-01-15,G42 8TU,East Anglia,Vantage Home Finance,Utility Arrears,9458.89,852.65,10.74,2025-02-03,In arrangement,None,N,Y,Annette P.
+DC100623,Mary Hunt,1978-06-22,WA94 0BU,,Northbridge Finance,Rent Arrears,10972.11,10972.11,22.17,19/11/2022,Disputed,None,N,Y,Abdul A.
+DC100895,Jordan Ford,2003-05-02,RG76 7FG,Midlands,Kestrel Bank,Catalogue Debt,947.43,289.16,22.78,2026-06-11,Open,None,N,Unknown,Joan B.
+DC101048,Dean King,05/05/1959,DT3H 3FA,Wales,Meridian Telecom,Store Card,7958.73,7169.09,5.08,2024-08-28,Open,None,N,Y,Bryan S.
+DC100563,Daniel Preston,1984-09-22,W3 2BR,Wales,Yorkshire Utilities Group,Overdraft,3570.7,3570.7,19.91,2025-03-05,Legal Action,,N,N,Marian M.
