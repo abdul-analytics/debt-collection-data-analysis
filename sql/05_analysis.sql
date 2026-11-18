@@ -226,9 +226,11 @@ WHERE rn = 1;
 
 -- Q7: open Critical/High flags with contact continuing after the flag was raised
 -- join on two conditions: same account and contact after the flag date
+-- open = anything not Resolved or Closed - No Action (Open, Escalated, Under Review)
 SELECT f.account_id,
        f.flag_type,
        f.severity,
+       f.resolution_status,
        f.date_raised,
        COUNT(c.comm_id)                               AS contacts_after_flag,
        MAX(c.comm_date)                               AS latest_contact,
@@ -238,8 +240,8 @@ JOIN communications_clean c
      ON c.account_id = f.account_id
     AND c.comm_date > f.date_raised
 WHERE f.severity IN ('Critical', 'High')
-  AND f.resolution_status NOT IN ('Resolved', 'Closed')
-GROUP BY f.account_id, f.flag_type, f.severity, f.date_raised
+  AND f.resolution_status NOT IN ('Resolved', 'Closed - No Action')
+GROUP BY f.account_id, f.flag_type, f.severity, f.resolution_status, f.date_raised
 ORDER BY contacts_after_flag DESC;
 
 
