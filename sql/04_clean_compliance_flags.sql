@@ -30,10 +30,13 @@ SELECT DISTINCT
     END AS severity,
 
     CASE
-        WHEN UPPER(TRIM(resolution_status)) = 'OPEN'        THEN 'Open'
-        WHEN UPPER(TRIM(resolution_status)) = 'IN PROGRESS' THEN 'In Progress'
-        WHEN UPPER(TRIM(resolution_status)) = 'RESOLVED'    THEN 'Resolved'
-        WHEN UPPER(TRIM(resolution_status)) = 'CLOSED'      THEN 'Closed'
+        WHEN UPPER(TRIM(resolution_status)) = 'OPEN'               THEN 'Open'
+        WHEN UPPER(TRIM(resolution_status)) = 'IN PROGRESS'        THEN 'In Progress'
+        WHEN UPPER(TRIM(resolution_status)) = 'RESOLVED'           THEN 'Resolved'
+        WHEN UPPER(TRIM(resolution_status)) = 'CLOSED'             THEN 'Closed'
+        WHEN UPPER(TRIM(resolution_status)) = 'ESCALATED'          THEN 'Escalated'
+        WHEN UPPER(TRIM(resolution_status)) = 'UNDER REVIEW'       THEN 'Under Review'
+        WHEN UPPER(TRIM(resolution_status)) = 'CLOSED - NO ACTION' THEN 'Closed - No Action'
         ELSE 'Unknown'
     END AS resolution_status,
 
@@ -110,6 +113,6 @@ WHERE date_raised > CAST(GETDATE() AS date);
 SELECT severity, resolution_status, reviewed_by_qa, COUNT(*) AS n
 FROM compliance_flags_clean
 WHERE severity IN ('Critical', 'High')
-  AND resolution_status NOT IN ('Resolved', 'Closed')
+  AND resolution_status NOT IN ('Resolved', 'Closed - No Action')
 GROUP BY severity, resolution_status, reviewed_by_qa
 ORDER BY severity, n DESC;
