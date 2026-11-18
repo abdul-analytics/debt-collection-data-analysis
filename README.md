@@ -49,6 +49,7 @@ Each table was cleaned in SQL Server into a new `_clean` table. The raw tables w
 - Fixed mixed dates and inconsistent severity casing
 - Standardised resolution status, and changed QA review from Y/N to Yes/No to match the other tables
 - Added a check for Critical and High flags that are still open and not yet reviewed by QA
+- Resolution status was first mapped without three values (Escalated, Under Review, Closed - No Action), which sent 176 flags to Unknown. Found while checking Q7, fixed and re-run
 
 **Assumptions**
 
@@ -409,9 +410,11 @@ This is the question closest to my day job. If an account has an open Critical o
 
 ```sql
 -- Q7: open Critical/High flags with contact continuing after the flag was raised
+-- open = anything not Resolved or Closed - No Action (Open, Escalated, Under Review)
 SELECT f.account_id,
        f.flag_type,
        f.severity,
+       f.resolution_status,
        f.date_raised,
        COUNT(c.comm_id)                               AS contacts_after_flag,
        MAX(c.comm_date)                               AS latest_contact,
@@ -421,30 +424,32 @@ JOIN communications_clean c
      ON c.account_id = f.account_id
     AND c.comm_date > f.date_raised
 WHERE f.severity IN ('Critical', 'High')
-  AND f.resolution_status NOT IN ('Resolved', 'Closed')
-GROUP BY f.account_id, f.flag_type, f.severity, f.date_raised
+  AND f.resolution_status NOT IN ('Resolved', 'Closed - No Action')
+GROUP BY f.account_id, f.flag_type, f.severity, f.resolution_status, f.date_raised
 ORDER BY contacts_after_flag DESC;
 ```
 
 The join has two conditions, the same account and a contact date after the flag was raised, so it only picks up contacts that happened after the flag.
 
-**What I found:** 41 accounts with an open Critical or High flag were contacted again after the flag was raised, 89 contacts in total. 12 of these flags were Critical.
+**What I found:** 30 accounts with an open Critical or High flag were contacted again after the flag was raised, 66 contacts in total. 9 of these flags were Critical. Of the 30, 13 were Under Review, 9 had been Escalated and 8 were Open.
 
 | Flag type | Accounts |
 |---|---|
-| Consumer Duty - Unfair Outcome Risk | 8 |
-| Vulnerable Customer Not Escalated | 5 |
-| Harassment Complaint | 5 |
+| Consumer Duty - Unfair Outcome Risk | 5 |
 | Affordability Not Assessed | 5 |
-| Incorrect Balance Quoted | 5 |
-| Data Breach Risk | 5 |
-| Third Party Disclosure Risk | 4 |
+| Incorrect Balance Quoted | 4 |
+| Vulnerable Customer Not Escalated | 4 |
 | Missed DSAR Deadline | 3 |
+| Third Party Disclosure Risk | 3 |
+| Harassment Complaint | 3 |
+| Data Breach Risk | 2 |
 | Recording Consent Missing | 1 |
 
-The worst one was DC100388, a vulnerable customer who wasn't escalated and was contacted 9 more times over 335 days while the flag was still open. 13 flags had been open for over a year by the latest contact, the longest being a data breach risk on DC100459 at 705 days.
+The worst one was DC100388, a vulnerable customer who wasn't escalated and was contacted 9 more times over 335 days while the flag was still open, even though the flag itself had been escalated. 11 flags had been open for over a year by the latest contact, the longest being an incorrect balance quoted on DC100591 at 676 days.
 
 A lot of these flags (harassment, vulnerability not escalated, affordability not assessed) are about how the customer is being contacted, so continuing to contact them could make things worse. In my current role I'd find these by sampling calls; here I could check every account at once.
+
+**Note:** my first run of this query showed 41 accounts. While checking the results, I found the cleaning script had missed three resolution statuses (Escalated, Under Review, Closed - No Action), so 176 flags were marked as Unknown and "Closed - No Action" flags were being counted as open. I fixed the mapping in `04_clean_compliance_flags.sql` and re-ran Q7.
 
 ---
 
@@ -462,11 +467,11 @@ A lot of these flags (harassment, vulnerability not escalated, affordability not
 - **Vulnerable customers:** they got slightly fewer compliant calls (81.6% vs 85.5%) and no sign of extra care. 97 customers said they were vulnerable but were never flagged.
 - **Script compliance:** 85.0% overall, but more calls had no result recorded than actually failed. Vantage Home Finance and Yorkshire were lowest.
 - **Trend:** collections grew to around £10k a month, and January to September 2026 is 8.9% up on the same period in 2025.
-- **Risk:** 41 accounts with open Critical or High flags were contacted 89 more times after the flag was raised.
+- **Risk:** 30 accounts with open Critical or High flags were contacted 66 more times after the flag was raised.
 
 ### What I'd recommend
 
-1. Stop contact on accounts with open Critical or High flags until they've been reviewed, starting with the 41 from Q7.
+1. Stop contact on accounts with open Critical or High flags until they've been reviewed, starting with the 30 from Q7.
 2. Update the vulnerability flag whenever a customer confirms they're vulnerable on a call, and review the 97 accounts from Q3.
 3. Make the script result a required field so every call's compliance can be shown, and focus QA checks on Yorkshire and Vantage Home Finance.
 4. Make a plan to contact the 1,043 accounts with nothing in the last 90 days, starting with the 242 never contacted, and try different channels as so many calls aren't reaching people.
